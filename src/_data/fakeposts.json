@@ -1,0 +1,32 @@
+[
+  {
+    "title": "This is my first fake post.",
+    "date": "2020-06-28",
+    "url": "",
+    "author": "Joe Bloggs",
+    "category": "Article",
+    "tags": ["POC", "Community"],
+    "img": "https://cdn.dribbble.com/users/432807/screenshots/11891842/media/891f2dd1b95611f0630b572209eae64b.jpg",
+    "color": "green"
+  },
+  {
+    "title": "This is an interview.",
+    "date": "2020-06-29",
+    "url": "",
+    "author": "Joe Bloggs",
+    "category": "Interview",
+    "tags": ["POC", "Community"],
+    "img": "https://cdn.dribbble.com/users/432807/screenshots/11891842/media/891f2dd1b95611f0630b572209eae64b.jpg",
+    "color": "purple"
+  },
+  {
+    "title": "This is some artwork.",
+    "date": "2020-06-30",
+    "url": "",
+    "author": "Joe Bloggs",
+    "category": "Art",
+    "tags": ["POC", "Community"],
+    "img": "https://cdn.dribbble.com/users/432807/screenshots/11891842/media/891f2dd1b95611f0630b572209eae64b.jpg",
+    "color": "yellow"
+  }
+]

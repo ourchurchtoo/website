@@ -1,0 +1,15 @@
+.social {
+  li {
+    display: inline-block;
+
+    &:not(:last-child)::after {
+      content: ' /';
+    }
+  }
+
+  a {
+    &:hover {
+      color: palette(yellow);
+    }
+  }
+}

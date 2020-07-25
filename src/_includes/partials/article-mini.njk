@@ -1,0 +1,21 @@
+<div class='col col-xs-12 col-md-4'>
+  <a class='article-mini article-mini--{{ item.color }}'>
+    <img src='{{ item.img }}' />
+    <div class='item__text'>
+      {# <p class='item__date'>{{ item.date | readableDate }}</p> #}
+      <p class='item__info'>
+        <span class='item__category__wrapper'>
+          <span class='item__category'>{{ item.category }} /</span>
+        </span>
+        <span class='item__tags'>
+          {% for tag in item.tags %}
+            {{ tag }}{% if loop.last !== true %},{% endif %}
+          {% endfor %}
+        </span>
+      </p>
+      <h2 class='item__title'>{{ item.title }}</h2>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...</p>
+      <h4 class='item__info--sub'><span class='item__author'>By {{ item.author }}</span>, <span class='item__time'>A X minute read</span></h4>
+    </div>
+  </a>
+</div>

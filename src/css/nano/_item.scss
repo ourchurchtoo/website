@@ -1,0 +1,13 @@
+%item-nano {
+  display: block;
+  padding: 40px 0;
+
+  .item__title {
+    margin-top: 10px;
+  }
+
+  .item__info--sub {
+    @extend %font-sans-upper;
+    @extend %font--bold;
+  }
+}

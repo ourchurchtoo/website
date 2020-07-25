@@ -1,0 +1,41 @@
+---
+layout: layouts/base.njk
+
+title: Contributors
+
+menukey: contributors
+permalink: /contributors/index.html
+---
+<div class='container container-fluid'>
+  <div class='section section--intro'>
+    <div class='row'>
+      <div class='col-xs-6'>
+      </div>
+      <div class='col-xs-6'>
+        <h2>Our Church Too lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...</h2>
+      </div>
+    </div>
+  </div>
+  <div class='section section--contributors'>
+    <div class='container-fluid'>
+      <div class='row'>
+        <div class='col-xs-12 text-center'><h1>Team</h1></div>
+        {% for person in collections.team | reverse %}
+          {% include 'partials/contributor.njk' %}
+        {% endfor %}
+      </div>
+      <div class='row'>
+      <div class='col-xs-12 text-center'><h1>Contributors</h1></div>
+        {% for person in collections.contributor | reverse %}
+          {% include 'partials/contributor.njk' %}
+        {% endfor %}
+      </div>
+      <div class='row'>
+      <div class='col-xs-12 text-center'><h1>Artists</h1></div>
+        {% for person in collections.artist | reverse %}
+          {% include 'partials/contributor.njk' %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

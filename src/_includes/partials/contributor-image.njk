@@ -1,0 +1,9 @@
+{% if image %}
+  <div class='contributor__image'>
+    <img src='{{ image }}'>
+  </div>
+{% else %}
+  <div class='contributor__image contributor__image--placeholder'>
+    <i class='fal fa-user'></i>
+  </div>
+{% endif %}

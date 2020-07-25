@@ -1,0 +1,58 @@
+body {
+  font-family: sans-serif;
+}
+
+%font-sans {
+  font-family: $sans !important;
+  font-display: swap;
+}
+
+%font-sans-upper {
+  @extend %font-sans;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+%font-serif {
+  font-family: $serif;
+  font-display: swap;
+}
+
+@include header-style() {
+  @extend %font-serif;
+  // @include color-schemes(color, palette(black), palette(white));
+  font-weight: 400;
+}
+
+@include paragraph-style() {
+  @extend %font-sans;
+  // @include color-schemes(color, palette(black), palette(white));
+}
+
+h4 {
+  @extend %font-sans-upper;
+  @extend %font--bold;
+}
+
+a {
+  text-decoration: none;
+  color: palette(black);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.font--bold,
+%font--bold {
+  font-weight: 700;
+}

@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+
+title: Archive
+
+menukey: archive
+permalink: /archive/index.html
+---
+<div class='container container-fluid'>
+  <div class='section section--articles'>
+    <div class='row'>
+      {% for item in fakeposts | reverse %}
+        {% include 'partials/article-mini.njk' %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

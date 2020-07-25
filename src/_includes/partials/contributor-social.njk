@@ -1,0 +1,6 @@
+{% if instagram or twitter %}
+  <ul class='item__social'>
+    {% if instagram %}<li><a href='{{ instagram }}' target='_blank'><i class='fab fa-instagram'></i></a></li>{% endif %}
+    {% if twitter %}<li><a href='{{ twitter }}' target='_blank'><i class='fab fa-twitter'></i></a></li>{% endif %}
+  </ul>
+{% endif %}

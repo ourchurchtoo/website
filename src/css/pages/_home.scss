@@ -1,0 +1,11 @@
+.page--home {
+  .section--hero {
+    @include background-wide(palette(blue));
+  }
+
+  .section--articles {
+    .btn {
+      margin-top: $section-margin;
+    }
+  }
+}

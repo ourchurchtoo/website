@@ -1,0 +1,45 @@
+.item__social {
+  font-size: 24px;
+}
+
+.contributor-mini,
+.contributor-wide {
+  .contributor__image,
+  img {
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+  }
+}
+
+.contributor-mini {
+  @extend %item-nano;
+  @include transition(background-color);
+  text-align: center;
+
+  &:hover {
+    background-color: palette(blue);
+  }
+
+  .item__social {
+    a {
+      @include transition(color);
+
+      &:hover {
+        color: palette(white);
+      }
+    }
+  }
+}
+
+.contributor__image--placeholder {
+  position: relative;
+  padding-top: 200px;
+  background-color: palette(grey);
+
+  .svg-inline--fa {
+    @include center(both);
+    color: palette(white);
+    font-size: 100px;
+  }
+}

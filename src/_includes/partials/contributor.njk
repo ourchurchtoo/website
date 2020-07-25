@@ -1,0 +1,17 @@
+<div class='col col-xs-12 col-md-4'>
+  <div class='contributor-mini' href='{{ person.url }}' >
+    <a href='{{ person.url }}'>
+      {% set image = person.data.image %}
+      {% include 'partials/contributor-image.njk' %}
+    </a>
+    <div class='item__text'>
+      <a href='{{ person.url }}'>
+        <h2 class='item__title'>{{ person.data.title }}</h2>
+        <h4 class='item__info--sub'>{{ person.data.role }}</h4>
+      </a>
+      {% set instagram = person.data.instagram %}
+      {% set twitter = person.data.twitter %}
+      {% include 'partials/contributor-social.njk' %}
+    </div>
+  </div>
+</div>

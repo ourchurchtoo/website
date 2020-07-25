@@ -1,0 +1,36 @@
+---
+layout: layouts/base.njk
+
+title: Home
+
+menukey: home
+permalink: /index.html
+---
+<div class='section section--hero'>
+  <div class='container-fluid'>
+    <div class='row'>
+      <div class='col col-xs-12 col-md-6 col--text'>
+        <h1><span>Our Church Too</span> is a collaborative sharing stories of experiences of minorities within churches around the world.</h1>
+        {% include 'partials/social.njk' %}
+      </div>
+      <div class='col col-xs-12 col-md-6 col--image'>
+        <img src='https://cdn.dribbble.com/users/371094/screenshots/5485398/ch.jpg' />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='section section--articles'>
+  {% for item in fakeposts | reverse | limitTo(3) %}
+    {% include 'partials/article-item.njk' %}
+  {% endfor %}
+  <div class='container-fluid'>
+    <div class='row center-xs'>
+      <div class='col-xs-12 col-md-6 text-center'>
+        <a href='/archive/' class='btn btn--primary btn--wide'>
+          <span>Read more</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

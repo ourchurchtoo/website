@@ -1,0 +1,36 @@
+<div class='section section--footer'>
+  <div class='container-fluid'>
+    <div class='row'>
+      <div class='col-xs-12 col-md-4'>
+        <p>Social</p>
+        {% include 'partials/social.njk' %}
+      </div>
+      <div class='col-xs-12 col-md-8'>
+        <div class='footer__newsletter'>
+          <p>Stay up to date with all the latest.</p>
+          <form>
+            <input type='email' required placeholder='Your email address' />
+            <button type='submit' class='btn btn--primary btn--float'>Sign up</button>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='col-xs-12 col-md-4'>
+        <p>&copy; {{ a | currentYear }} Our Church Too</p>
+      </div>
+      <div class='col-xs-12 col-md-4'>
+        <p>
+          <ul class='legal-links'>
+            <li><a>about</a></li>
+            <li><a>contact</a></li>
+            <li><a>legal</a></li>
+          </ul>
+        </p>
+      </div>
+      <div class='col-xs-12 col-md-4'>
+        <p>We don't track you</p>
+      </div>
+    </div>
+  </div>
+</div>

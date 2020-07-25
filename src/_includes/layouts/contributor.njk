@@ -1,0 +1,24 @@
+---
+layout: /layouts/base.njk
+---
+<div class='container container-fluid'>
+  <div class='section section--contributor'>
+    <div class='contributor-wide'>
+      <div class='row'>
+        <div class='col-xs-12 col-md-4'>
+          {% include 'partials/contributor-image.njk' %}
+        </div>
+        <div class='col-xs-12 col-md-8'>
+          <div class='contributor-wide__text'>
+            <h1>{{ title }}</h1>
+            <div class='flex-spread'>
+              <h4>{{ role }}</h4>
+              {% include 'partials/contributor-social.njk' %}
+            </div>
+            {{ content | safe }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

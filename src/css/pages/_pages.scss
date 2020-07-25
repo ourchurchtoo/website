@@ -1,0 +1,3 @@
+.page__container {
+  min-height: calc(100vh - (#{$menu-height-md} + #{$footer-height-md}));
+}

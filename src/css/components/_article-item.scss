@@ -1,0 +1,83 @@
+$colors: purple, pink, yellow, blue, green;
+
+.article__wrapper {
+  position: relative;
+}
+
+.article-item,
+.article-mini {
+  @extend %item-nano;
+
+  .col--text {
+    position: relative;
+
+    .item__text {
+      @include breakpoint(md) {
+        @include center(vertical);
+        margin-left: 40px;
+      }
+    }
+
+    .item__title {
+      @include breakpoint(md) {
+        font-size: 36px;
+      }
+    }
+  }
+
+  .item__category__wrapper {
+    height: 0;
+  }
+
+  .item__category {
+    display: inline-block;
+    max-width: 7rem;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .item__tags {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .item__category,
+  .item__tags {
+    backface-visibility: hidden;
+    transform: translate3d(0, 0, 0);
+    transition: all 0.25s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  &:hover {
+    .item__category {
+      max-width: 0;
+      opacity: 0;
+    }
+  }
+}
+
+
+.article-item {
+  @each $color in $colors {
+    &.article-item--#{$color} {
+      @include background-wide-hover(palette($color));
+    }
+  }
+}
+
+.article-mini {
+  margin: 15px 0 0;
+  padding: 10px;
+
+  @include breakpoint(md) {
+    margin: 40px 0;
+    padding: 20px 20px 40px;
+  }
+
+  @each $color in $colors {
+    &.article-mini--#{$color} {
+      @include background-hover(palette($color));
+    }
+  }
+}

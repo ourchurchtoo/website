@@ -1,0 +1,26 @@
+.btn {
+  @include transition((color, background-color));
+  @extend %font-sans-upper;
+  display: block;
+  padding: 16px;
+  border: 1px solid palette(black);
+  background-color: palette(blue);
+  color: text-contrast(palette(blue));
+  font-weight: 500;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: palette(purple);
+    color: text-contrast(palette(purple));
+  }
+}
+
+.btn--wide {
+  width: 100%;
+}
+
+.btn--float {
+  position: absolute;
+  top: 0;
+  right: 0;
+}

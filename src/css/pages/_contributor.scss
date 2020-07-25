@@ -1,0 +1,26 @@
+.section--contributor {
+  .contributor-wide {
+    position: relative;
+
+    .contributor__image {
+      margin-top: 40px;
+
+      @include breakpoint(md) {
+        @include center(vertical);
+        margin: 0;
+      }
+    }
+
+    .flex-spread {
+      max-width: 200px;
+
+      h4 {
+        margin: 6px 0;
+      }
+    }
+
+    .contributor-wide__text {
+      min-height: 200px;
+    }
+  }
+}

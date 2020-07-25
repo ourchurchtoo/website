@@ -1,0 +1,71 @@
+$footer-height-md: 223px;
+
+.section--footer {
+  overflow-x: hidden;
+  border-top: 3px solid palette(pink);
+  text-align: center;
+
+  .row {
+    position: relative;
+    padding: 20px 0;
+
+    &:last-child {
+      &::before,
+      &::after {
+        @include pseudo();
+        left: -55%;
+        width: 200vw;
+        height: 3px;
+      }
+
+      &::before {
+        top: 0;
+        background-color: palette(purple);
+      }
+
+      &::after {
+        bottom: 0;
+        height: 7px;
+        background-color: palette(green);
+      }
+    }
+  }
+
+  p,
+  li,
+  a {
+    @extend %font-sans-upper;
+    font-weight: 500;
+  }
+
+  p {
+    font-weight: 700;
+  }
+
+  .legal-links {
+    li {
+      display: inline-block;
+      margin: 0 10px;
+    }
+  }
+
+  .footer__newsletter {
+    text-align: left;
+
+    form {
+      position: relative;
+    }
+
+    input {
+      @extend %font-sans;
+      width: 100%;
+      padding: 15px 150px 14px 15px;
+      border: 1px solid palette(black);
+    }
+
+    .btn {
+      position: absolute;
+      right: 0;
+    }
+  }
+}
