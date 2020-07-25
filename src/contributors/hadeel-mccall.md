@@ -1,11 +1,13 @@
 ---
 layout: layouts/contributor.njk
-title: Erin Iwata
+title: Hadeel McCall
 
-permalink: /by/erin-iwata.html
+permalink: /by/hadeel-mccall.html
 # image: /img/contributors/erin-iwata.jpg
 
+role: Artist
+
 tags:
-- team
+- artist
 ---
-Erin ...
+Hadeel ...

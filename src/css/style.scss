@@ -3,6 +3,7 @@
 @import 'utilities', 'variables', 'grid', 'colors', 'fonts', 'typography';
 
 @mixin background-wide($color) {
+  position: relative;
   color: text-contrast($color);
 
   &::before {
@@ -28,6 +29,8 @@
 }
 
 @mixin background-wide-hover($color) {
+  position: relative;
+
   &::before {
     @include pseudo();
     @include transition(background-color);
@@ -62,6 +65,7 @@
 @import 'components/social';
 @import 'components/toggle';
 
+@import 'pages/about';
 @import 'pages/contributor';
 @import 'pages/home';
 @import 'pages/pages';

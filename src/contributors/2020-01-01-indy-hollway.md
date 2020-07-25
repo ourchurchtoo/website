@@ -5,6 +5,8 @@ title: Indy Hollway
 permalink: /by/Indy-hollway.html
 # image: /img/contributors/indy-hollway.jpg
 
+role: Founder
+
 tags:
 - team
 ---

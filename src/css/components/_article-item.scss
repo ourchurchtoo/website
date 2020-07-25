@@ -14,6 +14,7 @@ $colors: purple, pink, yellow, blue, green;
     .item__text {
       @include breakpoint(md) {
         @include center(vertical);
+        margin-right: 40px;
         margin-left: 40px;
       }
     }
@@ -59,11 +60,13 @@ $colors: purple, pink, yellow, blue, green;
 
 
 .article-item {
-  @each $color in $colors {
-    &.article-item--#{$color} {
-      @include background-wide-hover(palette($color));
-    }
-  }
+  // @each $color in $colors {
+  //   &.article-item--#{$color} {
+  //     @include background-wide-hover(palette($color));
+  //   }
+  // }
+
+  @include background-wide-hover(palette(pink, pale));
 }
 
 .article-mini {
@@ -75,9 +78,11 @@ $colors: purple, pink, yellow, blue, green;
     padding: 20px 20px 40px;
   }
 
-  @each $color in $colors {
-    &.article-mini--#{$color} {
-      @include background-hover(palette($color));
-    }
-  }
+  // @each $color in $colors {
+  //   &.article-mini--#{$color} {
+  //     @include background-hover(palette($color));
+  //   }
+  // }
+
+  @include background-hover(palette(pink, pale));
 }

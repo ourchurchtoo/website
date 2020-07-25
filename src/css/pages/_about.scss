@@ -1,0 +1,22 @@
+.page--about {
+  .section--hero {
+    @include background-wide(palette(blue));
+  }
+
+  .section--get-involved {
+    @include background-wide(palette(blue));
+
+    .get-involved__item {
+      @include background-hover(palette(pink));
+      display: block;
+      margin-top: 20px;
+      padding: 20px;
+      border-radius: 6px;
+      text-align: center;
+
+      .svg-inline--fa {
+        font-size: 46px;
+      }
+    }
+  }
+}

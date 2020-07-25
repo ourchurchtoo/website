@@ -22,12 +22,13 @@
   {
     id: 'patreon',
     name: 'patreon',
-    link: 'https://patreon.com/ourchurchtoo'
+    link: 'https://patreon.com/ourchurchtoo',
+    blank: true
   }
 ] %}
 
 <div class='menu__container'>
-  <div class='container-fluid'>
+  <div class='container container-fluid'>
     <div class='row'>
       <div class='col-xs-12'>
         <div class='menu'>
@@ -52,7 +53,7 @@
                     {% set isCurrent = (menukey === nav.id) %}
                     {% set isParent = nav.link != '/' and nav.link in page.url %}
                     <li class='menu__item {% if isCurrent or isParent %}menu__item--active{% endif %}'>
-                      <a class='link--exclude' href='{{ nav.link }}'>
+                      <a class='link--exclude' href='{{ nav.link }}' target='{% if nav.blank %}_blank{% endif %}'>
                         {{ nav.name }}
                       </a>
                     </li>

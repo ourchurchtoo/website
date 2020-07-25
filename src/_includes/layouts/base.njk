@@ -29,12 +29,18 @@
 
   <div class='page page--{{ menukey }}'>
     {% include 'partials/menu.njk' %}
-    <div class='page__container'>
-      {% block bodyContent %}
-        {{ content | safe }}
-      {% endblock %}
+
+    <div class='container container-fluid'>
+
+      <div class='page__container'>
+        {% block bodyContent %}
+          {{ content | safe }}
+        {% endblock %}
+      </div>
+
+      {{ process.env }}
     </div>
-    {{ process.env }}
+
     {% include 'partials/footer.njk' %}
   </div>
 {% endblock %}

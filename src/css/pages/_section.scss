@@ -1,5 +1,6 @@
 .page__container {
   .section:not(.section--hero) {
     margin-bottom: $section-margin;
+    padding: $section-margin 0;
   }
 }
