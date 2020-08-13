@@ -7,13 +7,12 @@ const submitEmail = (email) => {
       email,
     }),
   }).then((response) => {
-    // response.json()
     console.log('response', response);
-  }).then((data) => {
-    console.log('data', data);
+    console.log('response body', response.body);
+
     const messageDiv = document.getElementById('message');
 
-    if (data.emailAdded) {
+    if (response.status === 200) {
       messageDiv.innerText = 'Confirmation email has been sent!';
     } else {
       messageDiv.innerText = 'Something went wrong :(';
