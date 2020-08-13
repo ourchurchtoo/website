@@ -8,10 +8,11 @@
       <div class='col-xs-12 col-md-8'>
         <div class='footer__newsletter'>
           <p>Stay up to date with all the latest.</p>
-          <form>
-            <input type='email' required placeholder='Your email address' />
-            <button type='submit' class='btn btn--primary btn--float'>Sign up</button>
+          <form id="newsletter" class="subscribe" action="/.netlify/functions/form-handler" method="post">
+            <input type="email" id="inputEmail" name='email' placeholder="Enter email to subscribe" required autofocus>
+            <button type="submit" class='btn btn--primary btn--float'>Subscribe</button>
           </form>
+          <div id="message"></div>
         </div>
       </div>
     </div>
