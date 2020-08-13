@@ -9,12 +9,20 @@
 
   .col--image {
     position: relative;
-    min-height: 100vh;
+    min-height: 400px;
+
+    @include breakpoint(md) {
+      min-height: 100vh;
+    }
 
     .svg-inline--fa {
       @include center(both);
-      font-size: 300px;
       text-align: center;
+      font-size: 200px;
+
+      @include breakpoint(md) {
+        font-size: 300px;
+      }
     }
   }
 
