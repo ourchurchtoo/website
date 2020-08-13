@@ -1,7 +1,7 @@
 .section--hero {
   position: relative;
   min-height: 100vh;
-  padding: 50px 0;
+  // padding: 50px 0;
 
   .col--text {
     position: relative;
@@ -47,6 +47,15 @@
 
     @include breakpoint(md) {
       margin-top: 0;
+    }
+  }
+
+  .footer__newsletter {
+    margin-top: 50px;
+
+    p {
+      @extend %font-sans-upper;
+      font-weight: 700;
     }
   }
 }

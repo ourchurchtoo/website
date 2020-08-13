@@ -10,6 +10,14 @@ permalink: /index.html
       <div class='text__wrapper'>
         <h1><span>Our Church Too</span> is a collaborative sharing stories of experiences of minorities within churches around the world.</h1>
         {% include 'partials/social.njk' %}
+        <div class='footer__newsletter'>
+          <p>Stay up to date with all the latest.</p>
+          <form id="newsletter" class="subscribe" action="/.netlify/functions/form-handler" method="post">
+            <input type="email" id="inputEmail" name='email' placeholder="Enter email to subscribe" required autofocus>
+            <button type="submit" class='btn btn--secondary btn--float'>Subscribe</button>
+          </form>
+          <p id="message"></p>
+        </div>
       </div>
     </div>
     <div class='col col-xs-12 col-md-6 col--image'>
