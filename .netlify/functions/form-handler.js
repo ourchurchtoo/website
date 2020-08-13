@@ -1,7 +1,7 @@
 import { parse } from 'querystring'
 const axios = require('axios');
-const mailChimpAPI = process.env.MAILCHIMP_API_KEY;
-const mailChimpListID = process.env.MAILCHIMP_LIST_ID;
+const mailChimpAPI = `${MAILCHIMP_API_KEY}`;
+const mailChimpListID = `${MAILCHIMP_LIST_ID}`;
 
 
 exports.handler = (event, context, callback) => {
