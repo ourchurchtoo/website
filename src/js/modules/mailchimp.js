@@ -14,7 +14,7 @@ const submitEmail = (email) => {
       messageDiv.innerText = 'Something went wrong :(';
     }
   }).catch(() => {
-    messageDiv.innerText = 'Something went wrong :(';
+    messageDiv.innerText = 'Something went wrong! It\'s possible you\'ve already signed up.';
   });
 };
 
