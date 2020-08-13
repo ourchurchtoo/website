@@ -3,6 +3,7 @@
   base = ""
   publish = "dist/"
   command = "yarn build"
+  functions = ".netlify/functions/"
 
 # Production context
 [context.production]
