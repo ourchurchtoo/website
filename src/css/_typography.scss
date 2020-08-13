@@ -27,6 +27,7 @@ body {
 
 @include paragraph-style() {
   @extend %font-sans;
+  line-height: 1.5;
   // @include color-schemes(color, palette(black), palette(white));
 }
 

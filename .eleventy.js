@@ -33,7 +33,7 @@ module.exports = (eleventyConfig) => {
   });
 
   eleventyConfig.addCollection('posts', collection => {
-    return collection.getFilteredByGlob('**/blog/*.md').reverse();
+    return collection.getFilteredByGlob('**/posts/*.md').reverse();
   });
 
   eleventyConfig

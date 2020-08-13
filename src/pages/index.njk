@@ -9,7 +9,7 @@ permalink: /index.html
 <div class='section section--hero'>
   <div class='row'>
     <div class='col col-xs-12 col-md-6 col--text'>
-      <h1><span>Our Church Too</span> is a collaborative sharing stories of experiences of minorities within churches around the world.</h1>
+      <h1><span>Our Church Too</span> is a collaborative story sharing platform giving voices to the voiceless.<br />We love Jesus, and we love the church.</h1>
       {% include 'partials/social.njk' %}
     </div>
     <div class='col col-xs-12 col-md-6 col--image'>
@@ -19,7 +19,7 @@ permalink: /index.html
 </div>
 
 <div class='section section--articles'>
-  {% for item in fakeposts | reverse | limitTo(3) %}
+  {% for item in collections.posts | limitTo(3) %}
     {% include 'partials/article-item.njk' %}
   {% endfor %}
   <div class='row center-xs'>

@@ -5,7 +5,7 @@ title: Benjamin Hollway
 permalink: /by/benjamin-hollway.html
 image: /img/contributors/benjamin-hollway.jpg
 
-role: Frontend
+role: Dev
 instagram: https://www.instagram.com/nothingrandom/
 
 tags:

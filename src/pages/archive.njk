@@ -8,7 +8,7 @@ permalink: /archive/index.html
 ---
 <div class='section section--articles'>
   <div class='row'>
-    {% for item in fakeposts | reverse %}
+    {% for item in collections.posts %}
       {% include 'partials/article-mini.njk' %}
     {% endfor %}
   </div>

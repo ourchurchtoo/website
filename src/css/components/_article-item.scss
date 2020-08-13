@@ -10,6 +10,7 @@ $colors: purple, pink, yellow, blue, green;
 
   .col--text {
     position: relative;
+    min-height: 300px;
 
     .item__text {
       @include breakpoint(md) {
