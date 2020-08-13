@@ -1,9 +1,21 @@
 .section--hero {
   position: relative;
+  min-height: 100vh;
   padding: 50px 0;
 
   .col--text {
     position: relative;
+  }
+
+  .col--image {
+    position: relative;
+    min-height: 100vh;
+
+    .svg-inline--fa {
+      @include center(both);
+      font-size: 300px;
+      text-align: center;
+    }
   }
 
   h1 {
@@ -11,18 +23,15 @@
     margin-bottom: 40px;
     color: palette(white);
 
-    @include breakpoint(md) {
-      @include center(vertical);
-    }
-
     span {
       color: palette(purple);
     }
   }
 
-  .social {
-    position: absolute;
-    bottom: 0;
+  .text__wrapper {
+    @include breakpoint(md) {
+      @include center(vertical);
+    }
   }
 
   img {
