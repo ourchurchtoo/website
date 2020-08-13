@@ -1,4 +1,5 @@
 const form = document.getElementById('newsletter');
+const messageDiv = document.getElementById('message');
 
 const submitEmail = (email) => {
   fetch('/.netlify/functions/form-handler', {
@@ -7,9 +8,13 @@ const submitEmail = (email) => {
       email,
     }),
   }).then((response) => response.json()).then((data) => {
-    console.log(data);
-    const messageDiv = document.getElementById('message');
-    messageDiv.innerText = 'Confirmation email has been sent!';
+    if (data.emailAdded) {
+      messageDiv.innerText = 'Confirmation email has been sent!';
+    } else {
+      messageDiv.innerText = 'Something went wrong :(';
+    }
+  }).catch(() => {
+    messageDiv.innerText = 'Something went wrong :(';
   });
 };
 
