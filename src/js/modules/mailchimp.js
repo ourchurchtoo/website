@@ -8,11 +8,16 @@ const submitEmail = (email) => {
     }),
   }).then((response) => {
     // response.json()
-    console.log(response);
+    console.log('response', response);
   }).then((data) => {
-    console.log(data);
+    console.log('data', data);
     const messageDiv = document.getElementById('message');
-    messageDiv.innerText = 'Confirmation email has been sent!';
+
+    if (data.emailAdded) {
+      messageDiv.innerText = 'Confirmation email has been sent!';
+    } else {
+      messageDiv.innerText = 'Something went wrong :(';
+    }
   });
 };
 
