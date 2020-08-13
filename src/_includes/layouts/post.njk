@@ -6,16 +6,22 @@ layout: /layouts/base.njk
     <div class='section section--standard section--post'>
       <div class='post__header text-center'>
         <h1>{{ title }}</h1>
-        <h4>written on {{ page.date | readableDate }} by <a class='link--color' href='/by/{{ author.slug }}'>{{ author.name }}</a></h4>
+        {% if ignore_info %}
+        {% else %}
+          <h4>written on {{ page.date | readableDate }} by <a class='link--color' href='/by/{{ author.slug }}'>{{ author.name }}</a></h4>
+        {% endif %}
       </div>
 
       {{ content | safe }}
 
-      <div class='post__footer'>
-        <p>
-          <a class='link--color' href='/archive/'><i class='fal fa-long-arrow-left'></i> View all posts</a>
-        </p>
-      </div>
+      {% if ignore_info %}
+      {% else %}
+        <div class='post__footer'>
+          <p>
+            <a class='link--color' href='/archive/'><i class='fal fa-long-arrow-left'></i> View all posts</a>
+          </p>
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>
