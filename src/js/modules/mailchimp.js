@@ -6,7 +6,10 @@ const submitEmail = (email) => {
     body: JSON.stringify({
       email,
     }),
-  }).then((response) => response.json()).then((data) => {
+  }).then((response) => {
+    // response.json()
+    console.log(response);
+  }).then((data) => {
     console.log(data);
     const messageDiv = document.getElementById('message');
     messageDiv.innerText = 'Confirmation email has been sent!';
