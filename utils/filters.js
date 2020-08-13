@@ -57,7 +57,7 @@ module.exports = {
     // remove short and less meaningful words
     let result = dedupedStr.replace(meaningless, '');
     // remove newlines, and punctuation
-    result = result.replace(/\.|,|\?|-|—|\n/g, '');
+    result = result.replace(/\.|,|"|\?|-|—|\n/g, '');
     // remove repeated spaces
     result = result.replace(/([ ]{2,}|\t+)/g, ' ');
 

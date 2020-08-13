@@ -5,7 +5,10 @@ tags:
 - family
 
 category: article
-author: Indy Hollway
+author: {
+  name: Indy Hollway,
+  slug: indy-hollway
+}
 
 permalink: /stories/there-is-no-catch/
 ---
