@@ -54,8 +54,13 @@ $mobile-menu-animation-time: .4s;
 
   .logo,
   .menu__icon {
+    @include transition(color);
     position: relative;
     z-index: 10;
+
+    &:hover {
+      color: palette(white);
+    }
   }
 
   .logo {
