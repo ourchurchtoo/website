@@ -22,6 +22,7 @@
 {% endblock %}
 
 {% block headScripts %}
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {% endblock %}
 
 {% block body %}
@@ -47,6 +48,18 @@
 
 {% block bodyScripts %}
   {% include 'partials/scripts.njk' %}
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 
   {% if config.env !== 'development' %}
     <script type='text/javascript'>

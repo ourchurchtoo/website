@@ -5,7 +5,7 @@ tags:
 - family
 
 category: article
-author: {
+contributor: {
   name: Indy Hollway,
   slug: indy-hollway
 }

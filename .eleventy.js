@@ -39,7 +39,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig
     .addPassthroughCopy('_redirects')
     .addPassthroughCopy('src/img')
-    .addPassthroughCopy('src/fonts');
+    .addPassthroughCopy('src/fonts')
+    .addPassthroughCopy('admin');
 
   eleventyConfig.addPlugin(readingTime);
 

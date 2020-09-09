@@ -1,0 +1,106 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# This line should *not* be indented
+media_folder: "src/img/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/img/uploads" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "contributors" # Used in routes, e.g., /admin/collections/blog
+    label: "Contributors" # Used in the UI
+    folder: "src/contributors" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "/by/{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/contributor.njk"}
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Picture", name: "image", widget: "image"}
+      - {label: "Role", name: "role", widget: "string"}
+      - {label: "Instagram", name: "instagram", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "select", min: 1, options: ["team", "artist", "contributor"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "src/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - label: "Author"
+        name: "author"
+        widget: list
+        fields:
+          - {label: Name, name: name, widget: string}
+          - {label: URL, name: url, widget: string}
+      - {
+        label: "Tags",
+        name: "tags",
+        widget: "select",
+        multiple: true,
+        min: 1,
+        max: 3
+        options: [
+          "Mission",
+          "Guest",
+          "Race",
+          "LGBTQ+",
+          "Disabled",
+          "Family",
+          "Poetry"
+        ]
+      }
+      - {
+        label: "Category",
+        name: "category",
+        widget: "select",
+        min: 1,
+        options: [
+          "Article",
+          "Art",
+          "Interview",
+          "Video"
+        ]
+      }
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Index Page"
+        name: "index_page"
+        file: "src/pages/index.md"
+        fields:
+          - {label: Header, name: header, widget: string}
+      - label: "About Page"
+        name: "about_page"
+        file: "src/pages/about.md"
+        fields:
+          - {label: Header, name: header, widget: string}
+          - {label: Get Involved Intro, name: get_involved_intro, widget: string}
+          - label: "Get Involved Items"
+            name: "get_involved"
+            widget: list
+            fields:
+            - {label: Icon, name: icon, widget: string}
+            - {label: URL, name: link, widget: string}
+            - {label: Title, name: title, widget: string}
+            - {label: Blurb, name: blurb, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Contributors Page"
+        name: "contributors_page"
+        file: "src/pages/contributors.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Archive Page"
+        name: "archive_page"
+        file: "src/pages/archive.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}

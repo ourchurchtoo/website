@@ -1,11 +1,13 @@
 ---
 layout: layouts/base.njk
-
-title: Archive
-
-menukey: archive
-permalink: /archive/index.html
 ---
+<div class='section section--intro'>
+  <div class='row text-left'>
+    <div class='col-xs-12 col-md-8'>
+      {{ content | safe }}
+    </div>
+  </div>
+</div>
 <div class='section section--articles'>
   <div class='row'>
     {% for item in collections.posts %}
