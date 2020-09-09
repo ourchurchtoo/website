@@ -1,15 +1,12 @@
 ---
 layout: layouts/contributor.njk
 title: Benjamin Hollway
-
 permalink: /by/benjamin-hollway.html
-image: /img/contributors/benjamin-hollway.jpg
-
+image: /img/uploads/benjamin-hollway.jpg
 role: Dev
 instagram: https://www.instagram.com/nothingrandom/
-
 tags:
-- team
+  - team
 ---
 I'm Benjamin, a lead javascript / frontend engineer at Hiber, based in Amsterdam.
 
