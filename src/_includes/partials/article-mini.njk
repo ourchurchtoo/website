@@ -1,6 +1,8 @@
 <div class='col col-xs-12 col-md-4'>
   <a class='article-mini' href='{{ item.url }}'>
-    <img src='{{ item.image }}' />
+    {% if item.image %}
+      <img src='{{ item.image }}' />
+    {% endif %}
     <div class='item__text'>
       <p class='item__info'>
         <span class='item__category__wrapper'>
