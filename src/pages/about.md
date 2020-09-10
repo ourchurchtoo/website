@@ -25,7 +25,7 @@ get_involved:
     link: /newsletter/index.html
     title: Newsletter
     blurb: Jesus sent out the original good news, but our news is pretty awesome
-      too, consider signing up to our weekly blast!
+      too. Consider signing up to receive a weekly roundup of our content.
   - icon: fal fa-envelope-open-text
     link: mailto:indy@ourchurchtoo?subject=I%20would%20like%20to%20contribute
     title: Learn about contributing

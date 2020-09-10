@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Boriana Hadjieva
-permalink: /by/boriana-hadjieva/index.html
+permalink: /by/boriana-hadjieva.html
 image: /img/uploads/116282580_613025962737802_4155585452913771616_n-1-.jpg
 role: Videographer & Creative
 instagram: https://www.instagram.com/bobehadjieva/

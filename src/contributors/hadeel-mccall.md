@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Hadeel McCall
-permalink: /by/hadeel-mccall/index.html
+permalink: /by/hadeel-mccall.html
 image: /img/uploads/whatsapp-image-2020-09-02-at-12.27.30.jpeg
 role: Artist
 instagram: https://www.instagram.com/hadeelmc/
