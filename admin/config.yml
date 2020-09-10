@@ -20,7 +20,7 @@ collections:
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Picture", name: "image", widget: "image"}
       - {label: "Role", name: "role", widget: "string"}
-      - {label: "Instagram", name: "instagram", widget: "string"}
+      - {label: "Instagram", name: "instagram", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "select", min: 1, options: ["team", "artist", "contributor"]}
       - {label: "Body", name: "body", widget: "markdown"}
 
