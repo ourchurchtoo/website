@@ -2,8 +2,8 @@
   <a class='article-item' href='{{ item.url }}'>
     <div class='row'>
       <div class='col col-xs-12 col-md-6 col--image'>
-        {% if item.image %}
-          <img src='{{ item.image }}' />
+        {% if item.data.image %}
+          <img src='{{ item.data.image }}' />
         {% endif %}
       </div>
       <div class='col col-xs-12 col-md-6 {% if ((loop.index + 1) % 2 === 0) %} first-md {% endif %} col--text'>
