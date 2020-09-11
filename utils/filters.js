@@ -1,5 +1,5 @@
 const { DateTime } = require('luxon');
-const markdown = require('markdown-it');
+const markdownIt = require('markdown-it');
 const meaningless = require('../src/_data/search-regex.js');
 
 const removeHTML = (text) => {
@@ -75,7 +75,7 @@ module.exports = {
     console.log(input);
   },
   markdown(input) {
-    const md = markdown({
+    const md = markdownIt({
       html: false,
     });
     return md.render(input);

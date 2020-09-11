@@ -7,6 +7,8 @@ const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster');
 const pjson = require('./package.json');
 
+const markdownIt = require('markdown-it');
+
 // The @11ty/eleventy configuration.
 // For a full list of options, see: https://www.11ty.io/docs/config/
 
@@ -65,6 +67,16 @@ module.exports = (eleventyConfig) => {
     }
   };
   eleventyConfig.addPlugin(cacheBuster(cacheBusterOptions));
+
+  const md = markdownIt({
+    html: true,
+    linkify: true,
+    breaks: false,
+    typographer:  false,
+    quotes: '“”‘’',
+  });
+
+  eleventyConfig.setLibrary('md', md);
 
   return {
     // Set the path from the root of the deploy domain
