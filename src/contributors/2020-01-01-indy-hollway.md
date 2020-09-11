@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Indy Hollway
-permalink: /by/indy-hollway.html
+permalink: /by/indy-hollway/index.html
 image: /img/uploads/1011259e-c083-4d9e-8320-c601873731ba.jpeg
 role: Founder
 instagram: https://www.instagram.com/indy_hollway/

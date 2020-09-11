@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Benjamin Hollway
-permalink: /by/benjamin-hollway.html
+permalink: /by/benjamin-hollway/index.html
 image: /img/uploads/benjamin-hollway.jpg
 role: Dev
 instagram: https://www.instagram.com/nothingrandom/
