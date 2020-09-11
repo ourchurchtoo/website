@@ -8,11 +8,12 @@ layout: /layouts/base.njk
         <h1>{{ title }}</h1>
         {% if ignore_info %}
         {% else %}
+          {{ contributor }}
           <h4>written on {{ page.date | readableDate }} by {% for person in contributor %}<a class='link--color' href='{% for item in collections.contributors %}
-          {% if item.data.title === contributor %}
+          {% if item.data.title === person %}
             {{ item.data.permalink }}
           {% endif %}
-        {% endfor %}'>{{ contributor }}</a>
+        {% endfor %}'>{{ person }}</a>
         {% endfor %}</h4>
         {% endif %}
         <ul class='social'>
