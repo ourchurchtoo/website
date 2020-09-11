@@ -1,8 +1,7 @@
 ---
 layout: layouts/contributors.njk
 title: Contributors
-
 menukey: contributors
 permalink: /contributors/index.html
 ---
-## Our Church Too lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...
+## Come and meet our awesome team. Here you can find all the people who are keeping this project running and learn some more about us.

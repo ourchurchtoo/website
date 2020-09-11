@@ -7,21 +7,30 @@
   .contributor__image,
   img {
     width: 200px;
+    height: 200px;
+    object-fit: cover;
     margin: 0 auto;
     border-radius: 50%;
   }
 }
 
-.contributor-mini {
-  @extend %item-nano;
+.contributor-mini__wrapper {
   @include transition(background-color);
-  text-align: center;
+  position: relative;
 
   &:hover {
     background-color: palette(blue);
   }
 
+  .contributor-mini {
+    @extend %item-nano;
+    text-align: center;
+  }
+
   .item__social {
+    @include center(horizontal);
+    bottom: 10px;
+
     a {
       @include transition(color);
 

@@ -15,6 +15,26 @@
   }
 }
 
+.btn--primary {
+  background-color: palette(blue);
+  color: text-contrast(palette(blue));
+
+  &:hover {
+    background-color: palette(purple);
+    color: text-contrast(palette(purple));
+  }
+}
+
+.btn--secondary {
+  background-color: palette(pink);
+  color: text-contrast(palette(pink));
+
+  &:hover {
+    background-color: palette(purple);
+    color: text-contrast(palette(purple));
+  }
+}
+
 .btn--wide {
   width: 100%;
 }
