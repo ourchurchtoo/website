@@ -14,7 +14,7 @@ collections:
     label: "Contributors" # Used in the UI
     folder: "src/contributors" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "/by/{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/contributor.njk"}
       - {label: "Name", name: "title", widget: "string"}
@@ -34,12 +34,13 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - label: "Author"
-        name: "author"
-        widget: list
-        fields:
-          - {label: Name, name: name, widget: string}
-          - {label: URL, name: url, widget: string}
+      - { label: "Contributor",
+        name: "contributor",
+        widget: relation,
+        collection: "contributors",
+        search_fields: ["title"],
+        value_field: "title",
+      }
       - { label: "Tags",
         name: "tags",
         widget: "select",

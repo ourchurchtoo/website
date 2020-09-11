@@ -8,7 +8,11 @@ layout: /layouts/base.njk
         <h1>{{ title }}</h1>
         {% if ignore_info %}
         {% else %}
-          <h4>written on {{ page.date | readableDate }} by <a class='link--color' href='/by/{{ contributor.slug }}'>{{ contributor.name }}</a></h4>
+          <h4>written on {{ page.date | readableDate }} by <a class='link--color' href='{% for item in collections.contributors %}
+          {% if item.data.title === contributor %}
+            {{ item.data.permalink }}
+          {% endif %}
+        {% endfor %}'>{{ contributor }}</a></h4>
         {% endif %}
         <ul class='social'>
           <li><a target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=https://ourchurchtoo.com{{ permalink }}'><i class='fab fa-facebook'></i></a></li>
