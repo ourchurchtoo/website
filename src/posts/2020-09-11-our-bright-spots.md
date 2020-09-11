@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Our Bright Spots
 date: 2020-09-12T08:00:59.475Z
+image: /img/uploads/bright-spots-01.jpg
 contributor:
   - Erin Iwata
   - Indy Hollway
@@ -14,7 +15,7 @@ category: Article
 When we started this project, we wanted to highlight the positives as well as illuminate the problems. While we don't have clear answers, there are plenty of people out there who do have ideas and expertise; from whom we have a lot to learn. We believe there is a lot of good in the world, and a lot of spaces where people are involved in amazing projects which we want to or bring attention to. We want to collaborate with these world and perspective changers. They come in many forms, including: awesome podcasts, insightful research, thoughtful books, inspiring poems, on-point instagrammers, and organizations that have already carved out incredible spaces for people to collaborate, educate, and grow together. 
 We started calling these spaces ‘Bright Spots.’ 
 
-Bright spots are places that give us hope, that have great potential, where we see things that are being done especially well. We want to listen and learn from the wisdom of those that know what they are talking about!  Each Friday, we will highlight bright spots that connect to our contributor’s of the week. This enables us to all continue the conversation and keep learning or connecting to whatever area blows your hair back. 
+Bright spots are places that give us hope, that have great potential, where we see things that are being done especially well. We want to listen and learn from the wisdom of those that know what they are talking about! Each Friday, we will highlight bright spots that connect to our contributor’s of the week. This enables us to all continue the conversation and keep learning or connecting to whatever area blows your hair back. 
 
 Here are a few of our personal favorites to get started: 
 
