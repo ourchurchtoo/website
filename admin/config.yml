@@ -87,6 +87,7 @@ collections:
         file: "src/pages/index.md"
         fields:
           - {label: Header, name: header, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
       - label: "About Page"
         name: "about_page"
         file: "src/pages/about.md"
