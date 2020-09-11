@@ -3,7 +3,8 @@ layout: layouts/post.njk
 title: Unity in Fighting For Justice
 date: 2020-09-12T08:00:00.000Z
 image: /img/uploads/photo-from-indy-hollway.jpg
-contributor: [Elisabeth Hoole]
+contributor:
+  - Elisabeth Hoole
 tags:
   - Guest
   - Race
