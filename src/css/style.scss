@@ -1,6 +1,6 @@
 // Import barebones scss structure
 @import 'browser-reset/reset.css';
-@import 'utilities', 'variables', 'grid', 'colors', 'fonts', 'typograph';
+@import 'utilities', 'variables', 'grid', 'colors', 'fonts', 'typography';
 
 @mixin background-wide($color) {
   position: relative;
