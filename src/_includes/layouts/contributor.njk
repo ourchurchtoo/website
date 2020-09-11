@@ -20,7 +20,7 @@ layout: /layouts/base.njk
     </div>
   </div>
   <div class='row'>
-    {% for item in collections.all %}
+    {% for item in collections.all | reverse %} {# this collection is not reversed by default #}
       {% if item.data.contributor | includes(title)  %}
         {% include 'partials/article-mini.njk' %}
       {% endif %}
