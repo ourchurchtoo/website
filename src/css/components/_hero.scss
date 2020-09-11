@@ -7,14 +7,18 @@
     position: relative;
   }
 
+  .col--text:not(:only-child) {
+    h1 {
+      @include breakpoint(md) {
+        @include center(vertical);
+      }
+    }
+  }
+
   h1 {
     margin-right: 40px;
     margin-bottom: 40px;
     color: palette(white);
-
-    @include breakpoint(md) {
-      @include center(vertical);
-    }
 
     span {
       color: palette(purple);
