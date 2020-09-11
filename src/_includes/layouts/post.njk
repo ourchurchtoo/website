@@ -26,7 +26,7 @@ layout: /layouts/base.njk
       {% if image %}
         <img src='{{ image }}' />
         {% if artist %}
-          <p>Art by <a class='link--color' href='{% for item in collections.contributors %}
+          <p class='text-center font--italic'>Art by <a class='link--color' href='{% for item in collections.contributors %}
           {% if item.data.title === artist %}
             {{ item.data.permalink }}
           {% endif %}
