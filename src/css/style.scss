@@ -20,6 +20,7 @@
 }
 
 @mixin background-hover($color) {
+  @include transition((background-color, text));
   background-color: palette(white);
 
   &:hover {
