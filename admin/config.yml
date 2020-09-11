@@ -17,7 +17,6 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/contributor.njk"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/by/{{slug}}/index.html"}
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Picture", name: "image", widget: "image"}
       - {label: "Role", name: "role", widget: "string"}
@@ -34,13 +33,22 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
       - { label: "Contributor",
         name: "contributor",
         widget: relation,
         collection: "contributors",
         searchFields: ["title"],
         valueField: "title",
+        multiple: true,
+      }
+      - { label: "Artist",
+        name: "artist",
+        widget: relation,
+        collection: "contributors",
+        searchFields: ["title"],
+        valueField: "title",
+        multiple: true,
       }
       - { label: "Tags",
         name: "tags",
