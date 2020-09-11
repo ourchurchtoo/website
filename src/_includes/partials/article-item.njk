@@ -20,7 +20,10 @@
           </p>
           <h2 class='item__title'>{{ item.data.title }}</h2>
           <p>{{ item.template.frontMatter.content | truncate(150) | markdown | removeHTML }}</p>
-          <h4 class='item__info--sub'><span class='item__author'>By {% include 'partials/article-contributor.njk' %}</span>, <span class='item__time'>A {{ item.template.frontMatter.content | readingTime }} read</span></h4>
+          <h4 class='item__info--sub'>
+            <span class='item__author'>By {% include 'partials/article-contributor.njk' %}</span>,<br />
+            <span class='item__time'>A {{ item.template.frontMatter.content | readingTime }} read</span>
+          </h4>
         </div>
       </div>
     </div>
