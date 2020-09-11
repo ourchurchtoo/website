@@ -5,6 +5,7 @@ import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faFacebook } from '@fortawesome/free-brands-svg-icons/faFacebook';
 import { faPinterest } from '@fortawesome/free-brands-svg-icons/faPinterest';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons/faWhatsapp';
 import { faPatreon } from '@fortawesome/free-brands-svg-icons/faPatreon';
 
 import { faSearch } from '@fortawesome/pro-regular-svg-icons/faSearch';
@@ -23,6 +24,7 @@ library.add(
   faFacebook,
   faPinterest,
   faTwitter,
+  faWhatsapp,
   faPatreon,
   faBars,
   faBullhorn,

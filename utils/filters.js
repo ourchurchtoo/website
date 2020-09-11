@@ -70,4 +70,7 @@ module.exports = {
 
     return false;
   },
+  log(input) {
+    console.log(input);
+  },
 };
