@@ -29,7 +29,7 @@ module.exports = (eleventyConfig) => {
   })
 
   eleventyConfig.addCollection('contributors', collection => {
-    return collection.getFilteredByGlob('**/contributors/*.md').reverse();
+    return collection.getFilteredByGlob('**/by/*.md').reverse();
   });
 
   eleventyConfig.addCollection('posts', collection => {
