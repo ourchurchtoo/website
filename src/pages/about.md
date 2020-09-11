@@ -33,7 +33,7 @@ get_involved:
       contributions to the project, so please send us an email if you’re into
       it!
 ---
-## Mission Statement
+# Mission Statement
 
 Our Church Too is a collaborative story sharing platform. The project exists to expand the scope of the church by amplifying the voices of marginalized or excluded people who love Jesus. Our belief is that the church is meant to be the most beautiful, loving, diverse community on earth, where everyone feels safe, beloved, and able to draw closer to Jesus. The church is meant to be a reflection of God’s Kingdom right here and now. Everyone is invited, and everyone belongs.
 
