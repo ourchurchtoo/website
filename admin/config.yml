@@ -38,8 +38,8 @@ collections:
         name: "contributor",
         widget: relation,
         collection: "contributors",
-        search_fields: ["title"],
-        value_field: "title",
+        searchFields: ["title"],
+        valueField: "title",
       }
       - { label: "Tags",
         name: "tags",
