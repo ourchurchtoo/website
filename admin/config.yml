@@ -49,6 +49,7 @@ collections:
         searchFields: ["title"],
         valueField: "title",
         multiple: true,
+        required: false,
       }
       - { label: "Tags",
         name: "tags",
