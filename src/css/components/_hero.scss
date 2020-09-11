@@ -10,7 +10,7 @@
   h1 {
     margin-right: 40px;
     margin-bottom: 40px;
-    // color: palette(white);
+    color: palette(white);
 
     @include breakpoint(md) {
       @include center(vertical);
