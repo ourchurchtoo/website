@@ -9,11 +9,14 @@
     position: relative;
 
     .contributor__image {
+      position: relative;
       margin-top: 40px;
 
       @include breakpoint(md) {
-        @include center(vertical);
-        margin: 0;
+        img {
+          @include center(both);
+          margin: 0;
+        }
       }
     }
 

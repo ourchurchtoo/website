@@ -46,7 +46,7 @@ $footer-height-md: 223px;
     @include transition(color);
 
     &:hover {
-      color: palette(purple) !important;
+      color: palette(blue) !important;
     }
   }
 
@@ -61,6 +61,10 @@ $footer-height-md: 223px;
     li,
     a {
       font-size: 16px;
+
+      @include breakpoint(md) {
+        font-size: 14px;
+      }
     }
   }
 }
