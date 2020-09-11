@@ -12,7 +12,7 @@ public_folder: "/img/uploads" # Media files will be stored in the repo under ima
 collections:
   - name: "contributors" # Used in routes, e.g., /admin/collections/blog
     label: "Contributors" # Used in the UI
-    folder: "src/contributors" # The path to the folder where the documents are stored
+    folder: "src/by" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -49,6 +49,7 @@ collections:
         searchFields: ["title"],
         valueField: "title",
         multiple: true,
+        required: false,
       }
       - { label: "Tags",
         name: "tags",
@@ -87,6 +88,7 @@ collections:
         file: "src/pages/index.md"
         fields:
           - {label: Header, name: header, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
       - label: "About Page"
         name: "about_page"
         file: "src/pages/about.md"
