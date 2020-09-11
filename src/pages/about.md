@@ -21,7 +21,7 @@ get_involved:
     title: Instagram
     blurb: We love visuals, and Instagram is one of the best ways to keep up with
       what’s going on, so consider giving us a follow!
-  - icon: fal fa-bullhorn
+  - icon: fal fa-mailbox
     link: /newsletter/index.html
     title: Newsletter
     blurb: Jesus sent out the original good news, but our news is pretty awesome

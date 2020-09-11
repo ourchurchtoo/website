@@ -12,10 +12,11 @@ import { faSearch } from '@fortawesome/pro-regular-svg-icons/faSearch';
 
 // import { faCoffeeTogo } from '@fortawesome/pro-duotone-svg-icons/faCoffeeTogo';
 import { faBars } from '@fortawesome/pro-light-svg-icons/faBars';
-import { faBullhorn } from '@fortawesome/pro-light-svg-icons/faBullhorn';
 import { faChurch } from '@fortawesome/pro-light-svg-icons/faChurch';
+import { faEnvelope } from '@fortawesome/pro-light-svg-icons/faEnvelope';
 import { faEnvelopeOpenText } from '@fortawesome/pro-light-svg-icons/faEnvelopeOpenText';
 import { faLongArrowLeft } from '@fortawesome/pro-light-svg-icons/faLongArrowLeft';
+import { faMailbox } from '@fortawesome/pro-light-svg-icons/faMailbox';
 import { faTimes } from '@fortawesome/pro-light-svg-icons/faTimes';
 import { faUser } from '@fortawesome/pro-light-svg-icons/faUser';
 
@@ -27,10 +28,11 @@ library.add(
   faWhatsapp,
   faPatreon,
   faBars,
-  faBullhorn,
   faChurch,
+  faEnvelope,
   faEnvelopeOpenText,
   faLongArrowLeft,
+  faMailbox,
   faSearch,
   faTimes,
   faUser,
