@@ -14,8 +14,8 @@ $mobile-menu-animation-time: .4s;
     color: palette(white);
     font-size: 14px;
     font-weight: 500;
-    letter-spacing: 1px;
     text-transform: uppercase;
+    letter-spacing: 1px;
   }
 
   &:hover {
@@ -50,7 +50,6 @@ $mobile-menu-animation-time: .4s;
 
 .menu {
   padding: 25px 0;
-  // text-align: center;
 
   .logo,
   .menu__icon {
@@ -79,8 +78,8 @@ $mobile-menu-animation-time: .4s;
   }
 
   .menu__wrapper {
-    margin-top: -5px;
     float: right;
+    margin-top: -5px;
 
     .menu__icon {
       position: absolute;
@@ -162,9 +161,9 @@ $mobile-menu-animation-time: .4s;
       position: relative;
       display: flex;
       flex-wrap: wrap;
+      justify-content: center;
       margin-top: 100px;
       text-align: left;
-      justify-content: center;
 
       @include breakpoint(md) {
         position: unset;

@@ -4,6 +4,25 @@ $colors: purple, pink, yellow, blue, green;
   position: relative;
 }
 
+.article-item {
+  @include background-wide-hover(palette(pink, pale));
+}
+
+.article-mini {
+  @include background-hover(palette(pink, pale));
+  margin: 15px 0 0;
+  padding: 10px;
+
+  @include breakpoint(md) {
+    margin-bottom: 40px;
+    padding: 20px 20px 40px;
+
+    &:nth-child(n+4) {
+      margin-top: 40px;
+    }
+  }
+}
+
 .article-item,
 .article-mini {
   @extend %item-nano;
@@ -34,8 +53,8 @@ $colors: purple, pink, yellow, blue, green;
 
   .item__category {
     display: inline-block;
-    max-width: 7rem;
     overflow: hidden;
+    max-width: 7rem;
     white-space: nowrap;
   }
 
@@ -58,37 +77,4 @@ $colors: purple, pink, yellow, blue, green;
       opacity: 0;
     }
   }
-}
-
-
-.article-item {
-  // @each $color in $colors {
-  //   &.article-item--#{$color} {
-  //     @include background-wide-hover(palette($color));
-  //   }
-  // }
-
-  @include background-wide-hover(palette(pink, pale));
-}
-
-.article-mini {
-  margin: 15px 0 0;
-  padding: 10px;
-
-  @include breakpoint(md) {
-    margin-bottom: 40px;
-    padding: 20px 20px 40px;
-
-    &:nth-child(n+4) {
-      margin-top: 40px;
-    }
-  }
-
-  // @each $color in $colors {
-  //   &.article-mini--#{$color} {
-  //     @include background-hover(palette($color));
-  //   }
-  // }
-
-  @include background-hover(palette(pink, pale));
 }

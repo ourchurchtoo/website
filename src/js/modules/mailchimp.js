@@ -18,7 +18,6 @@ const submitEmail = (email) => {
   });
 };
 
-
 form.addEventListener('submit', (e) => {
   e.preventDefault();
   const email = document.getElementById('inputEmail').value;
