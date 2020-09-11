@@ -42,10 +42,25 @@ $footer-height-md: 223px;
     font-weight: 700;
   }
 
+  a {
+    @include transition(color);
+
+    &:hover {
+      color: palette(purple) !important;
+    }
+  }
+
   .legal-links {
     li {
       display: inline-block;
       margin: 0 10px;
+    }
+  }
+
+  .social {
+    li,
+    a {
+      font-size: 16px;
     }
   }
 }
@@ -60,12 +75,24 @@ $footer-height-md: 223px;
   input {
     @extend %font-sans;
     width: 100%;
-    padding: 14px 150px 13px 15px;
+    padding: 14px 15px 13px;
     border: 1px solid palette(black);
+
+    @include breakpoint(md) {
+      padding-right: 150px;
+    }
   }
 
   .btn {
-    position: absolute;
-    right: 0;
+    width: 100%;
+    margin-top: 15px;
+
+    @include breakpoint(md) {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: unset;
+      margin-top: 0;
+    }
   }
 }
