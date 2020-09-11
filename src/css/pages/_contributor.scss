@@ -1,3 +1,9 @@
+.page--contributors {
+  .section--hero {
+    @include background-wide(palette(purple));
+  }
+}
+
 .section--contributor {
   .contributor-wide {
     position: relative;
