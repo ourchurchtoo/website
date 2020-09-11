@@ -1,6 +1,5 @@
 ---
 layout: layouts/contributor.njk
-permalink: /by/{{slug}}/index.html
 title: Brandon Heim
 image: /img/uploads/69542053_171117390607826_5865269751007881580_n.jpg
 role: Creative

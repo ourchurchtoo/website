@@ -1,7 +1,6 @@
 ---
 layout: layouts/contributor.njk
 title: Ilona Wilson
-permalink: /by/ilona-wilson/index.html
 image: /img/uploads/whatsapp-image-2020-09-02-at-18.20.27.jpeg
 role: Editor & Artist
 instagram: www.instagram.com/thoughts_before_words_/
