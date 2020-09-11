@@ -18,7 +18,9 @@ layout: /layouts/base.njk
         </ul>
       </div>
 
-      <img src='{{ image }}' />
+      {% if image %}
+        <img src='{{ image }}' />
+      {% endif %}
 
       {{ content | safe }}
 
