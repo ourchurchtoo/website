@@ -14,7 +14,7 @@ layout: layouts/base.njk
 </div>
 
 <div class='section section--articles'>
-  {{ content | safe }}
+  <div class='col-xs-12 text-center'>{{ content | safe }}</div>
   {% for item in collections.posts | limitTo(3) %}
     {% include 'partials/article-item.njk' %}
   {% endfor %}

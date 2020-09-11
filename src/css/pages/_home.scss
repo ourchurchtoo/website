@@ -4,6 +4,12 @@
   }
 
   .section--articles {
+    padding-top: 0 !important;
+
+    h1 {
+      margin: 60px 0;
+    }
+
     .btn {
       margin-top: $section-margin;
     }
