@@ -1,15 +1,24 @@
 .social {
-  li {
-    display: inline-block;
+  display: flex;
+  justify-content: center;
 
-    &:not(:last-child)::after {
-      content: ' /';
-    }
+  li {
+    padding: 0 10px;
   }
 
   a {
+    @include transition(color);
+
     &:hover {
       color: palette(yellow);
+    }
+  }
+}
+
+.social--divider {
+  li {
+    &:not(:last-child)::after {
+      content: ' /';
     }
   }
 }

@@ -18,7 +18,18 @@
     margin-top: 50px;
   }
 
+  iframe,
   .instagram-media {
     margin: 0 auto 12px !important;
+  }
+
+  .social {
+    font-size: em(20px);
+
+    a {
+      &:hover {
+        color: palette(blue);
+      }
+    }
   }
 }
