@@ -48,24 +48,24 @@ $footer-height-md: 223px;
       margin: 0 10px;
     }
   }
+}
 
-  .footer__newsletter {
-    text-align: left;
+.footer__newsletter {
+  text-align: left;
 
-    form {
-      position: relative;
-    }
+  form {
+    position: relative;
+  }
 
-    input {
-      @extend %font-sans;
-      width: 100%;
-      padding: 14px 150px 13px 15px;
-      border: 1px solid palette(black);
-    }
+  input {
+    @extend %font-sans;
+    width: 100%;
+    padding: 14px 150px 13px 15px;
+    border: 1px solid palette(black);
+  }
 
-    .btn {
-      position: absolute;
-      right: 0;
-    }
+  .btn {
+    position: absolute;
+    right: 0;
   }
 }
