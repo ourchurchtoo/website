@@ -1,0 +1,1 @@
+{% for person in item.data.contributor %}{{ person }}{% if loop.revindex0 === 0 %}{% elif loop.revindex0 === 1 %} &amp; {% else %}, {% endif %}{% endfor %}

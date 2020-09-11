@@ -63,4 +63,11 @@ module.exports = {
 
     return result;
   },
+  includes(input, string) {
+    if (input) {
+      return input.includes(string);
+    }
+
+    return false;
+  },
 };

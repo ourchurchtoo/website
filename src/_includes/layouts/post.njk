@@ -9,10 +9,10 @@ layout: /layouts/base.njk
         {% if ignore_info %}
         {% else %}
           <h4>written on {{ page.date | readableDate }} by {% for person in contributor %}<a class='link--color' href='{% for item in collections.contributors %}
-          {% if item.data.title === person %}
-            {{ item.data.permalink }}
-          {% endif %}
-        {% endfor %}'>{{ person }}</a>
+            {% if item.data.title === person %}
+              {{ item.data.permalink }}
+            {% endif %}
+          {% endfor %}'>{{ person }}</a>{% if loop.revindex0 === 0 %}{% elif loop.revindex0 === 1 %} &amp; {% else %}, {% endif %}
         {% endfor %}</h4>
         {% endif %}
         <ul class='social'>

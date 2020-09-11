@@ -21,7 +21,7 @@ layout: /layouts/base.njk
   </div>
   <div class='row'>
     {% for item in collections.all %}
-      {% if item.data.contributor === title %}
+      {% if item.data.contributor | includes(title)  %}
         {% include 'partials/article-mini.njk' %}
       {% endif %}
     {% endfor %}
