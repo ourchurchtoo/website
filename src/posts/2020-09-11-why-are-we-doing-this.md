@@ -9,7 +9,7 @@ contributor:
 tags:
   - Mission
   - Family
-category: Article
+category: Interview
 ---
 **Erin:** Why am I doing this? Who am I to think that I could budge the massive stone walls of the church? Who am I to think I know anything at all? These are the questions that pop up when I lay in bed at night.
 
