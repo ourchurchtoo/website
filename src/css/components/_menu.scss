@@ -1,4 +1,4 @@
-$menu-height-md: 77px;
+$menu-height-md: 87px;
 $mobile-menu-animation-time: .4s;
 
 %link-style {
@@ -42,6 +42,7 @@ $mobile-menu-animation-time: .4s;
 }
 
 .menu__container {
+  position: relative;
   top: 0;
   z-index: 10;
   height: $menu-height-md;
@@ -69,6 +70,14 @@ $mobile-menu-animation-time: .4s;
     h1 {
       margin: 0;
       font-size: 24px;
+
+      span {
+        display: none;
+
+        @include breakpoint(md) {
+          display: unset;
+        }
+      }
     }
 
     img {
@@ -79,11 +88,9 @@ $mobile-menu-animation-time: .4s;
 
   .menu__wrapper {
     float: right;
-    margin-top: -5px;
 
     .menu__icon {
-      position: absolute;
-      top: 26px;
+      @include center(vertical);
       right: 20px;
       cursor: pointer;
       font-size: 18px;
