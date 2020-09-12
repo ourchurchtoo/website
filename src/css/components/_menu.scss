@@ -5,7 +5,7 @@ $mobile-menu-animation-time: .4s;
   @extend %font-sans;
   padding: 30px 0;
   color: palette(black);
-  font-size: 24px;
+  font-size: 22px;
   text-decoration: none;
   text-transform: capitalize;
 
@@ -50,6 +50,7 @@ $mobile-menu-animation-time: .4s;
 }
 
 .menu {
+  position: relative;
   padding: 25px 0;
 
   .logo,
@@ -58,8 +59,16 @@ $mobile-menu-animation-time: .4s;
     position: relative;
     z-index: 10;
 
+    span {
+      @include transition(color);
+    }
+
     &:hover {
-      color: palette(white);
+      color: palette(blue);
+
+      span {
+        color: palette(blue) !important;
+      }
     }
   }
 
@@ -88,12 +97,13 @@ $mobile-menu-animation-time: .4s;
 
   .menu__wrapper {
     float: right;
+    margin-top: -2px;
 
     .menu__icon {
       @include center(vertical);
       right: 20px;
       cursor: pointer;
-      font-size: 18px;
+      font-size: 22px;
 
       @include breakpoint(md) {
         display: none;
