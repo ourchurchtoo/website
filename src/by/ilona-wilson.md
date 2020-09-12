@@ -8,4 +8,4 @@ tags: team
 ---
 A Sydney girl, Ilona is a mama of 3, with a background in Clinical Audiology and Management. Moving to Amsterdam enabled her to change direction and explore her creativity again with a focus on writing and mixed media artwork with a little bit of editing thrown in. She also makes beautiful things and sells them on etsy.
 
-[https://www.etsy.com/shop/ThingsByLon](etsy.com/shop/ThingsByLon)
+[etsy.com/shop/ThingsByLon](https://www.etsy.com/shop/ThingsByLon)
