@@ -30,6 +30,12 @@
 
     .contributor-wide__text {
       min-height: 200px;
+
+      p {
+        a {
+          text-decoration: underline;
+        }
+      }
     }
   }
 }
