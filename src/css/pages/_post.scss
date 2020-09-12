@@ -39,3 +39,43 @@
     }
   }
 }
+
+.gallery {
+  position: relative;
+  margin-bottom: 100px;
+
+  @include breakpoint(md) {
+    margin-bottom: 80px;
+  }
+}
+
+.video__wrapper {
+  position: relative;
+  width: 100%;
+  height: auto;
+
+  &::before {
+    content: '';
+    display: block;
+    padding-bottom: 56.25%; // Landscape 16:9
+  }
+
+  > iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+  }
+
+  &.is-wider {
+    left: -30px;
+    width: calc(100% + 60px);
+
+    @include breakpoint(md) {
+      left: -90px;
+      width: calc(100% + 180px);
+    }
+  }
+}

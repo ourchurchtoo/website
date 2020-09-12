@@ -18,7 +18,7 @@ layout: /layouts/base.njk
         {% endif %}
       </div>
 
-      {% if image %}
+      {% if image and category !== 'Video' %}
         <img src='{{ image }}' />
         {% if artist %}
           <p class='post__artist'>Art by {% for person in artist %}<a class='link--color' href='{% for item in collections.contributors %}
