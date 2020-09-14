@@ -1,10 +1,12 @@
 ---
 layout: layouts/post.njk
 title: The Church is Our Home Too
-date: 2020-09-14T08:00:00.000Z
-image: /img/uploads/whatsapp-image-2020-09-11-at-13.54.20.jpeg
+date: 2020-09-14T09:21:30.909Z
+image: /img/uploads/mark_portrait2.png
 contributor:
-  - Indy Hollway
+  - Mark Ehrenstein
+artist:
+  - Nat Iwata
 tags:
   - Guest
   - LGBTQ+
