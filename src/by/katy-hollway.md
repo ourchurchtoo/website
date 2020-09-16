@@ -1,6 +1,5 @@
 ---
 layout: layouts/contributor.njk
-permalink: /by/{{slug}}/index.html
 title: Katy Hollway
 image: /img/uploads/katy.jpg
 role: Artist
