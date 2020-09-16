@@ -23,11 +23,12 @@ body {
   @extend %font-serif;
   // @include color-schemes(color, palette(black), palette(white));
   font-weight: 400;
+  line-height: 1.4;
 }
 
 @include paragraph-style() {
   @extend %font-sans;
-  line-height: 1.5;
+  line-height: 1.75;
   // @include color-schemes(color, palette(black), palette(white));
 }
 

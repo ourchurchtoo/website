@@ -9,6 +9,10 @@
     margin-bottom: 50px;
   }
 
+  img {
+    border-radius: $border-radius;
+  }
+
   p {
     margin-bottom: 25px;
     font-size: 18px;
@@ -76,6 +80,26 @@
     @include breakpoint(md) {
       left: -90px;
       width: calc(100% + 180px);
+    }
+  }
+}
+
+blockquote {
+  max-width: 680px;
+  margin: 50px auto 50px 30px;
+
+  p {
+    position: relative;
+    font-style: italic;
+
+    &::before {
+      position: absolute;
+      top: -20px;
+      left: -40px;
+      content: '“';
+      color: palette(purple);
+      font-size: 48px;
+      font-weight: 700;
     }
   }
 }

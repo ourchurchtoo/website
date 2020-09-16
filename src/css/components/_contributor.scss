@@ -18,11 +18,13 @@
 }
 
 .contributor-mini__wrapper {
-  @include transition(background-color);
+  @include background-hover(palette(blue));
   position: relative;
+  border-radius: $border-radius;
 
-  &:hover {
-    background-color: palette(blue);
+  a {
+    display: block;
+    padding: 0 15px;
   }
 
   .contributor-mini {

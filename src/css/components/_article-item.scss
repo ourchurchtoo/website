@@ -12,6 +12,7 @@ $colors: purple, pink, yellow, blue, green;
   @include background-hover(palette(pink, pale));
   margin: 15px 0 0;
   padding: 10px;
+  border-radius: $border-radius;
 
   @include breakpoint(md) {
     margin-bottom: 40px;
@@ -27,6 +28,10 @@ $colors: purple, pink, yellow, blue, green;
 .article-mini {
   @extend %item-nano;
   color: palette(black);
+
+  img {
+    border-radius: $border-radius;
+  }
 
   .col--text {
     position: relative;
