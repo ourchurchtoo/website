@@ -5,6 +5,8 @@ date: 2020-09-16T08:11:54.536Z
 image: /img/uploads/image-katy.jpg
 contributor:
   - Indy Hollway
+artist:
+  - Katy Hollway
 tags:
   - Mission
   - Family
