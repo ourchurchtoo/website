@@ -24,4 +24,4 @@ So in case nobody has said this to you, I’m sorry for the church. I’m sorry 
 
 The church is like any family: human. We have made, are making, and will make mistakes, but we aren’t meant to be toxic, we are meant to be Jesus’ representatives. The church points us towards something greater: community with God himself. If you take anything away from what you’ve read, I hope it’s this:
 
-God’ love is readily available for you. There is no catch.
+God’s love is readily available for you. There is no catch.
