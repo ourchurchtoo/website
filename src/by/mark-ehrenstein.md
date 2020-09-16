@@ -1,6 +1,5 @@
 ---
 layout: layouts/contributor.njk
-permalink: /by/{{slug}}/index.html
 title: Mark Ehrenstein
 image: /img/uploads/whatsapp-image-2020-09-11-at-13.54.20.jpeg
 role: Contributor
