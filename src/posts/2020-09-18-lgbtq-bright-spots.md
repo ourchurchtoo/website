@@ -25,7 +25,7 @@ We are aware that not everyone will agree with everything that we put forward in
 
 # Great Reads
 
-### Torn by Justin Lee
+## Torn by Justin Lee
 
 > “Justin Lee, a gay man and devout Christian, bridges the gaps between his faith and sexuality in this insightful and touching memoir.”
 
@@ -33,7 +33,7 @@ We are aware that not everyone will agree with everything that we put forward in
 
 From a young age Justin Lee felt called into ministry in the evangelical church. He loved God and had no problem showing it! However, he also knew he was gay. In this book Lee bravely shares all his experiences, including coming out, trying an “ex-gay” movement, and his deep dive into the Bible. His story is not only a beautiful memoir, but is valuable to any Christian who want to learn how to relate to their gay friends or family members. Veering far away from thinking of himself as a victim, Lee demonstrated how gay Christians are in a unique position to be bridge builders to bring peace “in a culture that sees gays and Christians as enemies.” Lee allows people that are undecided in their convictions on this particular issue to come away with respect and love for one another. 
 
-### God and the Gay Christian by Matthew Vines
+## God and the Gay Christian by Matthew Vines
 
 ![](/img/uploads/91h2ougwykl.jpg)
 
@@ -41,19 +41,19 @@ From a young age Justin Lee felt called into ministry in the evangelical church.
 
 > “Unique in its affirmation of both an orthodox faith and sexual diversity, God and the Gay Christian has sparked heated debate, sincere soul search­ing, and widespread cultural change on the issue of what it means to be a faithful gay Christian.” 
 
-### Space at the Table: Conversations Between An Evangelical Theologian and His Gay Son
+## Space at the Table: Conversations Between An Evangelical Theologian and His Gay Son
 
 ![](/img/uploads/28683996._uy500_ss500_.jpg)
 
 This book has the unique perspective of being written by a father and son. Brad and Drew Harper do not agree on everything, but have maintained a close and loving relationship based on dialogue and respect. Written in a back and forth, conversational style, Space at the Table retraces the relationship between Drew and his father - a conservative evangelical pastor, both before and after Drew came out. This book is a journey! It’s a rare look inside a family that shines a path for families to demonstrate that “love is stronger than the beliefs that divide us.” 
 
-### TransGender 101 by Nicholas Teich
+## TransGender 101 by Nicholas Teich
 
 ![](/img/uploads/41aile9vf9l._sx334_bo1-204-203-200_.jpg)
 
 ‘Transgender 101’ is an accesible and well written book which outlines the history of transgenderism and provides a succinct summary of important issues and conversations. Teich unpacks different facets of transgenderism as well as providing definitions of important terms and discussion of those whose lives cannot be defined by traditional classifications. This book is a great resource for anyone who wants to go beyond a basic understanding of transgenderism and lay a solid foundation for greater empathy.
 
-### Feminism is Queer by Mimi Marinucci
+## Feminism is Queer by Mimi Marinucci
 
 ![](/img/uploads/51krvzdwx-l._sy445_ql70_ml2_.jpg)
 
@@ -61,28 +61,22 @@ This book has the unique perspective of being written by a father and son. Brad 
 
 # Films and TV
 
-### Transvisible
+## Transvisible
 
 Transvisible meets at the intersection of transgenderism and the latin community. It’s a beautiful biography of the activist Bamby Salcedo’s life and work. \
 **<iframe width="369" height="333" src="https://www.youtube.com/embed/SjUczmvCA9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**
 
-
-
-### **Pride**
+## Pride
 
 Pride is a fun and colourful movie about a team of gay activists who try to raise money and awareness for miners during the strikes of 1984 in the UK. The film is heartwarming and sees a village of Welsh miners trading prejudices for lasting relationships. It also presents the power of intersectional protest and mobilising in support of groups you may not be a part of. A great movie  to watch with a stellar cast. 
 
-
-
-### Queer Eye
+## Queer Eye
 
 Queer eye may seem like a just-for-fun programme, but the fab five use their platform to discuss important and poignant issues. Season 5 episode 1 (available on Netflix in most countries) introduces us to Noah Hepler, a shy Philadelphia pastor. If that hasn’t sold you, then the wisdom of the beautiful Dr. Megan Rohrar is worth watching for. 
 
 Speaking of which, you can meet Dr. Megan Rohrar in this short YouTube video. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vffST19BXX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 # Instagram
 
