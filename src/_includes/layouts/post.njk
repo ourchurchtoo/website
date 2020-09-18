@@ -30,7 +30,9 @@ layout: /layouts/base.njk
         {% endif %}
       {% endif %}
 
-      {{ content | safe }}
+      <div class='post__content'>
+        {{ content | safe }}
+      </div>
 
       {% if ignore_info %}
       {% else %}
