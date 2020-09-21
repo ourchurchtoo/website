@@ -15,7 +15,7 @@ It is practically impossible to divorce words from meaning. The very purpose of 
 
 As a bilingual person I also know first hand how much more impactful your mother tongue is when expressing emotions. Saying “I love you” suddenly feels a lot more personal, more intentional. Conversely, being cussed off also sounds like a much more serious attack. “For God so loved the world” hits me differently when I read it in Bulgarian than when I do in English. The depth of love that I experience in relation to this passage in a way that cannot be expressed by the number of words, but the quality of sounds used. 
 
-Perhaps language isn’t one of the first major issues you think of when someone mentions the Bible. After all, there are dozens of translations in English alone. 
+Perhaps language isn’t one of the first major issues you think of when someone mentions the Bible. After all, there are dozens of translations in English alone. But language is powerful, and whoever controls language has the power.
 
 > But language is powerful, and whoever controls language has the power. 
 
@@ -25,6 +25,8 @@ But what of the people who were not in the aristocracy and did not understand an
 
 In 21st century Western Europe, I cannot even begin to fathom not being able to read the Bible in my own language. This is a privilege I cannot take lightly. But at the same time, it’s important to be aware how similar dangers creep up in many international circles. We may not be zealously citing Scripture in Latin, but in our attempt to understand each other easily, most often in English, we tend to forget that the beauty of the gospel is revealed in a multitude of languages. 
 
-When I went to the Christian Union in my English speaking high school, I often felt a disconnect from the lyrics during our worship time. At the same time, the thought of worshipping differently was such a foregin concept to everyone else, that my desire to connect to God through my own language left me feeling alienated. While there is room for grace if you don’t understand this experience, we need to be constantly reminded of our call for a global church. The gospel does not get lost in translation. Multilingualism reveals and honours God’s diversity in creation.
+When I went to the Christian Union in my English speaking high school, I often felt a disconnect from the lyrics during our worship time. At the same time, the thought of worshipping differently was such a foreign concept to everyone else, that my desire to connect to God through my own language left me feeling alienated. While there is room for grace if you don’t understand this experience, we need to be constantly reminded of our call for a global church. The gospel does not get lost in translation. Multilingualism reveals and honours God’s diversity in creation.
+
+> The gospel does not get lost in translation.
 
 The power of God’s word lies in our personal connection with Him, and if language helps us to emotionally connect to a message, then diversity in languages should be an intimately Christian concern. Language is power. Although God’s strength transcends all human might, He nevertheless mediates through it.
