@@ -13,7 +13,7 @@ category: Article
 ---
 It is practically impossible to divorce words from meaning. The very purpose of language is to use abstract, nonsensical sounds for equally abstract, nonsensical ideas, in the hopes that something would come out that makes sense. Language is a flawed, yet necessary part of human life. How else could we best express love or anger, happiness or sadness?
 
-As a bilingual person I also know first hand how much more impactful your mother tongue is when expressing emotions. Saying “I love you” suddenly feels a lot more personal, more intentional. Conversely, being cussed off also sounds like a much more serious attack. “For God so loved the world” hits me differently when I read it in Bulgarian than when I do in English. The depth of love that I experience in relation to this passage in a way that cannot be expressed by the number of words, but the quality of sounds used. 
+As a bilingual person I also know first hand how much more impactful your mother tongue is when expressing emotions. Saying “I love you” suddenly feels a lot more personal, more intentional. Conversely, being cussed off also sounds like a much more serious attack. “For God so loved the world” hits me differently when I read it in Bulgarian than when I do in English. The depth of love that I experience translates to this passage in a way that cannot be expressed by the number of words, but the quality of sounds used. 
 
 Perhaps language isn’t one of the first major issues you think of when someone mentions the Bible. After all, there are dozens of translations in English alone. But language is powerful, and whoever controls language has the power.
 
