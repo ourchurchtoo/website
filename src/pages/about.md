@@ -39,18 +39,20 @@ get_involved:
 
 **Our Vision:** Our Church Too aims to contribute to a more open and accepting culture, where the needs of all persons are understood, considered, and anticipated. 
 
-**Our values:**
-- Active and empathetic listening.
-- Honesty and an ability to own up to mistakes. 
-- Gospel-centered forgiveness and change. 
+**Our Values:**
 
-**Our objectives:** 
-- To create an online platform where people feel safe to share their stories and experiences. 
-- To empower and amplify the voices of those who have felt left out or ignored.
-- To foster a culture of active and empathetic listening which causes people to enact real and lasting change, especially in a church context. 
-- To create useful resources for those attempting to bring about positive change.
+* Active and empathetic listening.
+* Honesty and an ability to own up to mistakes. 
+* Gospel-centered forgiveness and change. 
 
-**The church:** 
+**Our Objectives:** 
+
+* To create an online platform where people feel safe to share their stories and experiences. 
+* To empower and amplify the voices of those who have felt left out or ignored.
+* To foster a culture of active and empathetic listening which causes people to enact real and lasting change, especially in a church context. 
+* To create useful resources for those attempting to bring about positive change.
+
+**The Church:** 
 We define “the church” as any group of people following the teachings of Jesus Christ. 
 Our belief is that the church is meant to be the most beautiful, loving, diverse community on earth, where everyone feels safe, beloved, and able to draw closer to Jesus. The church is meant to be a reflection of God’s Kingdom right here and now. Everyone is invited, and everyone belongs. 
 Our desire to expand the church is two-fold:
