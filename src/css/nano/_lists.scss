@@ -1,0 +1,19 @@
+ol {
+  list-style: decimal;
+
+}
+
+ul {
+  list-style: disc;
+}
+
+ol,
+ul {
+  margin-left: 40px;
+}
+
+.item__social,
+.social {
+  margin-left: 0;
+  list-style: none;
+}
