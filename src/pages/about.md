@@ -49,11 +49,11 @@ get_involved:
 
 * To create an online platform where people feel safe to share their stories and experiences. 
 * To empower and amplify the voices of those who have felt left out or ignored.
-* To foster a culture of active and empathetic listening which causes people to enact real and lasting change, especially in a church context. 
+* To foster a culture of active and empathetic listening and conversation which causes people to enact real and lasting change, especially in a church context. This does not mean that everyone should believe the same things, but that instead people are open to being wrong, and attentive to the needs of others.
 * To create useful resources for those attempting to bring about positive change.
 
 **The Church:** 
-We define “the church” as any group of people following the teachings of Jesus Christ. 
+We define “the church” as any group of people following the teachings of Jesus Christ. Our Church Too is not affiliated with any particular church, and our articles refer to church communities in general, as opposed to specific churches. 
 Our belief is that the church is meant to be the most beautiful, loving, diverse community on earth, where everyone feels safe, beloved, and able to draw closer to Jesus. The church is meant to be a reflection of God’s Kingdom right here and now. Everyone is invited, and everyone belongs. 
 Our desire to expand the church is two-fold:
 
