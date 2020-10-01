@@ -11,6 +11,11 @@
 
   img {
     border-radius: $border-radius;
+
+    &:not(.post__hero) {
+      max-width: 50%;
+      margin: 0 auto;
+    }
   }
 
   .post__artist {
