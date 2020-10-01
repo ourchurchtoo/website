@@ -77,24 +77,19 @@ We found her article on [why she can no longer call herself an evangelical](http
 
 For those who are starting out and are looking for those ground work feminist texts, this is the list for you. This list is compiled from texts Indy read during her politics degree where she looked at feminism as a discipline, so some of them are pretty hefty. This is not a full or comprehensive list, and we don’t agree with all the thoughts of these authors, but it’s a good place to start.
 
-For those who are starting out and are looking for those ground work feminist texts, this is the list for you. This list is compiled from texts Indy read during her politics degree where she looked at feminism as a discipline, so some of them are pretty hefty. This is not a full or comprehensive list, and we don’t agree with all the thoughts of these authors, but it’s a good place to start. 
-
-For those who are starting out and are looking for those ground work feminist texts, this is the list for you. This list is compiled from texts Indy read during her politics degree where she looked at feminism as a discipline, so some of them are pretty hefty. This is not a full or comprehensive list, and we don’t agree with all the thoughts of these authors, but it’s a good place to start. 
-
-Women & Power, A Manifesto by Mary Beard
-Feminists Don’t Wear Pink and Other Lies curated by Scarlett Curtis
-A Vindication of the Rights of Woman by Mary Wollenstonecraft
-Men Explain Things To Me and Other Essays by Rebecca Solnit
-Invisible Women, Exposing Data Bias In A World Designed For Me by Caroline Criado Perez
-We Should All Be Feminists by Chimamanda Ngozi Adichie
-The Beauty Myth by Naomi Wolf
-The Feminist Mystique by Betty Friedan
-The Second Sex by Simone De Beauvoir
-A Room Of One’s Own by Virginia Woolf
-Feminism Is For Everyone by bell hooks
-Sister Outsider by Audre Lorde
-This Bridge Called My Back: Writings by Radical Women of Colour edited by Cherrie Moraga & Gloria Anzaldua
+Women & Power, A Manifesto by Mary Beard\
+Feminists Don’t Wear Pink and Other Lies curated by Scarlett Curtis\
+A Vindication of the Rights of Woman by Mary Wollenstonecraft\
+Men Explain Things To Me and Other Essays by Rebecca Solnit\
+Invisible Women, Exposing Data Bias In A World Designed For Me by Caroline Criado Perez\
+We Should All Be Feminists by Chimamanda Ngozi Adichie\
+The Beauty Myth by Naomi Wolf\
+The Feminist Mystique by Betty Friedan\
+The Second Sex by Simone De Beauvoir\
+A Room Of One’s Own by Virginia Woolf\
+Feminism Is For Everyone by bell hooks\
+Sister Outsider by Audre Lorde\
+This Bridge Called My Back: Writings by Radical Women of Colour edited by Cherrie Moraga & Gloria Anzaldua\
 Gender Trouble by Judith ButlerWomen & Power, A Manifesto by Mary Beard
 
-\
 Are we missing a story/ resource that you think needs to be shared? Then please reach out to us, we want to hear from you!
