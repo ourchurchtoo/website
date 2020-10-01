@@ -10,14 +10,12 @@ tags:
   - Mission
 category: Article
 ---
-
-
 This week has been all about feminism. Both Erin and I have posted personal stories about different facets of feminism and christianity, which we hope will lay the groundwork for many more contributions. We believe that feminism is necessarily intersectional because a woman’s experience cannot be reduced to gender alone. If you are keen to learn more about intersectionality, then look up the amazing Kimberlé Crenshaw. 
 Below you will find a whole bunch of material to read about Jesus and feminism for your research journey. We hope that these resources enrich and encourage you, and we are excited to hear your feedback!
 
 ## On Intersectionality by [Kimberlé Crenshaw](https://aapf.org/kimberle-crenshaw)
 
-![](/img/uploads/intersectionality.jpg)
+![](/img/uploads/large-intersectionality.jpg)
 
 This essay collection is essential for any reader who wants to learn more about intersectionality. Black women such as Crenshaw, and notably also bell hooks, paved the way for intersectionality by exposing the underlying racial biases of many classical feminist texts. It is only through this crucial lens that we can really understand the depths of women’s struggles.
 
@@ -47,13 +45,9 @@ Faith Unraveled: How a Girl Who Knew All the Answers Learned to Ask Questions
 
 Inspired: Slaying Giants, Walking on Water, and Loving the Bible Again
 
-
 Searching for Sunday: Loving, Leaving, and Finding the Church
 
-
 A Year of Biblical Womanhood: How a Liberated Woman Found Herself Sitting on Her Roof, Covering Her Head, and Calling Her Husband 'Master'
-
-
 
 ## The Junia Project
 
@@ -63,8 +57,6 @@ The Junia Project is committed to gender reconciliation and biblical equality. T
 
 ![](/img/uploads/junia-project-flier-1-.jpg)
 
-
-
 ## Anne Lamott, collected works
 
 ![](/img/uploads/anne-lamott-.jpg)
@@ -73,17 +65,16 @@ Anne Lamott is a powerful writer and vulnerable person of faith. She has written
 
 ![](/img/uploads/midnightgospel.jpg)
 
-
-
 ## [Daniella Mayfield](http://www.dlmayfield.com/menu), collected works
 
-![](/img/uploads/daniella-mayfield.jpg)
+![](/img/uploads/largedaniella-mayfield.jpg)
 
 Daniella is a feminist and Christian who makes a bevy of beautiful things exploring these ideas. She has a fun podcast called the [Prophetic Imagination Station](http://www.dlmayfield.com/podcast) that reminisces on 90’s Christian pop culture artifacts, a [gorgeous blog](http://www.dlmayfield.com/dl-mayfield), has written two books and her articles are featured in Christianity Today, Religion News, The Washington Post, Sojourners, Vox, and many other publications as a former missionary and female Bible scholar. 
 
 We found her article on [why she can no longer call herself an evangelical](https://religionnews.com/2020/09/23/how-a-sean-feucht-worship-service-convinced-me-i-am-no-longer-an-evangelical) thoughtful and provocative. Mayfield also has written extensively about the heritage of Christian feminism, one of our favorites articles she wrote is about [Dorthy Day](https://www.plough.com/en/topics/justice/social-justice/economic-justice/confronted-by-dorothy-day). Mayfield’s writings take a lovely dive into what it means to be Christian, female, and an activist -yesterday, today, and tomorrow.
 
-## Additional Reading: Feminist Classics. 
+## Additional Reading: Feminist Classics.
+
 For those who are starting out and are looking for those ground work feminist texts, this is the list for you. This list is compiled from texts Indy read during her politics degree where she looked at feminism as a discipline, so some of them are pretty hefty. This is not a full or comprehensive list, and we don’t agree with all the thoughts of these authors, but it’s a good place to start.
 
 For those who are starting out and are looking for those ground work feminist texts, this is the list for you. This list is compiled from texts Indy read during her politics degree where she looked at feminism as a discipline, so some of them are pretty hefty. This is not a full or comprehensive list, and we don’t agree with all the thoughts of these authors, but it’s a good place to start. 
