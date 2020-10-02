@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Bright Spots: Feminism"
-date: 2020-10-01T10:47:17.228Z
+date: 2020-10-02T07:42:34.693Z
 image: /img/uploads/feminism.jpg
 contributor:
   - Indy Hollway
