@@ -10,7 +10,7 @@ tags:
   - Mission
 category: Article
 ---
-This week has been all about feminism. Both Erin and I have posted personal stories about different facets of feminism and christianity, which we hope will lay the groundwork for many more contributions. We believe that feminism is necessarily intersectional because a woman’s experience cannot be reduced to gender alone. 
+This week has been all about feminism. Both Erin and Indy have posted personal stories about different facets of feminism and christianity, which we hope will lay the groundwork for many more contributions. We believe that feminism is necessarily intersectional because a woman’s experience cannot be reduced to gender alone. 
 Below you will find a whole bunch of material to read about Jesus and feminism for your research journey. We hope that these resources enrich and encourage you, and we are excited to hear your feedback!
 
 ## On Intersectionality by [Kimberlé Crenshaw](https://aapf.org/kimberle-crenshaw)
