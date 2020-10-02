@@ -92,4 +92,4 @@ Sister Outsider by Audre Lorde\
 This Bridge Called My Back: Writings by Radical Women of Colour edited by Cherrie Moraga & Gloria Anzaldua\
 Gender Trouble by Judith ButlerWomen & Power, A Manifesto by Mary Beard
 
-Are we missing a story/ resource that you think needs to be shared? Then please reach out to us, we want to hear from you!
+Are we missing a story/ resource that you think needs to be shared? Then please reach out to us, we want to hear from you! Learn more[ here ](https://ourchurchtoo.com/about/#get-involved) or contact us directly with your ideas at erin@ourchurchtoo.com or indy@ourchurchtoo.com
