@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
 title: "Bright Spots: Feminism"
-date: 2020-10-02T07:42:34.693Z
+date: 2020-10-02T07:45:10.504Z
 image: /img/uploads/feminism.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata
 tags:
-  - Mission
+  - Bright Spots
 category: Article
 ---
 This week has been all about feminism. Both Erin and Indy have posted personal stories about different facets of feminism and christianity, which we hope will lay the groundwork for many more contributions. We believe that feminism is necessarily intersectional because a woman’s experience cannot be reduced to gender alone. 
