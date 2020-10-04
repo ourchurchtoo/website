@@ -4,7 +4,10 @@ title: A Roman's 12 Woman
 date: 2020-10-01T10:26:25.178Z
 image: /img/uploads/candiceart-piece.jpg
 contributor:
+  - Candice Siegfried
   - Erin Iwata
+artist:
+  - MRDDragon
 tags:
   - LGBTQ+
   - Guest
@@ -36,7 +39,7 @@ But my brother Paul was the funniest.” Candice chuckled at this. “On my firs
 
 > I’ve learned a lot about burdens being turned by God into blessings, to bless others.
 
-That was it for Paul and her other siblings. Candice was their sister from then on. In many ways, Candice was blessed to have a family that embraced her. From one study of a large sample size of LGTBQ+ youth, 42.3% of transgender youth have attempted suicide. According to a recent study from Chapin Hall at the University of Chicago, LGBTQ+ young people are 120% more likely to experience homelessness than non-LGBTQ+ youth. It is estimated that about 7% of youth in the United States are LGBTQ+, while 40% of youth experiencing homelessness are LGBTQ+. When citing their reasons for homelessness, the number one reason listed was being forced out of their home, followed by family problems. 
+That was it for Paul and her other siblings: Candice was their sister from then on. In many ways, Candice was blessed to have a family that embraced her. From one study of a large sample size of LGTBQ+ youth, 42.3% of transgender youth have attempted suicide. According to a recent study from Chapin Hall at the University of Chicago, LGBTQ+ young people are 120% more likely to experience homelessness than non-LGBTQ+ youth. It is estimated that about 7% of youth in the United States are LGBTQ+, while 40% of youth experiencing homelessness are LGBTQ+. When citing their reasons for homelessness, the number one reason listed was being forced out of their home, followed by family problems. 
 
 “One of the church’s greatest strengths is being a source of fellowship. Like another family.”  Hopefully a better family. As a church, we need to be able to love and surround everyone; not leave them when they are most vulnerable. When she came out, Candice had been active at a community church in Sherwood, Oregon.\
 “They didn’t push me away - but they did not welcome me anymore either. I was held at arm's length.” The church she had been baptized in suddenly didn’t feel like the right fit anymore. “Every week I felt like the black sheep.” 
@@ -44,7 +47,7 @@ That was it for Paul and her other siblings. Candice was their sister from then 
 > One of the church’s greatest strengths is being a source of fellowship. Like another family.
 
 “The most healing place for me after I came out, was the [PDX Q center](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE). They had a Queer Bible Study that was so helpful. I also went to an MTF (male to female) support group. That was my church for that season. That is where I met Teresa.” 
-Teresa is a transwoman of faith in her 60s who lived near Candice. 
+Teresa is a trans woman of faith in her 60s who lived near Candice. 
 “Teresa truly became my sister. We came out at the same time and really shared the experience.” They both attended a conservative non-denominational Church together in Newberg, Oregon for quite some time after transitioning. Teresa was a great friend and encouragement to Candice and enabled her to carry on her faith as a trans woman.
 But Christians can easily get stuck by focusing on Candice’s disability or her gender. 
 
