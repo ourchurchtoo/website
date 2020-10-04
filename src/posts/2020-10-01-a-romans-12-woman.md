@@ -1,11 +1,10 @@
 ---
 layout: layouts/post.njk
 title: A Roman's 12 Woman
-date: 2020-10-01T10:26:25.178Z
+date: 2020-10-04T19:14:26.478Z
 image: /img/uploads/candiceart-piece.jpg
 contributor:
   - Candice Siegfried
-  - Erin Iwata
 artist:
   - MRDDragon
 tags:
