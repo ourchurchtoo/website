@@ -5,6 +5,7 @@ date: 2020-10-04T19:16:29.677Z
 image: /img/uploads/candiceart-piece.jpg
 contributor:
   - Candice Siegfried
+  - Erin Iwata
 artist:
   - MRDDragon
 tags:
