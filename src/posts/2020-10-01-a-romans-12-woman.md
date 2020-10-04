@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: A Roman's 12 Woman
-date: 2020-10-04T19:14:26.478Z
+date: 2020-10-04T19:16:29.677Z
 image: /img/uploads/candiceart-piece.jpg
 contributor:
   - Candice Siegfried
