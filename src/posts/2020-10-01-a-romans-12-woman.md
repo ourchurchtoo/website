@@ -24,7 +24,7 @@ Candice suffered multiple family tragedies when she was a child, including being
 
 “I am a transgender woman.”
 
-When I met Candice, she was called Charles. The university we attended was a Christian Liberal Arts Community. Morality clauses were signed saying we would not drink alcohol on campus, nor have sexual relations. Dorm hours restricted the times males and females could be together and determined where they could live on campus. At the time, this institution was nearly a decade away from addressing [transgender students at the university](https://www.georgefox.edu/transgender/index.html). For a person in Candice’s position, this might not have been the most welcoming environment. She stayed closeted until 2013, the same year our university faced litigation for refusing male housing to a transgender young man. When we were reminiscing about our college days, Candice confessed she didn’t remember much. 
+When I met Candice, she was called Charles. The university we attended was a Christian Liberal Arts Community. Morality clauses were signed saying we would not drink alcohol on campus, nor have sexual relations, or watching R rated movies. Dorm hours restricted the times males and females could be together and determined where they could live on campus. At the time, this institution was nearly a decade away from addressing [transgender students at the university](https://www.georgefox.edu/transgender/index.html). For a person in Candice’s position, this might not have been the most welcoming environment. She stayed closeted until 2013, the same year our university faced litigation for refusing male housing to a transgender young man. When we were reminiscing about our college days, Candice confessed she didn’t remember much. 
 
 “You know, I was on psychotropics for most of that time,” she stated matter of factly. 
 I had no idea. She went on to tell me she was put on the drugs at 13 years old after her mom found her cross-dressing. The genuinely concerned parents took Candice to a psychiatrist, who put the young teenager on heavy-duty antipsychotics. The drugs stunted her development and made her numb. When she came out as a woman in 2012 she worked with a new psychiatrist who refuted the original diagnosis and weaned Candice off anti-depressant as well as the antipsychotic. She was then able to take hormones to help her transition into a female body. 
@@ -64,7 +64,7 @@ Love must be sincere. We have to look beyond the superficial. We are all part of
 
 > Love must be sincere. We have to look beyond the superficial. 
 
-Any church would be blessed to have this positive, loving woman in their family. As the people who say we walk in relationship with God, we need to look beyond all the labels we give people, to see the beautiful person God is creating. 
+Wouldn't any church would be blessed to have this positive, loving woman in their family? As the people who say we walk in relationship with God, we get to look beyond all the labels we give people, to see the beautiful person God is creating. 
 
 > **Romans 12 (NIV)**\
 > Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship. Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. \
