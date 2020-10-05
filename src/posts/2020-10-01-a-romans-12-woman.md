@@ -41,7 +41,7 @@ Candice was anxious about coming out to her family, who she was very close to.
 
 That was it for Paul and her other siblings: Candice was their sister from then on. In many ways, Candice was blessed to have a family that embraced her. From one study of a large sample size of LGTBQ+ youth, 42.3% of transgender youth have attempted suicide. According to a recent study from Chapin Hall at the University of Chicago, LGBTQ+ young people are 120% more likely to experience homelessness than non-LGBTQ+ youth. It is estimated that about 7% of youth in the United States are LGBTQ+, while 40% of youth experiencing homelessness are LGBTQ+. When citing their reasons for homelessness, the number one reason listed was being forced out of their home, followed by family problems. 
 
-“One of the church’s greatest strengths is being a source of fellowship. Like another family.”  Hopefully a better family. As a church, we need to be able to love and surround everyone; not leave them when they are most vulnerable. When she came out, Candice had been active at a community church in Sherwood, Oregon.\
+“One of the church’s greatest strengths is being a source of fellowship. Like another family.”  Hopefully a better family. As a church, can we have the  ability to love and surround everyone? Not leave them when they are most vulnerable. When she came out, Candice had been active at a community church in Sherwood, Oregon.\
 “They didn’t push me away - but they did not welcome me anymore either. I was held at arm's length.” The church she had been baptized in suddenly didn’t feel like the right fit anymore. “Every week I felt like the black sheep.” 
 
 > One of the church’s greatest strengths is being a source of fellowship. Like another family.
