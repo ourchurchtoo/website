@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: A Roman's 12 Woman
-date: 2020-10-05T06:56:35.731Z
+date: 2020-10-05T06:57:17.238Z
 image: /img/uploads/candiceart-piece.jpg
 contributor:
   - Erin Iwata
