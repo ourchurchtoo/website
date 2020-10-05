@@ -27,15 +27,15 @@ Candice suffered multiple family tragedies when she was a child, including being
 When I met Candice, she was called Charles. The university we attended was a Christian Liberal Arts Community. Morality clauses were signed saying we would not drink alcohol on campus, nor have sexual relations. Dorm hours restricted the times males and females could be together and determined where they could live on campus. At the time, this institution was nearly a decade away from addressing [transgender students at the university](https://www.georgefox.edu/transgender/index.html). For a person in Candice’s position, this might not have been the most welcoming environment. She stayed closeted until 2013, the same year our university faced litigation for refusing male housing to a transgender young man. When we were reminiscing about our college days, Candice confessed she didn’t remember much. 
 
 “You know, I was on psychotropics for most of that time,” she stated matter of factly. 
-I had no idea. She went on to tell me she was put on the drugs at 13 years old after her mom found her cross-dressing, which led to her being taken to a psychiatrist, who put the young teenager on heavy-duty antipsychotics. The drugs stunted her development and made her numb. When she came out as a woman in 2012 she had completely weaned herself off of the antipsychotics and was then able to take hormones to help her transition into a female body. 
+I had no idea. She went on to tell me she was put on the drugs at 13 years old after her mom found her cross-dressing, which led to her being taken to a psychiatrist, who put the young teenager on heavy-duty antipsychotics. The drugs stunted her development and made her numb. When she came out as a woman in 2012 she worked with a new psychiatrist who refuted the original diagnosis and weaned off anti-depressant as well as the antipsychotic. She was then able to take hormones to help her transition into a female body. 
 
 “Hormone therapy helped a lot! It really helped me rediscover my emotions!” Candice laughed. 
 
 Candice was anxious about coming out to her family, who she was very close to. 
-“My mom is Catholic, definitely a person of faith. My grandma Joan came into the family after the car wreck; it has been difficult for her. At first, she wondered if I would be able to have the positive impact I did when I was living as Charles.” Ultimately, Grandma Joan has embraced Candice as being a messenger of God to the trans community. 
+“My mom is Catholic, definitely a person of faith. My grandma Joan came into the family after the car wreck; it has been difficult for her. At first, she wondered if I would be able to have the positive impact I did when I was living as Charles.”  Ultimately, Grandma Joan has embraced Candice as being a messenger of God to the trans community. 
 
-“I’ve learned a lot about burdens being turned by God into blessings, to bless others!
-But my brother Paul was the funniest.” Candice chuckled at this. “On my first lunch with my mother openly as a woman, my brother took a picture of my mom and I together, both of us wearing dresses. He looked at the picture and asked ‘Are you wearing lipstick?’ I don’t know if he even noticed I was in a dress.”  
+"Mom has been probably my strongest supporter since the night I came out to her. She has stood up to people on my behalf, even for unknown battles with friends and family. I’ve learned a lot about burdens being turned by God into blessings, to bless others!
+"But my brother Paul was the funniest.” Candice chuckled at this. “On my first lunch with my mother as my authentic self, my brother took a picture of us -I was all dressed up. He looked at the picture and asked ‘Are you wearing lipstick?’ I don’t know if he even noticed I was in a skirt.”  
 
 > I’ve learned a lot about burdens being turned by God into blessings, to bless others.
 
@@ -46,9 +46,9 @@ That was it for Paul and her other siblings: Candice was their sister from then 
 
 > One of the church’s greatest strengths is being a source of fellowship. Like another family.
 
-“The most healing place for me after I came out, was the [PDX Q center](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE). They had a Queer Bible Study that was so helpful. I also went to an MTF (male to female) support group. That was my church for that season. That is where I met Teresa.” 
-Teresa is a trans woman of faith in her 60s who lived near Candice. 
-“Teresa truly became my sister. We came out at the same time and really shared the experience.” They both attended a conservative non-denominational Church together in Newberg, Oregon for quite some time after transitioning. Teresa was a great friend and encouragement to Candice and enabled her to carry on her faith as a trans woman.
+“The most healing place for me after I came out, was the [PDX Q center](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE). They had a Queer Bible Study that was so helpful. I also went to an MTF (male to female) support group. That was my church for that season. That is where I met Judith.” 
+Judith is a trans woman of faith in her 60s who lived near Candice. 
+“Judith truly became my sister. We came out at the same time and really shared the experience.” They both attended a conservative non-denominational Church together in Newberg, Oregon for quite some time after transitioning. Judith was a great friend and encouragement to Candice and enabled her to carry on her faith as a trans woman.
 But Christians can easily get stuck by focusing on Candice’s disability or her gender. 
 
 “My home church is mostly understanding and constructive of my disability.” There are still times people are asked to stand up, or there are activities or questions asked that are not inclusive to people who are in a wheelchair. 
