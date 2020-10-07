@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Minesweeper
-date: 2020-10-01T12:19:18.688Z
+date: 2020-10-07T06:07:23.163Z
 image: /img/uploads/katy-2.jpg
 contributor:
   - Deborah Beutler
