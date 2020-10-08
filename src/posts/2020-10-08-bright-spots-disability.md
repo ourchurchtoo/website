@@ -13,7 +13,7 @@ category: Article
 ---
 This week we heard stories and poetry from Deb and Candice. Both are people with disabilities. Candice also identifies as transgender. Each week, we hope these stories leave you with a perspective you might not have had before, deeper empathy, and curiosity that propels you forward to your own growth and curiosity. We recognize that encountering different points of view can be uncomfortable. We want take Fridays to focus on the bright spots: resources and people that are doing something especially well with the topics we have touched on this week. Use this to further your journey into stories that are not often shared in the church:  
 
-[Pacing Pixie](https://www.instagram.com/pacingpixie/)
+## [Pacing Pixie](https://www.instagram.com/pacingpixie/)
 
 ![](/img/uploads/pixie.jpg)
 
@@ -34,7 +34,6 @@ The New York Institute of Technology Library puts out guides that attempt to pro
 ![](/img/uploads/true-colors-unite-1-.jpg)
 
 True Colors Unite was co-founded by 80’s pop star Cyndi Lauper. They do extensive research and find solutions for homeless youth focused on the LGTBQ+ community. They collaborate in communities and start programs, as well as advocate on the federal, state and local level in the United States. Their site is packed full of information and ideas to combat homelessness among LGTBQ+ youth. Go take a look! 
-
 
 ## [The Q Center ](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE)
 
