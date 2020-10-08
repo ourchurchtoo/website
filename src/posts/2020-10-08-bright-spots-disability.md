@@ -35,6 +35,14 @@ The New York Institute of Technology Library puts out guides that attempt to pro
 
 True Colors Unite was co-founded by 80’s pop star Cyndi Lauper. They do extensive research and find solutions for homeless youth focused on the LGTBQ+ community. They collaborate in communities and start programs, as well as advocate on the federal, state and local level in the United States. Their site is packed full of information and ideas to combat homelessness among LGTBQ+ youth. Go take a look! 
 
+[Raise](https://www.raisecenter.org/disability-and-intersectionality-not-the-default-disabled-person/)
+
+![](/img/uploads/raise.png)
+
+We stumbled on one more story that addressed intersectional disability. Cori Frazer describe not being the "default disabled person."  As you read this one, if you are a person who participates in a faith community, ask yourself how together can help break down the systems that cause trauma to people who Jesus loves and  created. We found this piece on [Raise ](https://www.raisecenter.org/), an organization that stands for the **National Resources for Advocacy, Independence, Self-determination and Employment** (Raise). They provide resources for youth with disabilities and their families. 
+
+
+
 ## [The Q Center ](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE)
 
 ![](/img/uploads/q_center.jpg)
