@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Bright Spots: Anti-Ableism"
-date: 2020-10-09T09:40:46.769Z
+date: 2020-10-09T11:34:36.415Z
 image: /img/uploads/bright-spots-03-1-.jpg
 contributor:
   - Indy Hollway
