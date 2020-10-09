@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Bright Spots: Disability"
+title: "Bright Spots: Anti-Ableism"
 date: 2020-10-09T09:40:46.769Z
 image: /img/uploads/bright-spots-03-1-.jpg
 contributor:
