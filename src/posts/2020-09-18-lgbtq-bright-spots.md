@@ -13,15 +13,15 @@ tags:
   - LGBTQ+
 category: Article
 ---
-This week’s Bright Spots are books, movies and websites that discuss the intersection of Christianity and the LGTBQ+ community. We hope that these resources will help promote better allyship, encourage a greater understanding of what Christianity looks like from an LGTBQ+ perspective and build empathy, conversation, and understanding
+This week’s Bright Spots are books, movies, and websites that discuss the intersection of Christianity and the LGTBQ+ community. We hope that these resources will help promote better allyship, encourage a greater understanding of what Christianity looks like from an LGTBQ+ perspective, and build empathy, conversation, and understanding
 We are aware that not everyone will agree with everything that we put forward in this list, and we think this is ok. It’s good to be challenged; especially on topics that we haven’t put much thought towards or that we don’t have experiences of ourselves. Only by opening our hearts and truly listening to others can we make our way towards a Christ-like love and understanding of others.
 
 # Wonderful Websites
 
-1. [Trans 101](https://lgbtqia.ucdavis.edu/trans-101) and [Ally Tips](https://lgbtqia.ucdavis.edu/educated/ally-tips) by University of California Davis.
-   UCDavis LGBTQ+ research centre has created a fantastic website for allies that are new to the community. They explain language, share do’s and don’ts and provide advice to help you to become more sensitive to your LGTBQ+ friends and family. Websites such as these are a great place to start.
+1. [Trans 101](https://lgbtqia.ucdavis.edu/trans-101) and [Ally Tips](https://lgbtqia.ucdavis.edu/educated/ally-tips) by the University of California Davis.
+   UCDavis LGBTQ+ research centre has created a fantastic website for allies that are new to the community. They explain language, share do’s and don’ts, and provide advice to help you to become more sensitive to your LGTBQ+ friends and family. Websites such as these are a great place to start.
 2. [The Trevor Project](https://www.thetrevorproject.org/resources/) is really focused on helping young LGBTQ+ identifiers to live long and healthy lives. They identify the unique and painful stressors that might be experienced by members of the community and they provide several resources for allies looking to participate in healthy and helpful intersectional conversations. This is a great resource for those looking to provide greater support to their LGBTQ+ friends and family members.
-3. [GLAAD](https://www.glaad.org/resourcelist) is an American organisation which focuses on promoting a positive narrative of the LGBTQ+ community. Whilst they focus on the spheres of legal, political, and media, they also provide a list of useful publications which explore and explain key issues. These resources are useful for those who want further insight into the politico-legal aspects of LGBTQ+ struggles.
+3. [GLAAD](https://www.glaad.org/resourcelist) is an American organisation that focuses on promoting a positive narrative of the LGBTQ+ community. Whilst they focus on the spheres of legal, political, and media, they also provide a list of useful publications that explore and explain key issues. These resources are useful for those who want further insight into the politico-legal aspects of LGBTQ+ struggles.
 
 # Great Reads
 
@@ -31,13 +31,13 @@ We are aware that not everyone will agree with everything that we put forward in
 
 ![](/img/uploads/61vtzmo9htl.jpg)
 
-From a young age Justin Lee felt called into ministry in the evangelical church. He loved God and had no problem showing it! However, he also knew he was gay. In this book Lee bravely shares all his experiences, including coming out, trying an “ex-gay” movement, and his deep dive into the Bible. His story is not only a beautiful memoir, but is valuable to any Christian who want to learn how to relate to their gay friends or family members. Veering far away from thinking of himself as a victim, Lee demonstrated how gay Christians are in a unique position to be bridge builders to bring peace “in a culture that sees gays and Christians as enemies.” Lee allows people that are undecided in their convictions on this particular issue to come away with respect and love for one another.
+From a young age, Justin Lee felt called into ministry in the evangelical church. He loved God and had no problem showing it! However, he also knew he was gay. In this book, Lee bravely shares all his experiences, including coming out, trying an “ex-gay” movement, and his deep dive into the Bible. His story is not only a beautiful memoir, but is valuable to any Christian who wants to learn how to relate to their gay friends or family members. Veering far away from thinking of himself as a victim, Lee demonstrated how gay Christians are in a unique position to be bridge builders to bring peace “in a culture that sees gays and Christians as enemies.” Lee allows people that are undecided in their convictions on this particular issue to come away with respect and love for one another.
 
 ## God and the Gay Christian by Matthew Vines
 
 ![](/img/uploads/91h2ougwykl.jpg)
 
-‘God and the Gay Christian’ takes a serious look at what the Bible has to say about homosexuality. The author, Matthew Vines, dedicated years to intensive research to seek wisdom on how he should shape his life with the reality of his same-sex orientation. Vines skillfully takes on subjects from a Biblical lense such as the marriage covenant, the teachings of Jesus and how they apply to people in the LGTBQ+ community, the calling of celibacy, and the historical context of same-sex relations in the old and new testament.
+‘God and the Gay Christian’ takes a serious look at what the Bible has to say about homosexuality. The author, Matthew Vines, dedicated years to intensive research to seek wisdom on how he should shape his life with the reality of his same-sex orientation. Vines skillfully takes on subjects from a Biblical lense such as the marriage covenant, the teachings of Jesus, and how they apply to people in the LGTBQ+ community, the calling of celibacy, and the historical context of same-sex relations in the old and new testament.
 
 > “Unique in its affirmation of both an orthodox faith and sexual diversity, God and the Gay Christian has sparked heated debate, sincere soul search­ing, and widespread cultural change on the issue of what it means to be a faithful gay Christian.”
 
@@ -58,6 +58,19 @@ This book has the unique perspective of being written by a father and son. Brad 
 ![](/img/uploads/51krvzdwx-l._sy445_ql70_ml2_.jpg)
 
 ‘Feminism is Queer’ is a book that links the theoretical school of feminism and queer theory. Despite being an academic text, it is extremely accessible, and provides information on how to differentiate between sex, gender, and sexuality. The text also has a cohesive glossary filled with useful terms and concepts. Marinucci explores the inexplicable link between feminism and queer theory and how these schools cannot be separated from each other. This is a great text for anyone who wants a greater understanding of either feminism or queer theory, or a more intellectual exploration of the two.
+
+### Gay Girl, Good God by Jackie Hill Perry
+
+![](/img/uploads/9781462751228-pdpxl.jpg)
+
+In Gay Girl, Good God, Jackie Hill Perry discusses her journey with same-sex attraction and how God guided her through her life. Perry discusses how we overemphasize marraige and relationships, and that we need to refocuse our attention of God and what he calls us to. \
+She also explores this in a podcast that she does with her husband which you can find [here.](https://www.thegospelcoalition.org/podcasts/tgc-podcast/jackie-hill-perry-on-gay-girl-good-god/)
+
+### A War of Loves by David Bennett 
+
+![](/img/uploads/a-war-of-loves_0.jpg)
+
+A war of loves discusses the dramatic story of David Bennett and how he went from despising the church, to realising that it is God's ultimate plan for the Earth. Despite several different experiences in churches, God kept bringing Bennett back to him, which is an experience shared by a lot of our contributors. 
 
 # Films and TV
 
