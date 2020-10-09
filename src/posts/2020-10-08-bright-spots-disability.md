@@ -25,9 +25,17 @@ Pacing Pixie is an Instagrammer that explains all our ableist jargon and how we 
 
 https://libguides.nyit.edu/c.php?g=666045&p=4743728
 
-The New York Institute of Technology Library puts out guides that attempt to provide general information and a starting point to learning about anti-oppression, inclusion, and privilege, as well as provide knowledge and resources to key social justice issues. We especially liked their guide for ableism. Want to hear from more people with disibilities? Check out this Buzz Feed video on what people with disabilities wish able-bodied folks knew:
+The New York Institute of Technology Library puts out guides that attempt to provide general information and a starting point to learning about anti-oppression, inclusion, and privilege, as well as provide knowledge and resources to key social justice issues. We especially liked their guide for ableism. Want to hear from more people with disibilities? Check out this Buzz Feed video on what people with disabilities wish able-bodied folks knew: More of a podcast person?
 
 <iframe width="358" height="315" src="https://www.youtube.com/embed/_b7k6pEnyQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Is Disability Inherently Negative? ](https://theliturgists.com/podcast/2020/5/14/is-disability-inherently-negative)
+
+![](/img/uploads/litergist.png)
+
+More of a podcast person? We learned a lot from [the conversation between Dr. Hillary McBride and Heather McCain](https://theliturgists.com/podcast/2020/5/14/is-disability-inherently-negative) asking if disability is inherently negative. This conversation also further explained intersectionality with disability, and is just a very insightful listen. 
+
+
 
 ## [True Colors Unite](https://truecolorsunited.org/our-issue/)
 
@@ -40,8 +48,6 @@ True Colors Unite was co-founded by 80’s pop star Cyndi Lauper. They do extens
 ![](/img/uploads/raise.png)
 
 We stumbled on one more story that addressed intersectional disability. Cori Frazer describe not being the "default disabled person."  As you read this one, if you are a person who participates in a faith community, ask yourself how together can help break down the systems that cause trauma to people who Jesus loves and  created. We found this piece on [Raise ](https://www.raisecenter.org/), an organization that stands for the **National Resources for Advocacy, Independence, Self-determination and Employment** (Raise). They provide resources for youth with disabilities and their families. 
-
-
 
 ## [The Q Center ](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE)
 
