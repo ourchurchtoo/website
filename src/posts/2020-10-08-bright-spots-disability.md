@@ -1,10 +1,13 @@
 ---
 layout: layouts/post.njk
 title: "Bright Spots: Disability"
-date: 2020-10-08T21:12:16.754Z
+date: 2020-10-09T09:40:46.769Z
+image: /img/uploads/bright-spots-03-1-.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata
+artist:
+  - Brandon Heim
 tags:
   - Bright Spots
   - Disability
