@@ -34,8 +34,6 @@ The same story of the table is in Luke 14. Luke says they were at a sabbath day 
 
 Who gets a space at the table? Who do we invite in? Do we want people to bring their whole selves? Or just the fragmented bits we are comfortable with? This space I’ve tried to open up in my life, this space that we hold at Our Church Too, it isn’t a club for the like-minded, and we aren’t going to get it right all the time. By keeping the dialogue open, we will say things that offend people on both sides of the table. By reaching for authenticity, we want to hear many different voices, keeping our ears and hearts open to one another -even if we don’t agree. I truly believe we are better together, in all our diversity of thought, life, and experience, than we are in segregated holiness clubs. 
 
-> This isn’t a club for the like-minded, and we aren’t going to get it right all the time.
-
 
 Which brings us back to being our whole selves the whole time. I used to fragment myself because I was afraid to bring all of me to the table, my doubts, my left leaning politics, even the words God spoke over me, because they didn’t fit into the cultural Christianity I saw around me. Fragmenting avoided initial discomfort, but it also *hurt.* It reduced my belief that God’s people could love me, just the way I am.
 
