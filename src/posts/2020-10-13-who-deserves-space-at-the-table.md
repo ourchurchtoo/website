@@ -16,7 +16,7 @@ I’ve found it difficult to talk to some of my Christian friends about this pro
 
 > I have worked hard to present my whole self - warts and all - everywhere I go.
 
-In many ways, this project was born out of the work to be unfractured, of bringing all of me to the table. This can make me hard to categorize. I’m conservative in some ways and liberal in others. I am fundamentalist in a lot of practices but approach everything in a deconstructionist way. I want to throw open the doors of the church but also deeply concerned with justice. I am a driven female, but participate in traditions dominated by male-only leadership. I have a weak sense of human hierarchy but have no problem devoting everything in my life to God, who I call Majesty. I don’t fit into the boxes that most of my Christian peers are familiar with. 
+In many ways, this project was born out of the work to be un-fractured, bringing all of me to the table. This can make me hard to categorize. I’m conservative in some ways and liberal in others. I am fundamentalist in a lot of practices but approach everything in a deconstructionist way. I want to throw open the doors of the church but also deeply concerned with justice. I am a driven female, but participate in traditions dominated by male-only leadership. I have a weak sense of human hierarchy but have no problem devoting everything in my life to God, who I call Majesty. I don’t fit into the boxes that most of my Christian peers are familiar with. 
 
 > The more vulnerable I get, the more true to myself I get, the less these boxes fit.
 
@@ -32,11 +32,17 @@ The same story of the table is in Luke 14. Luke says they were at a sabbath day 
 
 > I truly believe we are better together, in all our diversity of thought, life, and experience, than we are in segregated holiness clubs. 
 
-So who gets a space at the table? Who do we invite in? Do we want people to bring their whole selves? Or just the fragmented bits we are comfortable with? This space I’ve tried to open up in my life, this space that we hold at Our Church Too, it isn’t a club for the like-minded, and we aren’t going to get it right all the time. By keeping the dialogue open, we will say things that offend people on both sides of the table. By reaching for authenticity, we want to hear many different voices, keeping our ears and hearts open to one another -even if we don’t agree. I truly believe we are better together, in all our diversity of thought, life, and experience, than we are in segregated holiness clubs. 
+Who gets a space at the table? Who do we invite in? Do we want people to bring their whole selves? Or just the fragmented bits we are comfortable with? This space I’ve tried to open up in my life, this space that we hold at Our Church Too, it isn’t a club for the like-minded, and we aren’t going to get it right all the time. By keeping the dialogue open, we will say things that offend people on both sides of the table. By reaching for authenticity, we want to hear many different voices, keeping our ears and hearts open to one another -even if we don’t agree. I truly believe we are better together, in all our diversity of thought, life, and experience, than we are in segregated holiness clubs. 
+
+> This isn’t a club for the like-minded, and we aren’t going to get it right all the time.
+
+
 Which brings us back to being our whole selves the whole time. I used to fragment myself because I was afraid to bring all of me to the table, my doubts, my left leaning politics, even the words God spoke over me, because they didn’t fit into the cultural Christianity I saw around me. Fragmenting avoided initial discomfort, but it also *hurt.* It reduced my belief that God’s people could love me, just the way I am.
 
 > Fragmenting avoided initial discomfort, but it also *hurt.* It reduced my belief that God’s people could love me, just the way I am.
 
 Ultimately, I was wrong. When I decided to tell people about my doubts, about my real issues, about all of me, I was met with overwhelming love and acceptance. I had a church community that caught me, that didn’t rail against me because my doctrine didn’t always line up with theirs. I was wrapped up in love; I was allowed to continue to serve in leadership. I was allowed to stay, not on a condition that I change, but because I was allowed to be a vulnerable leader who didn’t hold all the answers. I was allowed to work out my fragmentation in fear and trembling within the church walls, to stay at the table. This reaction: love, acceptance, and even admission that they didn’t have it all figured out -this feels rare.
+
+>  I was allowed to work out my fragmentation in fear and trembling within the church walls, to stay at the table. 
 
 Can we cultivate space in our lives, in our homes, in our churches?  Can we get uncomfortable? Can our churches move beyond Sunday gatherings, to an integrated experience of transforming one another as we listen with our hearts and minds? Because everyone deserves a space in the family, at the table, in the church.
