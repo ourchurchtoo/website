@@ -39,7 +39,7 @@ Which brings us back to being our whole selves the whole time. I used to fragmen
 
 > Fragmenting avoided initial discomfort, but it also *hurt.* It reduced my belief that God could love me, just the way I am.
 
-Ultimately, I was wrong. When I decided to tell people about my doubts, about my real issues, about all of me, I was met with overwhelming love and acceptance. I had a church community that caught me, that didn’t rail against me because my doctrine didn’t always line up with theirs. I was wrapped up in love; I was allowed to continue to serve in leadership. I was allowed to stay, not on a condition that I change, but because I was allowed to be a vulnerable leader who didn’t hold all the answers. I was allowed to work out my fragmentation in fear and trembling within the church walls, to stay at the table. This reaction: love, acceptance, and even admission that they didn’t have it all figured out -this feels rare.
+Ultimately, I was wrong. When I decided to tell people about my doubts, about my real issues, about all of me, I was met with overwhelming love and acceptance. I had a church family that caught me, that didn’t rail against me because my doctrine didn’t always line up with theirs. I was wrapped up in love; I was allowed to continue to serve in leadership. I was allowed to stay, not on a condition that I change, but because I was allowed to be a vulnerable leader who didn’t hold all the answers. I was allowed to work out my fragmentation in fear and trembling within the church walls, to stay at the table. This reaction: love, acceptance, and even admission that they didn’t have it all figured out -this feels rare.
 
 >  I was allowed to work out my fragmentation in fear and trembling within the church walls, to stay at the table. 
 
