@@ -9,6 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - Mission
+  - Family
 category: Article
 ---
 I’ve found it difficult to talk to some of my Christian friends about this project. I bring up the website, or maybe they tentatively ask, but right away I can sense their discomfort: “I don’t know if I agree.”  I can see written on their faces. In light of their discomfort, I tend to let the conversation drift off. I don’t want to push people into conversations they are not ready to have. This is strange for me, because I have worked hard over the past 6 years to be one thing all the time. What I mean by that is, I used to fracture myself into different personas at different times. I think we all do this a little bit: work-persona, church-persona, social-persona. For me, this segmenting came out of a deep desire to love and serve people. I tried to be the “me” that the person in front of me needed. Over time, I was exhausted and compromised. Through therapy, reflection, and a prayerful meditation practice, I have worked hard to present my whole self - warts and all - everywhere I go. In light of this project, I can feel myself reading the room, choosing my words carefully, editing to see if I can share my thoughts or if it would be safer to keep them to myself. I am not fracturing- but I am editing and silencing myself for the comfort of others.
