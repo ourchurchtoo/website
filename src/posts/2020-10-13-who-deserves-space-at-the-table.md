@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Who Deserves Space at the Table? "
-date: 2020-10-14T07:39:02.049Z
+date: 2020-10-14T07:55:40.025Z
 image: /img/uploads/spaceatthetable.jpg
 contributor:
   - Erin Iwata
