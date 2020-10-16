@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Bright Spots: Dignity"
-date: 2020-10-15T15:48:14.605Z
+date: 2020-10-16T07:46:16.371Z
 image: /img/uploads/bright-spots-07.jpg
 contributor:
   - Erin Iwata
