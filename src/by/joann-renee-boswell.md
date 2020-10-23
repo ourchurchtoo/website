@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 title: Joann Renee Boswell
 image: /img/uploads/joheadshots19-2.jpg
-role: Poet, contributor, photographer
+role: Contributor
 instagram: https://www.instagram.com/jrbpoetry/
 tags: contributor
 ---
