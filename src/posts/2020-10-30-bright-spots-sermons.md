@@ -33,17 +33,13 @@ Pastor Tope gave this brief sermon four months ago after George Floyd was killed
 
 In this dialogue between Bible scholars and Professor of Social Ethics and Latinx Studies, Miguel De La Torre, shares why we all need to examine where our biblical interpretations come from and why we need to diversify our understandings of the Bible.
 
-## Tim Mackie 
+## Tim Mackie
 
 ### [The Bible Project](https://bibleproject.com/)
 
 Tim Mackie is co-creator of the Bible project. You can listen to him go in depth with Biblical theme with his co-creator and guest speaks at The Bible Project Podcast. You can also listen to some stellar sermons that he gave at Door of Hope Church in Portland, Oregon by listening to the "[Exploring My Strange Bible Podcast.](https://bibleproject.com/podcasts/exploring-my-strange-bible/)" We especially love his explanation of heaven and earth- and what that means as we live on Earth.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zy2AQlK6C5k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-
-
-
 
 ## Brooke Prentis
 
