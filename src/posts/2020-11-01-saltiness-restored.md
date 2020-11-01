@@ -12,7 +12,38 @@ tags:
   - Family
 category: Article
 ---
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
+> \
+> “You are the salt of the earth; but if salt has lost its taste, how can its saltiness be restored?   It is no longer good for anything, but is thrown out and trampled under foot.”   —Matthew 5:13 (NRSV)
+
+\
+lick me\
+I am stone\
+found worthy only in stillness\
+maracas abundant,\
+burlesque told don’t\
+look back. your future is fictile. 
+shackled by fear\
+these salty ladies freeze\
+pillar-wives of Lot\
+my shakers are shapely\
+smooth curves\
+warm to the touch\
+Shakira takes chisel\
+stifled shimmy revives\
+we join J Lo\
+shake it all out\
+these centuries of underwire,\
+long underwear, bloomers,\
+layering modesty panels,\
+board shorts and baggy T-shirts over\
+one-piece bathing suits\
+halftime social media aftermath trampling\
+deepens my sparkles\
+gyrating eternally into freedom 
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 > I was sitting on the pew of my Quaker meeting the Sunday after the Super Bowl (the American football championship) listening to a message on the passage referenced here about salt losing its saltiness. I thought about the modern meaning of being “salty”. In contemporary settings if someone is said to be salty, it can mean that they’ve had a sudden change of mood or that they are annoyed, irritated, or hostile.\
 > \
