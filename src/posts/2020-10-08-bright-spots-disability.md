@@ -28,7 +28,11 @@ Pacing Pixie is an Instagrammer that explains all our ableist jargon and how we 
 
 [The New York Institute of Technology Library](https://libguides.nyit.edu/c.php?g=666045&p=4743728) creates guides that attempt to provide general information and a starting point to learning about anti-oppression, inclusion, and privilege, as well as provide knowledge and resources to key social justice issues. We especially liked their guide for ableism. Want to hear from more people with disabilities? Check out this Buzz Feed video on what people with disabilities wish able-bodied folks knew.
 
-<iframe width="358" height="315" src="https://www.youtube.com/embed/_b7k6pEnyQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='gallery'>
+  <div id='video' class='video__wrapper is-wider'>
+    <iframe src="https://www.youtube.com/embed/_b7k6pEnyQ4?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;  height: 100%"></iframe>
+  </div>
+</div>
 
 [Is Disability Inherently Negative? ](https://theliturgists.com/podcast/2020/5/14/is-disability-inherently-negative)
 
