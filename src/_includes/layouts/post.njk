@@ -14,20 +14,20 @@ layout: /layouts/base.njk
             {% endif %}
           {% endfor %}'>{{ person }}</a>{% if loop.revindex0 === 0 %}{% elif loop.revindex0 === 1 %} &amp; {% else %}, {% endif %}
         {% endfor %}</h4>
+        {% if artist %}
+          <h4>Art by {% for person in artist %}<a class='link--color' href='{% for item in collections.contributors %}
+            {% if item.data.title === person %}
+              {{ item.url }}
+            {% endif %}
+          {% endfor %}'>{{ person }}</a>{% if loop.revindex0 === 0 %}{% elif loop.revindex0 === 1 %} &amp; {% else %}, {% endif %}
+          {% endfor %}</h4>
+        {% endif %}
         {% include 'partials/post-social.njk' %}
         {% endif %}
       </div>
 
       {% if image and category !== 'Video' %}
         <img class='post__hero' src='{{ image }}' />
-        {% if artist %}
-          <p class='post__artist'>Art by {% for person in artist %}<a class='link--color' href='{% for item in collections.contributors %}
-            {% if item.data.title === person %}
-              {{ item.url }}
-            {% endif %}
-          {% endfor %}'>{{ person }}</a>{% if loop.revindex0 === 0 %}{% elif loop.revindex0 === 1 %} &amp; {% else %}, {% endif %}
-        {% endfor %}</p>
-        {% endif %}
       {% endif %}
 
       <div class='post__content'>
