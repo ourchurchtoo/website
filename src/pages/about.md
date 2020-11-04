@@ -33,6 +33,13 @@ get_involved:
       contributions to the project, so please send us an email if you’re into
       it!
 ---
+
+<div class='gallery'>
+  <div id='video' class='video__wrapper is-wider'>
+    <iframe src="https://www.youtube.com/embed/Tfp7BRCxMOQ?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;  height: 100%"></iframe>
+  </div>
+</div>
+
 # Mission Statement
 
 ### Our Mission:
