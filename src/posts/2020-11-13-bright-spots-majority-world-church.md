@@ -48,7 +48,7 @@ The Soong-Chan Rah is a Korean American professor and reverend who gave this ste
 
 <div class='gallery'>
   <div id='video' class='video__wrapper is-wider'>
-    <iframe src="https://www.youtube.com/embed/\*\*U6-z-DbVqF4\*\*?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;  height: 100%"></iframe>
+    <iframe src="https://www.youtube.com/embed/\\*\\*U6-z-DbVqF4\\*\\*?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;  height: 100%"></iframe>
   </div>
 </div>
 
@@ -57,3 +57,17 @@ The Soong-Chan Rah is a Korean American professor and reverend who gave this ste
 ![](/img/uploads/ethopian-church.jpg)
 
 Matthew Bryan wrote this article detailed one of the oldest established churches on the planet. We have a lot to learn (and celebrate) about our rich world Christian history. Use this as a launch pad into the multidimensional aspects of Jesus followers.
+
+
+
+# [The World Church](https://www.gordonconwell.edu/wp-content/uploads/sites/13/2019/04/GlobalChristianityinfographic.pdfPg1_.pdf?__cf_chl_jschl_tk__=31432e52b8536b3406f88a7636c9d05beff6655d-1605269990-0-Ac1S8vAZKWS2pY-YQBFbDYU7Xzm_eHSVc4uM1RAiLLWlBX4kSV4kUJwvCbGvy9R_GdlBlbPvqcOZOXC4I0G7gqzK9aiZO1L63sq7nUm4GqRtgRNHsiBnVQIuzbC3Oj4vXXACJFS__6Ycx8hXQbnRAcBJ9Z-aZTWp89YI4FoB-Ox7obva3F5KqJ6o5m6QkORQeI4qIRLIpoQppqdfz6pwpxlAui6WS4fGtCNqUvgZXy0SYBcS12YgjYIvpVEpgiXtCY6G4YCAZu_N4fSr7vs9n-YkUPWv2Zx2IxENo1TkF1N-ZIHMo8YrvMktY1uIWMQPiUHOzqP3hf59jnqzcNqVZGCjHdPNodwCwmaYvLp_6vc-ftAz0Vp73VMkoJ-S-XsqQ-SVAQf_0uSUql99h8B-VK-LPFpX-YHPS1v7PJK1oDevOCcUwAzXY5zqPBNpi9xtpA)
+
+Want to see how Christianity is distributed? This graphic from the Center for the study of Global Christianity gives some recent statistics on what the Church looks like worldwide. This makes us want to learn a lot more about theology and how the diverse church functions all over the of the world.
+
+
+
+
+
+![](/img/uploads/globalchristianityinfographic-1.jpg)
+
+![](/img/uploads/globalchristianityinfographic-2.jpg)
