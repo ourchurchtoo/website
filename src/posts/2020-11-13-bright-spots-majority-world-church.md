@@ -48,11 +48,11 @@ The Soong-Chan Rah is a Korean American professor and reverend who gave this ste
 
 <div class='gallery'>
   <div id='video' class='video__wrapper is-wider'>
-    <iframe src="https://www.youtube.com/embed/**U6-z-DbVqF4**?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;  height: 100%"></iframe>
+    <iframe src="https://www.youtube.com/embed/\*\*U6-z-DbVqF4\*\*?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;  height: 100%"></iframe>
   </div>
 </div>
 
-# **[The Curious Case of Ethiopian ](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)****[ Orthodoxy](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)**
+# [The Curious Case of Ethiopian Orthodoxy](<https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)****[ Orthodoxy](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy>)
 
 ![](/img/uploads/ethopian-church.jpg)
 
