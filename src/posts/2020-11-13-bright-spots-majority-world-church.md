@@ -16,8 +16,6 @@ category: Article
 ---
 It’s worthwhile to note that the majority of Christians are not white. As of 2018, Africa was the continent with the most Christians, with South American following right behind. This week we explored two articles by Ritsya-el Mathews and Elisabeth Hoole, both written from a non-white perspective. Today in our Bright Spots, we want to give a tiny sample of some of the other world voices in Christianity that are inspiring us. As John Ehrett from [The Conciliar Post](https://conciliarpost.com/theology-spirituality/ecumenism/world-christianity-global-christianity/) stated:  *“Christianity ought not be established at the point of a sword (whether literal or economic). Instead, contextual theology—essentially, the use of images and concepts already familiar to a given culture—ought to be employed wherever possible to communicate Christian ideas. In so doing, the argument goes, the individual engaged in mission work recognizes the value and legitimacy of traditions not one’s own.”*
 
-
-
 # **[Afua Kuma](https://dacb.org/stories/ghana/afua-kuma/)**
 
 ![](/img/uploads/afua-kuma-headshot.jpg)
@@ -39,11 +37,8 @@ Afua Kuma was an oral poet in Ghana who lived from 1900-1987. We love [this arti
 > he has caught Sasabonsam\
 > and twisted off its head.”
 
-
 According to Kwame Bediao, “Mmoatia are supposed to be mysterious creatures with superhuman powers, that dwell deep in the forest; they are believed to be tiny, with feet that point backwards; suspending themselves from trees, they wait for the unwary hunter in the pitch darkness of night. At their head, as their head spirit, is Sasabonsam with bloodshot eyes.”\
 Jesus is above all the ” Tutugyagu ,” the “Fearless One” who “pulled the teeth of the viper”; He is ” Adubasapon " the man of ten-arms-in-one who “has tied death to a tree/ So that we may be happy.”
-
-
 
 # **[Reverend Soong-Chan Rah](https://profrah.wordpress.com/about/)**
 
@@ -51,11 +46,13 @@ Jesus is above all the ” Tutugyagu ,” the “Fearless One” who “pulled t
 
 The Soong-Chan Rah is a Korean American professor and reverend who gave this stellar sermon to the [Foundations of Life Covenant Church in Madison, Wisconsin](https://folmadison.org). The topic is lament, we felt a call to action in his words. Rah is formerly the founding Senior Pastor of a multi-ethnic, urban ministry-focused church committed to living out the values of racial reconciliation and social justice in the urban context. 
 
-**<iframe width="560" height="315" src="https://www.youtube.com/embed/U6-z-DbVqF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**
+<div class='gallery'>
+  <div id='video' class='video__wrapper is-wider'>
+    <iframe src="https://www.youtube.com/embed/**U6-z-DbVqF4**?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;  height: 100%"></iframe>
+  </div>
+</div>
 
-
-
-# **[The Curious Case of Ethiopian ](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)[ Orthodoxy](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)**
+# **[The Curious Case of Ethiopian ](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)****[ Orthodoxy](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)**
 
 ![](/img/uploads/ethopian-church.jpg)
 
