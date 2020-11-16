@@ -13,14 +13,12 @@ tags:
   - Mission
 category: Article
 ---
+*When the toast has burned and all the milk has turned 
+And Captain Crunch is waving farewell 
+When the big one finds you, may this song remind you 
+That they don’t serve breakfast in hell* 
 
-
-> *When the toast has burned and all the milk has turned 
-> And Captain Crunch is waving farewell 
-> When the big one finds you, may this song remind you 
-> That they don’t serve breakfast in hell* 
->
-> > * *“[Breakfast](https://youtu.be/pNkrvcrpQhU),” Newsboys, 1996* 
+*“[Breakfast](https://youtu.be/pNkrvcrpQhU),” Newsboys, 1996* 
 
 I first heard the Contemporary Christian Music group Newsboys at a church summer camp in 1995, when the unmistakable tones of their single “[Shine](https://youtu.be/m8y3IKarEVY)” pealed through the gymnasium. I was standing with my teammates waiting to square off against three other groups of students in one of those classic exercises that was more about the potential to expend energy than to demonstrate coordination of skill. I was no stranger to music, but to that point the selections I listened to were chosen by my mother or grandmother, and this song had intriguing new textures that instantly drew me in. Over the course of my church youth group involvement in the following years, I listened to everything they made. From my perspective today, some of the lyrics seem trite and laughable, and some of the content no longer accurately represents the way I see the world, but then, art at its best has never been about scientific accuracy. It would seem to me that beyond the function of belief transmission and doctrinal soundness, assumed by so many in evangelical Christian churches to be the point of the work, lies a deeper truth that resonates with the core of my being. 
 
