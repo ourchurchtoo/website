@@ -80,4 +80,7 @@ module.exports = {
     });
     return md.render(input);
   },
+  sortAlpha(input) {
+    return input.sort((a, b) => a.data.title.localeCompare(b.data.title));
+  },
 };

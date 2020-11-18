@@ -17,13 +17,13 @@ layout: layouts/base.njk
   </div>
   <div class='row'>
   <div class='col-xs-12 text-center'><h1>Contributors</h1></div>
-    {% for person in collections.contributor | reverse %}
+    {% for person in collections.contributor | sortAlpha %}
       {% include 'partials/contributor.njk' %}
     {% endfor %}
   </div>
   <div class='row'>
   <div class='col-xs-12 text-center'><h1>Artists</h1></div>
-    {% for person in collections.artist | reverse %}
+    {% for person in collections.artist | sortAlpha %}
       {% include 'partials/contributor.njk' %}
     {% endfor %}
   </div>
