@@ -9,7 +9,7 @@ contributor:
 artist:
   - Brandon Heim
 tags:
-  - Bright Spots
+  - bright_spots
 category: Article
 ---
 When we started this project, we wanted to highlight the positives as well as illuminate the problems. While we don't have clear answers, there are plenty of people out there who do have ideas and expertise; from whom we have a lot to learn. We believe there is a lot of good in the world, and a lot of spaces where people are involved in amazing projects which we want to or bring attention to. We want to collaborate with these world and perspective changers. They come in many forms, including: awesome podcasts, insightful research, thoughtful books, inspiring poems, on-point instagrammers, and organizations that have already carved out incredible spaces for people to collaborate, educate, and grow together.

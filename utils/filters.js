@@ -83,4 +83,20 @@ module.exports = {
   sortAlpha(input) {
     return input.sort((a, b) => a.data.title.localeCompare(b.data.title));
   },
+  postReadableLabel(label) {
+    let readableLabel = '';
+    switch (label) {
+      case 'lgbtq':
+        readableLabel = 'LGBTQ+';
+        break;
+      case 'bright_spots':
+        readableLabel = 'Bright Spots';
+        break;
+      default:
+        readableLabel = label.charAt(0).toUpperCase() + label.slice(1);
+        break;
+    }
+
+    return readableLabel;
+  },
 };

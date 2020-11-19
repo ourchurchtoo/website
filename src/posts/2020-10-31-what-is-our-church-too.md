@@ -7,7 +7,7 @@ contributor:
   - Indy Hollway
   - Erin Iwata
 tags:
-  - Mission
+  - mission
 category: Video
 ---
 This video is all about who we are, what our mission is, what our values are, and what you can expect from our platform. We hope this not only clarifies things but also gets you excited about the project!

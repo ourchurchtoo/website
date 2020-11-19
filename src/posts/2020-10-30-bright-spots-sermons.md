@@ -8,12 +8,12 @@ contributor:
 artist:
   - Brandon Heim
 tags:
-  - Bright Spots
-  - Race
-  - Guest
+  - bright_spots
+  - race
+  - guest
 category: Article
 ---
-This week we heard great wisdom from Cynthia Akinsanya and Jan Pierce. While Jan was reflecting back on her life, Cynthia was reaching forward towards hope for her daughter. As we sit with what we are learning from these two amazing women, we thought we would point to another source of wisdom. For many Christians, the weekly sermon is a space where we listen or engage with what we hope will be a bit of wisdom to challenge and grow us. Even if you don't attend church, you might be familiar with the format if you like listening to podcasts or TED talks.  Here are a handful of sermons that you might be interested in listening to. If you like them, most of them have something to say every week. We have linked to their YouTube channel or podcast so you can listen to more. 
+This week we heard great wisdom from Cynthia Akinsanya and Jan Pierce. While Jan was reflecting back on her life, Cynthia was reaching forward towards hope for her daughter. As we sit with what we are learning from these two amazing women, we thought we would point to another source of wisdom. For many Christians, the weekly sermon is a space where we listen or engage with what we hope will be a bit of wisdom to challenge and grow us. Even if you don't attend church, you might be familiar with the format if you like listening to podcasts or TED talks.  Here are a handful of sermons that you might be interested in listening to. If you like them, most of them have something to say every week. We have linked to their YouTube channel or podcast so you can listen to more.
 
 ## Pastor Tope Kuleoso
 
@@ -21,7 +21,7 @@ This week we heard great wisdom from Cynthia Akinsanya and Jan Pierce. While Jan
 
 ![](/img/uploads/jubliee-church-london.jpg)
 
-Pastor Tope gave this brief sermon four months ago after George Floyd was killed. He speaks directly about how the Gospel compels us to speak up against injustice. Everyone take a moment to listen to this genuine outlook. 
+Pastor Tope gave this brief sermon four months ago after George Floyd was killed. He speaks directly about how the Gospel compels us to speak up against injustice. Everyone take a moment to listen to this genuine outlook.
 
 <div class='gallery'>
   <div id='video' class='video__wrapper is-wider'>
@@ -55,7 +55,7 @@ Tim Mackie is co-creator of the Bible project. You can listen to him go in depth
 
 ![](/img/uploads/brooke_prentis.jpg)
 
-Continuing their feature of Bible wisdom from a non-western perspective, the Bible scholars at "The Bible for Normal People" interview Brooke Prentis an Aboriginal leader and CEO of a Christian organization in Australia called Common Grace. On this episode, she shares with us some Aboriginal perspectives on the Bible and how the Bible speaks to the injustices that Aboriginal people have faced and continue to face. It was an eye opening preach! Give it a listen. 
+Continuing their feature of Bible wisdom from a non-western perspective, the Bible scholars at "The Bible for Normal People" interview Brooke Prentis an Aboriginal leader and CEO of a Christian organization in Australia called Common Grace. On this episode, she shares with us some Aboriginal perspectives on the Bible and how the Bible speaks to the injustices that Aboriginal people have faced and continue to face. It was an eye opening preach! Give it a listen.
 
 ## Pastor Will Vollstadt
 
@@ -63,7 +63,7 @@ Continuing their feature of Bible wisdom from a non-western perspective, the Bib
 
 ![](/img/uploads/grace-and-glory-logo.jpg)
 
-This sermon also came 4 month ago, but instead of an urban church in London, a small predominantly white church on the West coast of America. In this sermon we hear from various members of the church as they reflect and move towards real change in their daily lives. We also highly recommend the sermon on Lament, which came the week before this one. Will has been listening, learning and being transformed along with the church he walks with. 
+This sermon also came 4 month ago, but instead of an urban church in London, a small predominantly white church on the West coast of America. In this sermon we hear from various members of the church as they reflect and move towards real change in their daily lives. We also highly recommend the sermon on Lament, which came the week before this one. Will has been listening, learning and being transformed along with the church he walks with.
 
 <div class='gallery'>
   <div id='video' class='video__wrapper is-wider'>

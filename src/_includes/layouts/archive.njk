@@ -1,6 +1,45 @@
 ---
 layout: layouts/base.njk
 ---
+
+{% set filtersList = [
+  {
+    id: 'all',
+    label: 'All'
+  },
+  {
+    id: 'mission',
+    label: "Mission"
+  },
+  {
+    id: 'guest',
+    label: "Guest"
+  },
+  {
+    id: 'race',
+    label: "Race"
+  },
+  {
+    id: 'lgbtq',
+    label: "LGBTQ+"
+  },
+  {
+    id: 'disability',
+    label: "Disability"
+  },
+  {
+    id: 'family',
+    label: "Family"
+  },
+  {
+    id: 'poetry',
+    label: "Poetry"
+  },
+  {
+    id: 'bright_spots',
+    label: "Bright Spots"
+  }
+] %}
 <div class='section section--hero'>
   <div class='row center-md'>
     <div class='col col-xs-12 col-md-8 col--text'>
@@ -9,9 +48,32 @@ layout: layouts/base.njk
   </div>
 </div>
 <div class='section section--articles'>
-  <div class='row'>
-    {% for item in collections.posts %}
-      {% include 'partials/article-mini.njk' %}
-    {% endfor %}
+  <div class='filter__wrapper'>
+    <div class='row'>
+      <div class='col-xs-12'>
+        <div class='select__wrapper select__wrapper--caps-centered'>
+          <select class='input js-radio-filter-select'>
+            {% for filter in filtersList %}
+              <option value='filter-{{ filter.id }}' {{ 'selected' if loop.first }}>{{ filter.label }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        {% for filter in filtersList %}
+          <input id='filter-{{ filter.id }}' value='{{ filter.id }}' name='filter' type='radio' class='filter__input' {{ 'checked' if loop.first }}>
+          <label for='filter-{{ filter.id }}' class='filter__label js-tab-marker__target {{ "js-tab-marker--default" if loop.first }}'>{{ filter.label }}</label>
+        {% endfor %}
+
+        <div class='tab-marker js-tab-marker--filter'></div>
+
+        <div class='archive__list'>
+          <div class='row'>
+            {% for item in collections.posts %}
+              {% include 'partials/article-mini.njk' %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

@@ -1,0 +1,93 @@
+.filter__wrapper {
+  position: relative;
+
+  $filter-grid-spacing: 50px;
+  $filter-label-margin: 30px;
+
+  &::before {
+    @include pseudo();
+    top: -$filter-label-margin;
+    z-index: -1;
+    width: 100%;
+    height: 80px;
+    border-bottom: 1px solid rgba(palette(blue), 0.2);
+  }
+
+  .tab-marker {
+    top: 47px;
+
+    @include screen-max($screen-md) {
+      display: none;
+    }
+  }
+
+  input {
+    display: none;
+
+    &:checked {
+      + .filter__label {
+        opacity: 1;
+      }
+    }
+  }
+
+  .article-mini__wrapper {
+    display: none;
+  }
+
+  $filters-list: all, mission, guest, race, lgbtq, disability, family, poetry, bright_spots;
+
+  @each $filter in $filters-list {
+    input#filter-#{$filter}:checked ~ .archive__list .article-mini__wrapper[data-filter~='#{$filter}'] {
+      @if ($filter == 'all') {
+        display: block;
+      } @else {
+        display: block !important;
+      }
+    }
+  }
+
+  .select__wrapper {
+    display: block;
+    width: 100%;
+
+
+    select {
+      @extend %font-sans-upper;
+      width: 100%;
+      padding: 10px;
+      border-radius: $border-radius;
+      appearance: none;
+      -webkit-appearance: none;
+      text-align: center;
+      text-align-last: center;
+    }
+
+    @include breakpoint(md) {
+      display: none;
+    }
+
+    .input {
+      background-color: palette(grey, cloudy);
+    }
+  }
+
+  .filter__label {
+    @extend %font-sans-upper;
+    @include transition(opacity);
+    display: none;
+    margin: 0 10px;
+    padding: 12px 11px; // aligns better with tab-marker
+    border-radius: $border-radius;
+    opacity: 0.3;
+    cursor: pointer;
+
+    @include breakpoint(md) {
+      display: inline-block;
+    }
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}

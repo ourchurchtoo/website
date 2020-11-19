@@ -9,9 +9,9 @@ contributor:
 artist:
   - Brandon Heim
 tags:
-  - Bright Spots
-  - Mission
-  - Race
+  - bright_spots
+  - mission
+  - race
 category: Article
 ---
 It’s worthwhile to note that the majority of Christians are not white. As of 2018, Africa was the continent with the most Christians, with South American following right behind. This week we explored two articles by Ritsya-el Mathews and Elisabeth Hoole, both written from a non-white perspective. Today in our Bright Spots, we want to give a tiny sample of some of the other world voices in Christianity that are inspiring us. As John Ehrett from [The Conciliar Post](https://conciliarpost.com/theology-spirituality/ecumenism/world-christianity-global-christianity/) stated:  *“Christianity ought not be established at the point of a sword (whether literal or economic). Instead, contextual theology—essentially, the use of images and concepts already familiar to a given culture—ought to be employed wherever possible to communicate Christian ideas. In so doing, the argument goes, the individual engaged in mission work recognizes the value and legitimacy of traditions not one’s own.”*
@@ -44,7 +44,7 @@ Jesus is above all the ” Tutugyagu ,” the “Fearless One” who “pulled t
 
 ![](/img/uploads/profezsor-rah.jpg)
 
-The Soong-Chan Rah is a Korean American professor and reverend who gave this stellar sermon to the [Foundations of Life Covenant Church in Madison, Wisconsin](https://folmadison.org). The topic is lament, we felt a call to action in his words. Rah is formerly the founding Senior Pastor of a multi-ethnic, urban ministry-focused church committed to living out the values of racial reconciliation and social justice in the urban context. 
+The Soong-Chan Rah is a Korean American professor and reverend who gave this stellar sermon to the [Foundations of Life Covenant Church in Madison, Wisconsin](https://folmadison.org). The topic is lament, we felt a call to action in his words. Rah is formerly the founding Senior Pastor of a multi-ethnic, urban ministry-focused church committed to living out the values of racial reconciliation and social justice in the urban context.
 
 <div class='gallery'>
   <div id='video' class='video__wrapper is-wider'>

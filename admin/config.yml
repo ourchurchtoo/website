@@ -58,14 +58,14 @@ collections:
         min: 1,
         max: 3,
         options: [
-          "Mission",
-          "Guest",
-          "Race",
-          "LGBTQ+",
-          "Disability",
-          "Family",
-          "Poetry",
-          "Bright Spots"
+          mission,
+          guest,
+          race,
+          lgbtq,
+          disability,
+          family,
+          poetry,
+          bright_spots
         ]
       }
       - { label: "Category",

@@ -8,9 +8,9 @@ contributor:
 artist:
   - Katy Hollway
 tags:
-  - Guest
-  - Disability
-  - Poetry
+  - guest
+  - disability
+  - poetry
 category: Article
 ---
 The world around me feels like an old computer game\

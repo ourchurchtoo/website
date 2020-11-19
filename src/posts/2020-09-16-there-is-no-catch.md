@@ -8,8 +8,8 @@ contributor:
 artist:
   - Katy Hollway
 tags:
-  - Mission
-  - Family
+  - mission
+  - family
 category: Article
 ---
 The promise of Christ is that all who labour and are heavy laden can receive rest. All who seek and search after God with their hearts will find Him. All who are lost, or downtrodden, or forgotten can be found in Him. Christ made a way for us - sinful, sinful us, to be crowned with glory, and clothed in his righteousness. I don’t know about you, but all this goodness sometimes makes me wonder - “what’s the catch?”

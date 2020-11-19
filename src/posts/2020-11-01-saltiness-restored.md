@@ -8,9 +8,9 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - Poetry
-  - Guest
-  - Family
+  - poetry
+  - guest
+  - family
 category: Article
 ---
 > \
@@ -23,7 +23,7 @@ found worthy only in stillness
 
 maracas abundant,\
 burlesque told *don’t*\
-*look back. your future is fictile.* 
+*look back. your future is fictile.*
 
 shackled by fear\
 these salty ladies freeze\
@@ -47,7 +47,7 @@ one-piece bathing suits
 
 halftime social media aftermath trampling\
 deepens my sparkles\
-gyrating eternally into freedom 
+gyrating eternally into freedom
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

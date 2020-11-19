@@ -9,18 +9,18 @@ contributor:
 artist:
   - Brandon Heim
 tags:
-  - Bright Spots
-  - Disability
-  - LGBTQ+
+  - bright_spots
+  - disability
+  - lgbtq
 category: Article
 ---
-This week we heard stories and poetry from Debbie and Candice. Both are people with disabilities. Candice is also identifies transgender. Each week, we hope these stories leave you with a perspective you might not have had before, deeper empathy, and curiosity that propels you forward to your own growth and curiosity. We recognize that encountering different points of view can be uncomfortable. We want take Fridays to focus on the bright spots: resources and people that are doing something especially well with the topics we have touched on this week. Use this to further your journey into stories that are not often shared in the church:  
+This week we heard stories and poetry from Debbie and Candice. Both are people with disabilities. Candice is also identifies transgender. Each week, we hope these stories leave you with a perspective you might not have had before, deeper empathy, and curiosity that propels you forward to your own growth and curiosity. We recognize that encountering different points of view can be uncomfortable. We want take Fridays to focus on the bright spots: resources and people that are doing something especially well with the topics we have touched on this week. Use this to further your journey into stories that are not often shared in the church:
 
 ## [Pacing Pixie](https://www.instagram.com/pacingpixie/)
 
 ![](/img/uploads/pixie.jpg)
 
-Pacing Pixie is an Instagrammer that explains all our ableist jargon and how we can move towards thinking more inclusively in regards to our bodies. Follow this positive, pixie dust queen as she navigates life with a disability. 
+Pacing Pixie is an Instagrammer that explains all our ableist jargon and how we can move towards thinking more inclusively in regards to our bodies. Follow this positive, pixie dust queen as she navigates life with a disability.
 
 ## [New York Institute of Technology Library](https://libguides.nyit.edu/c.php?g=666045&p=4743728)
 
@@ -38,7 +38,7 @@ Pacing Pixie is an Instagrammer that explains all our ableist jargon and how we 
 
 ![](/img/uploads/litergist.png)
 
-More of a podcast person? We learned a lot from [the conversation between Dr. Hillary McBride and Heather McCain](https://theliturgists.com/podcast/2020/5/14/is-disability-inherently-negative) asking if disability is inherently negative. This conversation also further explained intersectionality with disability, and is just a very insightful listen. 
+More of a podcast person? We learned a lot from [the conversation between Dr. Hillary McBride and Heather McCain](https://theliturgists.com/podcast/2020/5/14/is-disability-inherently-negative) asking if disability is inherently negative. This conversation also further explained intersectionality with disability, and is just a very insightful listen.
 
 
 
@@ -46,13 +46,13 @@ More of a podcast person? We learned a lot from [the conversation between Dr. Hi
 
 ![](/img/uploads/true-colors-unite-1-.jpg)
 
-True Colors Unite was co-founded by 80’s pop star Cyndi Lauper. They do extensive research and find solutions for homeless youth focused on the LGTBQ+ community. Their site is packed full of information and ideas to combat homelessness among LGTBQ+ youth. Go take a look! 
+True Colors Unite was co-founded by 80’s pop star Cyndi Lauper. They do extensive research and find solutions for homeless youth focused on the LGTBQ+ community. Their site is packed full of information and ideas to combat homelessness among LGTBQ+ youth. Go take a look!
 
 [Raise](https://www.raisecenter.org/disability-and-intersectionality-not-the-default-disabled-person/)
 
 ![](/img/uploads/raise.png)
 
-We stumbled on one more story that addressed intersectional disability. Cori Frazer describe not being the "default disabled person."  As you read this one, if you are a person who participates in a faith community, ask yourself how together can help break down the systems that cause trauma to people who Jesus loves and  created. We found this piece on [Raise](https://www.raisecenter.org/), an organization that stands for the **National Resources for Advocacy, Independence, Self-determination and Employment** (Raise). They provide resources for youth with disabilities and their families. 
+We stumbled on one more story that addressed intersectional disability. Cori Frazer describe not being the "default disabled person."  As you read this one, if you are a person who participates in a faith community, ask yourself how together can help break down the systems that cause trauma to people who Jesus loves and  created. We found this piece on [Raise](https://www.raisecenter.org/), an organization that stands for the **National Resources for Advocacy, Independence, Self-determination and Employment** (Raise). They provide resources for youth with disabilities and their families.
 
 ## [The Q Center ](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE)
 

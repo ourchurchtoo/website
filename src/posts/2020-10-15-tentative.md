@@ -8,7 +8,7 @@ contributor:
 artist:
   - Ilona Wilson
 tags:
-  - Poetry
+  - poetry
 category: Article
 ---
 You see, I was stressed\
@@ -25,14 +25,14 @@ Like Tetris but with cats”.\
 And God said “Okay”,\
 And sat with me and watched me play. \
 I beat my high score that day\
-But I wasn't happy anyway. 
+But I wasn't happy anyway.
 
 So I said, “I'm going to pop to the shop”\
 And God said “Sounds great”\
 So we went \
 And I spent \
 And I still felt pressed\
-I still felt stressed. 
+I still felt stressed.
 
 So I said “I'm going to sew”\
 And God said “let's go.”\
@@ -54,7 +54,7 @@ I swim towards it but I'm cold,\
 I know that I can't do it alone. \
 And I cry out to God\
 “Abba! Father!”\
-And a big, warm wave pushes me home. 
+And a big, warm wave pushes me home.
 
 And I'm safe. \
 And I am home. \

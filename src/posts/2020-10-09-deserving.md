@@ -8,8 +8,8 @@ contributor:
 artist:
   - Ilona Wilson
 tags:
-  - Mission
-  - Family
+  - mission
+  - family
 category: Art
 ---
 ![](/img/uploads/whatsapp-image-2020-09-26-at-08.16.10.jpeg)

@@ -14,7 +14,7 @@
             </span>
             <span class='item__tags'>
               {% for tag in item.data.tags %}
-                {{ tag }}{% if loop.last !== true %},{% endif %}
+                {{ tag | postReadableLabel }}{% if loop.last !== true %},{% endif %}
               {% endfor %}
             </span>
           </p>

@@ -1,0 +1,14 @@
+.tab-marker {
+  @include transition();
+  position: absolute;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: palette(blue);
+  opacity: 0;
+  pointer-events: none;
+
+  &.is-active {
+    opacity: 1;
+  }
+}

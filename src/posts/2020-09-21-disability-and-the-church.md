@@ -8,8 +8,8 @@ contributor:
 artist:
   - Hadeel McCall
 tags:
-  - Guest
-  - Disability
+  - guest
+  - disability
 category: Article
 ---
 I was practically born into the church and I became a Christian at a very young age. My faith is a huge part of who I am - it shapes my identity. I see the value in gathering as a community of believers, and finding a church to belong to is usually the first thing I do when I move to a new city. **But**, church is also a place I struggle deeply to feel accepted in. When I was 19, I became sick with a chronic illness that I will have for the rest of my life. My illness changed the way I can navigate the world, the way others see me or interact with me, and it changed my relationship with the church.

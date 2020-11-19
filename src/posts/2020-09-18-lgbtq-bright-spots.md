@@ -9,8 +9,8 @@ contributor:
 artist:
   - Brandon Heim
 tags:
-  - Bright Spots
-  - LGBTQ+
+  - bright_spots
+  - lgbtq
 category: Article
 ---
 This week’s Bright Spots are books, movies, and websites that discuss the intersection of Christianity and the LGTBQ+ community. We hope that these resources will help promote better allyship, encourage a greater understanding of what Christianity looks like from an LGTBQ+ perspective, and build empathy, conversation, and understanding
@@ -66,11 +66,11 @@ This book has the unique perspective of being written by a father and son. Brad 
 In Gay Girl, Good God, Jackie Hill Perry discusses her journey with same-sex attraction and how God guided her through her life. Perry discusses how we overemphasize marraige and relationships, and that we need to refocuse our attention of God and what he calls us to. \
 She also explores this in a podcast that she does with her husband which you can find [here.](https://www.thegospelcoalition.org/podcasts/tgc-podcast/jackie-hill-perry-on-gay-girl-good-god/)
 
-### A War of Loves by David Bennett 
+### A War of Loves by David Bennett
 
 ![](/img/uploads/a-war-of-loves_0.jpg)
 
-A war of loves discusses the dramatic story of David Bennett and how he went from despising the church, to realising that it is God's ultimate plan for the Earth. Despite several different experiences in churches, God kept bringing Bennett back to him, which is an experience shared by a lot of our contributors. 
+A war of loves discusses the dramatic story of David Bennett and how he went from despising the church, to realising that it is God's ultimate plan for the Earth. Despite several different experiences in churches, God kept bringing Bennett back to him, which is an experience shared by a lot of our contributors.
 
 # Films and TV
 
