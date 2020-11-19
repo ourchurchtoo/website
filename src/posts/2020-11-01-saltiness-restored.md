@@ -49,7 +49,7 @@ halftime social media aftermath trampling\
 deepens my sparkles\
 gyrating eternally into freedom
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
 I was sitting on the pew of my Quaker meeting the Sunday after the Super Bowl (the American football championship) listening to a message on the passage referenced here about salt losing its saltiness. I thought about the modern meaning of being “salty”. In contemporary settings, if someone is said to be salty, it can mean that they’ve had a sudden change of mood or that they are annoyed, irritated, or hostile.\
 \
