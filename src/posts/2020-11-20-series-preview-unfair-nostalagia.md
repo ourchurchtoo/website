@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "Series Preview: Unfair Nostalagia"
 date: 2020-11-20T07:59:44.200Z
 contributor:
-  - Erin Iwata
+  - " Alicia Hovanas"
 artist:
   - Brandon Heim
 tags:
