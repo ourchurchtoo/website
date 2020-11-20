@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: "Series Preview: Unfair Nostalgia"
 date: 2020-11-20T07:59:44.200Z
+image: /img/uploads/bright-series-preview.jpg
 contributor:
   - " Alicia Hovanas"
 artist:
