@@ -12,7 +12,7 @@ tags:
   - mission
 category: Article
 ---
-We are excited to announce that we have a series coming out in January. We want to engage in a longer conversation with the role of women in the church with contributor Alicia Hovanas. Today, we want to give a teaser of the discussion to come. 
+We are excited to announce that we have a series coming out in January. We want to engage in a longer conversation with the role of women in the church with contributor Alicia Hovanas. Today, we want to give a teaser of the discussion to come. Enjoy!
 
 \-Our Church Too Team
 
