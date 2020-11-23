@@ -83,7 +83,7 @@ $mobile-menu-animation-time: .4s;
       span {
         display: none;
 
-        @include breakpoint(md) {
+        @include breakpoint(lg) {
           display: unset;
         }
       }
