@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Good Stewards
 date: 2020-11-23T08:24:35.926Z
-image: /img/uploads/943b0c72-1c97-4417-bfab-e6e9b4d52817.jpeg
+image: /img/uploads/benjamin-good-stewards.jpeg
 contributor:
   - Benjamin Hollway
 artist:
