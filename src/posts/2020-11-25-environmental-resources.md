@@ -50,7 +50,7 @@ This article explores some of John Scott’s words about the environment. One qu
 
 *“It seems quite inexplicable to me that there are some Christians who claim to love and worship God, to be disciples of Jesus, and yet have no concern for the earth that bears his stamp of ownership. They do not care about the abuse of the earth and indeed, by their wasteful and over-consumptive lifestyles, they contribute to it.”*
 
-Stott is well respected in the evangelical community, and does not hesitate to clearly communicate his view on the climate crisis. 
+Scott is well respected in the evangelical community, and does not hesitate to clearly communicate his view on the climate crisis. 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
