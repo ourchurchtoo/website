@@ -22,6 +22,8 @@ We can, however, look to the Bible, and listen to scientists who study the earth
 
 Benjamin gave us a quick biblical exploration of this topic, but here are some further resources if you are interested in further reading. 
 
+
+
 ## [Pope Francis' Encyclical. ](![https://www.redeemer.com/redeemer-report/article/john_stott_and_caring_for_gods_creation](/img/uploads/redeemer_logo.png))
 
 ![http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html](/img/uploads/popefrancis.jpeg)
@@ -30,17 +32,25 @@ Benjamin gave us a quick biblical exploration of this topic, but here are some f
 
 These words speak for themselves. In a theologically grounded and compassionate way, Pope Francis entreats us to take the Bible seriously and explore what this means for us.
 
+
+
+
+
 ## [The Five Marks of Mission.](https://www.anglicancommunion.org/mission/marks-of-mission.aspx) 
 
 ![https://www.anglicancommunion.org/mission/marks-of-mission.aspx](/img/uploads/anglicancommune.png)
 
 The Anglican community considers the safeguarding of the earth to be one of the five crucial steps of mission. This shows how important looking after the environment is as part of God's plan for this earth. 
 
+
+
 ## [Religion in Environmental and Climate Change. ](https://books.google.nl/books?hl=en&lr=&id=EFISBwAAQBAJ&oi=fnd&pg=PP1&dq=gerten+bergmann+religion+climate+change&ots=_4hzj6TWLL&sig=O2dGQQNRYb4tEEesHeRfpKNPuJo#v=onepage&q&f=false)
 
 ![https://books.google.nl/books?hl=en&lr=&id=EFISBwAAQBAJ&oi=fnd&pg=PP1&dq=gerten+bergmann+religion+climate+change&ots=_4hzj6TWLL&sig=O2dGQQNRYb4tEEesHeRfpKNPuJo#v=onepage&q&f=false](/img/uploads/religionenvironmenbook.png)
 
-This textbook has many chapters filled with information and perspectives from a variety of authors. This book not only presents a Christian point of view, but explores other religious worldviews as well. 
+This textbook has many chapters filled with information and perspectives from a variety of authors. This book not only presents a Christian point of view, but explores other religious world-views as well. 
+
+
 
 ## [John Stott and Caring for God’s Creation.](https://www.redeemer.com/redeemer-report/article/john_stott_and_caring_for_gods_creation) 
 
@@ -52,7 +62,7 @@ This article explores some of John Scott’s words about the environment. One qu
 
 Scott is well respected in the evangelical community, and does not hesitate to clearly communicate his view on the climate crisis. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 In summary, all these different authors come to the conclusion that the earth is God's creation, and we should respect it and care for it as much as we can. Not only is this part of our commission, but it is a way of worshipping Jesus and thanking Him for the beautiful earth God has provided. 
 
