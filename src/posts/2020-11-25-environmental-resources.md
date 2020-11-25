@@ -42,8 +42,6 @@ The Anglican community considers the safeguarding of the earth to be one of the 
 
 This textbook has many chapters filled with information and perspectives from a variety of authors. This book not only presents a Christian point of view, but explores other religious worldviews as well. 
 
-[https://books.google.nl/books?hl=en&lr=&id=EFISBwAAQBAJ&oi=fnd&pg=PP1&dq=gerten+bergmann+religion+climate+change&ots=_4hzj6TWLL&sig=O2dGQQNRYb4tEEesHeRfpKNPuJo#v=onepage&q&f=false](https://books.google.nl/books?hl=en&lr=&id=EFISBwAAQBAJ&oi=fnd&pg=PP1&dq=gerten+bergmann+religion+climate+change&ots=_4hzj6TWLL&sig=O2dGQQNRYb4tEEesHeRfpKNPuJo#v=onepage&q&f=false)
-
 ## [John Stott and Caring for God’s Creation.](https://www.redeemer.com/redeemer-report/article/john_stott_and_caring_for_gods_creation) 
 
 ![https://www.redeemer.com/redeemer-report/article/john_stott_and_caring_for_gods_creation](/img/uploads/redeemer_logo.png)
