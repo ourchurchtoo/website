@@ -8,6 +8,17 @@
     <meta name='description' content='{{ site.description }}'>
     <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
     <meta name='theme-color' content='#2E2E2E'>
+
+    <meta property='og:site_name' content='OurChurchToo'>
+    <meta property='og:title' content={% if (title) %} '{{ title }}' {% else %} '{{ sitetitle }}' {% endif %}>
+    {# <meta property='og:description' content={% if (subtitle) %} '{{ subtitle }}' {% else %} '{{ site.description }}' {% endif %}> #}
+    <meta property='og:image' content=
+      {# Get the images from the blog pages. #}
+      {% if (image) %}
+         https://ourchurchtoo.com{{ image }}
+      {% endif %}>
+    <meta property='og:url' content='https://ourchurchtoo.com{{ permalink }}'>
+    <meta name='twitter:card' content='summary_large_image'>
   {% endblock %}
 
   <title>
