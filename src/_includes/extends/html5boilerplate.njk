@@ -11,11 +11,11 @@
 
     <meta property='og:site_name' content='OurChurchToo'>
     <meta property='og:title' content={% if (title) %} '{{ title }}' {% else %} '{{ sitetitle }}' {% endif %}>
-    {# <meta property='og:description' content={% if (subtitle) %} '{{ subtitle }}' {% else %} '{{ site.description }}' {% endif %}> #}
+    <meta property='og:description' content='{{ site.description }}'>
     <meta property='og:image' content=
       {# Get the images from the blog pages. #}
       {% if (image) %}
-         https://ourchurchtoo.com{{ image }}
+         {{ image }}
       {% endif %}>
     <meta property='og:url' content='https://ourchurchtoo.com{{ permalink }}'>
     <meta name='twitter:card' content='summary_large_image'>
