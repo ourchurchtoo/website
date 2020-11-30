@@ -92,6 +92,9 @@ module.exports = {
       case 'bright_spots':
         readableLabel = 'Bright Spots';
         break;
+      case 'advent_2020':
+        readableLabel = 'Advent';
+        break;
       default:
         readableLabel = label.charAt(0).toUpperCase() + label.slice(1);
         break;

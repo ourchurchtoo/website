@@ -35,7 +35,7 @@
     display: none;
   }
 
-  $filters-list: all, mission, guest, race, lgbtq, disability, family, poetry, bright_spots;
+  $filters-list: all, mission, guest, race, lgbtq, disability, family, poetry, bright_spots, advent_2020;
 
   @each $filter in $filters-list {
     input#filter-#{$filter}:checked ~ .archive__list .article-mini__wrapper[data-filter~='#{$filter}'] {
