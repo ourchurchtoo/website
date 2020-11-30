@@ -1,12 +1,14 @@
 ---
 layout: layouts/post.njk
 title: "Advent: Hospitality and Diversity"
-date: 2020-11-30T07:10:21.520Z
+date: 2020-11-30T08:52:53.144Z
+image: /img/uploads/advent-cynthia.jpg
 contributor:
   - Cynthia Akinsanya
 tags:
   - guest
   - family
+  - advent_2020
 category: Article
 ---
 When I first became a Christian, Christmas took on a whole new meaning for me. I would be at a carol service, or a department store, I’d hear a Christmas carol and tears would be rolling down my face, because of my full comprehension of God coming down to earth, as a baby. You cannot help but recognise that when the Saviour of the World was born, there was no room for him, so for me, it’s important to make room for others during this season.
