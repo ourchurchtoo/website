@@ -9,7 +9,6 @@ artist:
   - Nat Iwata
 tags:
   - guest
-  - mission
 category: Article
 ---
 *When the toast has burned and all the milk has turned

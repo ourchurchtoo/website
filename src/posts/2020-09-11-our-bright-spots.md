@@ -4,8 +4,8 @@ title: Our Bright Spots
 date: 2020-09-12T08:00:59.475Z
 image: /img/uploads/bright-spots-01.jpg
 contributor:
-  - Erin Iwata
   - Indy Hollway
+  - Erin Iwata
 artist:
   - Brandon Heim
 tags:

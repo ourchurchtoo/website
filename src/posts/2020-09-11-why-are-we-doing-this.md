@@ -4,8 +4,8 @@ title: Why Are We Doing This?
 date: 2020-09-12T08:00:56.748Z
 image: /img/uploads/whatsapp-image-2020-09-10-at-18.51.03.jpeg
 contributor:
-  - Erin Iwata
   - Indy Hollway
+  - Erin Iwata
 tags:
   - mission
   - family

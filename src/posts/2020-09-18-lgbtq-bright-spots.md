@@ -4,8 +4,8 @@ title: LGBTQ+ Bright Spots
 date: 2020-09-18T08:46:38.283Z
 image: /img/uploads/bright-spots-02.jpg
 contributor:
-  - Erin Iwata
   - Indy Hollway
+  - Erin Iwata
 artist:
   - Brandon Heim
 tags:

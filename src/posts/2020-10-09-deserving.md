@@ -8,7 +8,6 @@ contributor:
 artist:
   - Ilona Wilson
 tags:
-  - mission
   - family
 category: Art
 ---

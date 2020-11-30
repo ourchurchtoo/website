@@ -4,6 +4,7 @@ title: "Bright Spots: Sermons"
 date: 2020-10-30T13:51:47.943Z
 image: /img/uploads/brightspots-sermons.jpeg
 contributor:
+  - Indy Hollway
   - Erin Iwata
 artist:
   - Brandon Heim

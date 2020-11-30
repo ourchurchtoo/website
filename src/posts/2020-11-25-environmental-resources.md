@@ -5,7 +5,6 @@ date: 2020-11-25T11:53:07.778Z
 image: /img/uploads/ben-ourchurch-too-image.jpg
 contributor:
   - Indy Hollway
-  - Erin Iwata
 artist:
   - Benjamin Hollway
 tags:

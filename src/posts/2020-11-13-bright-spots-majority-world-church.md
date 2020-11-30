@@ -4,13 +4,12 @@ title: "Bright Spots: Majority World Church"
 date: 2020-11-13T13:09:10.156Z
 image: /img/uploads/bright-spots-majority-world-church.jpg
 contributor:
-  - Erin Iwata
   - Indy Hollway
+  - Erin Iwata
 artist:
   - Brandon Heim
 tags:
   - bright_spots
-  - mission
   - race
 category: Article
 ---
