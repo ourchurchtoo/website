@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: Making My Own Traditions"
 date: 2020-12-04T07:20:17.027Z
+image: /img/uploads/advent-deborah.jpg
 contributor:
   - Deborah Beutler
 tags:
