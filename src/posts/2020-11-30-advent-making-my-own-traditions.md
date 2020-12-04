@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: "Advent: Making My Own Traditions"
-date: 2020-12-04T07:20:17.027Z
+title: "Advent: Christmas When Family is Complicated"
+date: 2020-12-04T08:07:15.908Z
 image: /img/uploads/advent-deborah.jpg
 contributor:
   - Deborah Beutler
