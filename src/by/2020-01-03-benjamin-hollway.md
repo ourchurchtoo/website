@@ -8,4 +8,4 @@ instagram: https://www.instagram.com/nothingrandom/
 tags:
   - team
 ---
-Benjamin is the lead javascript / frontend engineer at Hiber, based in Amsterdam. He mostly works with vue.js, but also pushing the boundaries with the latest spec of ES and TypeScript, and a bit of a S/CSS geek. When he’s not behind a screen, he loves to cook food for others, cycle, mix live & studio sound, listen to almost any genre of music (and make noise), contribute to open source, hike in the mountains, and discover new cafes.
+I'm Benjamin, a lead javascript / frontend engineer at Hiber, based in Amsterdam. Mostly working with Vue.js, but also pushing the boundaries with the latest spec of ES and TypeScript, the occassional node module, and a bit of a S/CSS geek. Elsewhere, I love to cook food, cycle, play fetch with Nova, mix live sound, listen to almost any genre of music (and make noise), contribute to open source, hike in the mountains, and spend time with my wife, Indy.
