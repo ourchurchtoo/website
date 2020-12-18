@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Disability and The Church
 date: 2020-09-23T08:19:52.162Z
-image: /img/uploads/debbie.png
+image: /img/uploads/debbie.jpg
 contributor:
   - Deborah Beutler
 artist:

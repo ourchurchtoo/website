@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Ritsya-el Mathews
-image: /img/uploads/screen-shot-2020-11-09-at-8.19.10-am.png
+image: /img/uploads/screen-shot-2020-11-09-at-8.19.10-am.jpg
 role: Contributor
 instagram: https://www.instagram.com/ritsya/
 tags: contributor

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: What Is Our Church Too?
 date: 2020-10-31T16:49:35.619Z
-image: /img/uploads/screen-shot-2020-10-31-at-17.54.18.png
+image: /img/uploads/screen-shot-2020-10-31-at-17.54.18.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata

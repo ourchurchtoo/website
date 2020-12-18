@@ -37,7 +37,7 @@ The Anglican community considers the safeguarding of the earth to be one of the 
 
 ## [Religion in Environmental and Climate Change. ](https://books.google.nl/books?hl=en&lr=&id=EFISBwAAQBAJ&oi=fnd&pg=PP1&dq=gerten+bergmann+religion+climate+change&ots=_4hzj6TWLL&sig=O2dGQQNRYb4tEEesHeRfpKNPuJo#v=onepage&q&f=false)
 
-![Religion in Environmental and Climate Change book cover](/img/uploads/religionenvironmenbook.png)
+![Religion in Environmental and Climate Change book cover](/img/uploads/religionenvironmenbook.jpg)
 
 This textbook has many chapters filled with information and perspectives from a variety of authors. This book not only presents a Christian point of view, but explores other religious world-views as well. 
 
