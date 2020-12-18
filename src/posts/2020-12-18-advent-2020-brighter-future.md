@@ -31,12 +31,12 @@ category: Article
 
 **Indy:** Yes. If this weird Corona Christmas has taught us anything it’s that everybody has a story to tell, not just Christians. Swap the word “church” with “community” or the name of a city or even the word Christmas, none of these things should be controlled by one group of people, causing the exclusion of others. There is no one right way of living our lives and experiencing our stories: God didn’t create us that way. As our Advent series has shown, Christmas is as beautifully unique as each of us, and the church/ community/ city should reflect this too. We hope and believe that people chasing after Jesus can be that beautiful community. 
 
-We’ll leave you with a Christmas blessing:
-May you look with honesty, joy and sorrow, at the past. 
-May you feel deeply all the emotions that brought you to this moment. 
-May you lift your eyes up to the light of the new year with hope and potential.
-Maybe you find the strength and community to carry this all in balance. 
+We’ll leave you with a Christmas blessing:\
+May you look with honesty, joy and sorrow, at the past. \
+May you feel deeply all the emotions that brought you to this moment. \
+May you lift your eyes up to the light of the new year with hope and potential.\
+Maybe you find the strength and community to carry this all in balance. \
 May your Christmas be filled with great Love. 
 
-Merry Christmas, 
+Merry Christmas, \
 Erin and Indy
