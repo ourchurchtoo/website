@@ -64,7 +64,7 @@ export default class TabMarker {
 
   updateTabMarker(el) {
     if (el) {
-      const paddingRemoval = 20;
+      const paddingRemoval = 0;
       const width = el.clientWidth;
       const left = el.offsetLeft;
 

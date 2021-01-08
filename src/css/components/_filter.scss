@@ -35,7 +35,7 @@
     display: none;
   }
 
-  $filters-list: all, mission, guest, race, lgbtq, disability, family, poetry, bright_spots, advent_2020;
+  $filters-list: all, advent_2020, bright_spots, disability, family, gender, guest, lgbtq, mental_health, mission, race;
 
   @each $filter in $filters-list {
     input#filter-#{$filter}:checked ~ .archive__list .article-mini__wrapper[data-filter~='#{$filter}'] {
@@ -77,7 +77,7 @@
     @include transition(opacity);
     display: none;
     margin: 0 10px;
-    padding: 12px 11px; // aligns better with tab-marker
+    padding: 12px 0; // aligns better with tab-marker
     border-radius: $border-radius;
     opacity: 0.3;
     cursor: pointer;

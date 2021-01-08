@@ -8,8 +8,8 @@ contributor:
 artist:
   - Ilona Wilson
 tags:
-  - poetry
-category: Article
+  - mental_health
+category: Poetry
 ---
 You see, I was stressed\
 About life I guess\

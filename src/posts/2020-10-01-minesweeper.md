@@ -10,8 +10,7 @@ artist:
 tags:
   - guest
   - disability
-  - poetry
-category: Article
+category: Poetry
 ---
 The world around me feels like an old computer game\
 I used to play on my grandmothers desktop as a child:\

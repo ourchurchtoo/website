@@ -89,14 +89,12 @@ module.exports = {
       case 'lgbtq':
         readableLabel = 'LGBTQ+';
         break;
-      case 'bright_spots':
-        readableLabel = 'Bright Spots';
-        break;
       case 'advent_2020':
         readableLabel = 'Advent';
         break;
       default:
-        readableLabel = label.charAt(0).toUpperCase() + label.slice(1);
+        words = label.replace(/_/g, ' ');
+        readableLabel = words.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
         break;
     }
 

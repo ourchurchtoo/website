@@ -58,15 +58,16 @@ collections:
         min: 1,
         max: 3,
         options: [
-          mission,
-          guest,
-          race,
-          lgbtq,
+          advent_2020,
+          bright_spots,
           disability,
           family,
-          poetry,
-          bright_spots,
-          advent_2020,
+          gender,
+          guest,
+          lgbtq,
+          mental_health,
+          mission,
+          race,
         ]
       }
       - { label: "Category",
@@ -76,6 +77,7 @@ collections:
         options: [
           "Article",
           "Art",
+          "Poetry",
           "Interview",
           "Video"
         ]

@@ -8,10 +8,9 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - poetry
   - guest
   - family
-category: Article
+category: Poetry
 ---
 > \
 > “You are the salt of the earth; but if salt has lost its taste, how can its saltiness be restored?   It is no longer good for anything, but is thrown out and trampled under foot.”   —Matthew 5:13 (NRSV)
