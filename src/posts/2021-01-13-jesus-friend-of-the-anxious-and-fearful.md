@@ -4,7 +4,7 @@ title: "Jesus: Friend Of The Anxious And Fearful"
 date: 2021-01-13T08:09:58.859Z
 image: /img/uploads/image-from-ios.jpg
 contributor:
-  - Indy Hollway
+  - Esther Hoole
 artist:
   - Brandon Heim
 tags:
