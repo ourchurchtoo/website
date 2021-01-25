@@ -9,7 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - race
-category: Article
+category: Poetry
 ---
 I had a conversation with a long-time friend. My friend said:
 
