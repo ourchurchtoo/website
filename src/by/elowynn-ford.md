@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Elowynn Ford
-image: /img/uploads/elowynn.jpg
+image: /img/uploads/elowynn-eyes.jpg
 role: Artist
 instagram: https://www.instagram.com/elowynn.art/
 tags: artist
