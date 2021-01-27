@@ -7,8 +7,8 @@ contributor:
   - Mark Ehrenstein
 tags:
   - family
-  - bright_spots
   - lgbtq
+  - advent_2020
 category: Video
 ---
 In this video, Mark tells us about how he will be spending Christmas this year, as opposed to years in the past. He also tells us all about new traditions he has created for this family that celebrate diversity over the winter period. We love his truth and wish that we were there with him and his family eating Christmas dinner!
