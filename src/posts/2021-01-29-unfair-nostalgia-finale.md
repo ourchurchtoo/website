@@ -57,4 +57,4 @@ Although Christians like to think that they are capable of reading the Bible how
 
 > Although Christians like to think that they are capable of reading the Bible how it was intended without being influenced or swayed by one’s specific time and place in history, it is wholly impossible, which is why it is imperative to understand how believers in the past interpreted Scripture and the context in which each particular book was written.
 
-Ask that question to any person who’s been marginalized from the way in which the Bible has been weaponized.
+It matters. Ask any person who’s had scripture thrown at them as a weapon. As anyone who has been marginalized by Biblical interpretation. Ask any woman who feels called by God to lead, to speak, to move beyond the confines of her home and children, to share the gospel.
