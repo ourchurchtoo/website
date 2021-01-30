@@ -12,7 +12,7 @@ tags:
   - guest
 category: Article
 ---
-Alicia has provided a complete bibliography to go along with her series, Unfair Nostalgia. You can catch up with each section by clicking on the links. 
+Alicia has provided a complete bibliography to go along with her series, Unfair Nostalgia. You can catch up with each section by clicking on the links. If you like what you read, we recommend checking out some of the other books that inspired Alicia's series.
 
 [Unfair Nostalgia Part 1](https://ourchurchtoo.com/posts/2021-01-08-unfair-nostalgia-part-1/)
 
@@ -27,16 +27,12 @@ Bellvillem Linda L. “Teaching and Usurping Authority: 1 Timothy 2:11-15” in 
 Bendroth, Margaret Lamberts.  Fundamentalism and Gender, 1875 to the Present. Ann Arbor: Edwards Brother’s, Inc., 1993. Print. 
 Christenson, Larry. The Christian Family. Minneapolis: Bethany Fellowship, 1970. Print.
 
-
 Coon, Lynda L., Katherine J. Haldane, and Elisabeth W. Sommer. That Gentle Strength: Historical Perspectives on Women in Christianity. University Press of Virginia, 1990. Print. 
-
 
 DeBerg, Betty A. Ungodly Women: Gender and the First Wave of American Fundamentalism. Minneapolis: Fortress Press, 1990. Print.
 
-
 Demarest, Victoria Booth. God, Woman & Ministry. St. Petersburg: Valkyrie Press, 1978. Print. 
 Fee, Gordon D. “Hermeneutics and the Gender Debate” in Discovering Biblical Equality: Complimentarity Without Hierarchy. Downers Grove: InterVarsity, 2004. Print.
-
 
 Giles, Kevin. “The Subordination of Christ and the Subordination of Women” in . Discovering Biblical Equality: Complimentarity Without Hierarchy. Downers Grove: InterVarsity, 2004. Print.
 
