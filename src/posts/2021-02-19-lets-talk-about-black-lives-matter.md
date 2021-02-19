@@ -5,12 +5,14 @@ date: 2021-02-19T09:12:59.609Z
 image: /img/uploads/letstalkabout-blm-01.jpg
 contributor:
   - AKIYE
+  - Elisabeth Hoole
+  - Indy Hollway
 artist:
   - Brandon Heim
 tags:
   - race
   - guest
-category: Article
+category: Interview
 ---
 When the Black Lives Matter movement returned to media headlines in 2020 after the murder of George Floyd, churches worldwide were called to not only condemn race-based violence, but to learn about their own racist history, and take a stand against it. 
 The Black Lives Matter (BLM) movement was founded in 2013 by three Black women activists after the acquittal of George Zimmerman, Trayvon Martin’s killer. Although it started as a small online movement, it has since expanded its network and impact, and effectively become a household name. Many within the movement now use the “Black Lives Matter” hashtag and phrase to amplify anti-Black racism and highlight the need for change online and in protests. While doing the same, the organization itself also works with local communities, organizations, activists, and the government to build awareness and make practical change.
