@@ -5,6 +5,7 @@ date: 2021-02-12T09:16:27.664Z
 image: /img/uploads/letstalkabout-2-01.jpg
 contributor:
   - Mark Ehrenstein
+  - Indy Hollway
 artist:
   - Brandon Heim
 tags:
@@ -12,6 +13,9 @@ tags:
   - gender
 category: Article
 ---
+This article is written based on answers to an upcoming podcast. Whilst we attempt to uphold the author's opinions, bear in mind that their answers may have been interpreted by us: all the more reason to catch the interviews when they go live this spring!
+
+**Introduction by Indy Hollway:**\
 When we asked Mark whether he would write a ‘Let’s Talk About’ about the LGBTQ+ community, he immediately sent us not only a list of useful and well-explained definitions but also a beautiful piece about why it’s crucial that Christians use the information to allow them to become more compassionate towards the community. We also got the absolute pleasure of interviewing Mark on this same topic for a future podcast. Something that really stuck with us was when Mark, talking to young gay Christians who are questioning their identity, said: “someone will come along who loves you for who you are.”\
 As Christians, we can get so caught up in theological questions that we forget that the community we are discussing consists of real people. Understanding and applying the Bible is important, but we should not put it between us and another person, as a shield of misunderstanding. \
 Mark mentioned also “I don’t need you to accept me, or understand everything about me, I need you to ally me.” This is what we really call you to consider when reading this piece. Loving and respecting someone doesn’t mean you agree with everything they say, but it means you value them as an equal human being, and what is more Christ-like than that? 
@@ -40,7 +44,7 @@ Mark mentioned also “I don’t need you to accept me, or understand everything
 
 **Gender Identity:** A person’s emotional and psychological sense of their gender, which may not align with the sex they were assigned at birth. The most common examples of gender identity are male and female, but there are several terms for people who don’t fit into those categories.
 
-**Listed below *are just a few examples of unique gender identities****.*
+**Listed below \*are just a few examples of unique gender identities\****.*
 
 **Non-Binary:** One of the more common terms to describe people who don’t identify as male or female. Some may have a gender that blends male and female elements, or they may not identify with any gender. Common synonyms or alternatives to non-binary terms include *genderqueer* and *gender nonconforming.*
 
@@ -54,7 +58,7 @@ Mark mentioned also “I don’t need you to accept me, or understand everything
 
 An **Ally** is a person who considers themselves a friend and supporter to the LGBTQ+ community.  
 
----
+- - -
 
 **So, what does all this have to do with me as a Christian?**
 
