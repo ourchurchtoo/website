@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 title: Boriana Hadjieva
 permalink: /by/boriana-hadjieva/index.html
-image: /img/uploads/pic_boriana_hadjieva.jpg
+image: /img/uploads/pic_boriana-hadjieva.jpg
 role: Videographer & Social Media Manager
 instagram: https://www.instagram.com/bobehadjieva/
 tags: team
