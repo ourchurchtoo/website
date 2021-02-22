@@ -89,6 +89,9 @@ module.exports = {
       case 'lgbtq':
         readableLabel = 'LGBTQ+';
         break;
+      case 'lets_talk_about':
+        readableLabel = 'Let\'s talk about';
+        break;
       case 'advent_2020':
         readableLabel = 'Advent';
         break;
