@@ -10,7 +10,8 @@ artist:
   - Brandon Heim
 tags:
   - mission
-category: Article
+  - lets_talk_about
+category: Interview
 ---
 Indy: I am so excited about our new series
 
