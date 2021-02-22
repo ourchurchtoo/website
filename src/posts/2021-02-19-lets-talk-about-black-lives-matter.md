@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Let's Talk About... Black Lives Matter
 date: 2021-02-19T09:12:59.609Z
-image: /img/uploads/letstalkabout-blm-01.jpg
+image: /img/uploads/art_lets-talk-about-blm.jpg
 contributor:
   - AKIYE
   - Elisabeth Hoole

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Let's Talk About... LGBTQ+
 date: 2021-02-12T09:16:27.664Z
-image: /img/uploads/letstalkabout-2-01.jpg
+image: /img/uploads/art_lets-talk-about-lgbtq.jpg
 contributor:
   - Mark Ehrenstein
   - Indy Hollway

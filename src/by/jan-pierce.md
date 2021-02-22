@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Jan Pierce
-image: /img/uploads/janphoto.jpg
+image: /img/uploads/pic_jan-pierce.jpg
 role: Contributor
 instagram: "@janpierce3812"
 tags: contributor

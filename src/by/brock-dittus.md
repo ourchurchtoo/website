@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Brock Dittus
-image: /img/uploads/brock.jpg
+image: /img/uploads/pic_brock-dittus.jpg
 role: contributor
 tags: contributor
 ---

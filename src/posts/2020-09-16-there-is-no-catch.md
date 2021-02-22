@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: There Is No Catch
 date: 2020-09-16T08:11:54.536Z
-image: /img/uploads/image-katy.jpg
+image: /img/uploads/art_there-is-no-catch.jpg
 contributor:
   - Indy Hollway
 artist:

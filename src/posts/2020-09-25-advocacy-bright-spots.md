@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Advocacy Bright Spots
+title: "Bright Spots: Advocacy"
 date: 2020-09-25T10:43:49.065Z
-image: /img/uploads/bright-spots-05.jpg
+image: /img/uploads/art_bright-spots-advocacy.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata

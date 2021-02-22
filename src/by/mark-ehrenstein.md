@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Mark Ehrenstein
-image: /img/uploads/whatsapp-image-2020-09-11-at-13.54.20.jpeg
+image: /img/uploads/pic_mark-ehrenstein.jpeg
 role: Contributor
 tags: contributor
 ---

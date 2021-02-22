@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: AKIYE
-image: /img/uploads/akiye.jpeg
+image: /img/uploads/pic_akiye.jpeg
 role: Contributor
 instagram: https://www.instagram.com/akiyemusic/
 tags: contributor

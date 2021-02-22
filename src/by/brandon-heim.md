@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Brandon Heim
-image: /img/uploads/69542053_171117390607826_5865269751007881580_n.jpg
+image: /img/uploads/pic_brandon-heim.jpg
 role: Creative Director & Graphic Designer
 instagram: https://www.instagram.com/brandz_designer_/
 tags: team

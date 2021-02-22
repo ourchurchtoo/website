@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Unity In Fighting For Justice
 date: 2020-09-12T14:26:06.607Z
-image: /img/uploads/photo-from-indy-hollway.jpg
+image: /img/uploads/art_unity-in-fighting-for-justice.jpg
 contributor:
   - Elisabeth Hoole
 artist:

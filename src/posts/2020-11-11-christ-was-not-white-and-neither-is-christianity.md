@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Christ Was Not White (And Neither is Christianity)
 date: 2020-11-11T09:32:44.079Z
-image: /img/uploads/christ_was_not_white-01.jpg
+image: /img/uploads/art_christ-was-not-white.jpg
 contributor:
   - Elisabeth Hoole
 artist:
@@ -32,4 +32,4 @@ I think this is tied to the idea that Christianity is somehow a white religion. 
 
 In all of this, I feel like I am torn between a culture that I know so little of and a religion that seems not to be completely mine. However, what I have slowly learnt is that people do not get to define God and my relationship with him. Jesus was a God of all people who created and celebrated all cultures and people and loved everyone and related to them equally. My job now is to unlearn the restriction of my culture while using my culture to connect to God better and work towards dismantling the whiteness of Christianity globally. I hope more white Christians realize and reflect on the fact that Christianity belongs to all cultures. And I hope Christians of other cultures recognize that their own cultural differences are a gift from God and should be celebrated and incorporated in the church.
 
-![](/img/uploads/christwasnotwhite.gif)
+![](/img/uploads/ref_christ-was-not-white.gif)

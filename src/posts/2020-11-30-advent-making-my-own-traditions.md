@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: Christmas When Family is Complicated"
 date: 2020-12-04T08:07:15.908Z
-image: /img/uploads/advent-deborah.jpg
+image: /img/uploads/art_advent-christmas-when-family-is-complicated.jpg
 contributor:
   - Deborah Beutler
 tags:

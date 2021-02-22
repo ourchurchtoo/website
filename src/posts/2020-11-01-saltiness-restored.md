@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Saltiness Restored
 date: 2020-11-02T08:52:38.903Z
-image: /img/uploads/saltiness-restored.jpg
+image: /img/uploads/art_saltiness-restored.jpg
 contributor:
   - Joann Renee Boswell
 artist:

@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Katy Hollway
-image: /img/uploads/katy.jpg
+image: /img/uploads/pic_katy-hollway.jpg
 role: Artist
 instagram: https://www.instagram.com/katyhollwayart/
 tags: artist

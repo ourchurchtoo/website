@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Elisabeth Hoole
-image: /img/uploads/whatsapp-image-2020-09-02-at-15.20.30.jpeg
+image: /img/uploads/pic_elisabeth-hoole.jpeg
 role: Reviewer & Contributor
 tags:
   - team

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Bright Spots: Majority World Church"
 date: 2020-11-13T13:09:10.156Z
-image: /img/uploads/bright-spots-majority-world-church.jpg
+image: /img/uploads/art_bright-spots-majority-world-church.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata
@@ -17,7 +17,7 @@ It’s worthwhile to note that the majority of Christians are not white. As of 2
 
 ## [Afua Kuma](https://dacb.org/stories/ghana/afua-kuma/)
 
-![](/img/uploads/afua-kuma-headshot.jpg)
+![](/img/uploads/ref_afua-kuma.jpg)
 
 Afua Kuma was an oral poet in Ghana who lived from 1900-1987. We love [this article ](https://dacb.org/stories/ghana/afua-kuma/)where she names the African names of Jesus. We were especially moved by her hymn call “Jesus of the Deep Forest”
 
@@ -41,7 +41,7 @@ Jesus is above all the ” Tutugyagu ,” the “Fearless One” who “pulled t
 
 ## [Reverend Soong-Chan Rah](https://profrah.wordpress.com/about/)
 
-![](/img/uploads/profezsor-rah.jpg)
+![](/img/uploads/ref_profezsor-rah.jpg)
 
 The Soong-Chan Rah is a Korean American professor and reverend who gave this stellar sermon to the [Foundations of Life Covenant Church in Madison, Wisconsin](https://folmadison.org). The topic is lament, we felt a call to action in his words. Rah is formerly the founding Senior Pastor of a multi-ethnic, urban ministry-focused church committed to living out the values of racial reconciliation and social justice in the urban context.
 
@@ -53,7 +53,7 @@ The Soong-Chan Rah is a Korean American professor and reverend who gave this ste
 
 ## [The Curious Case of Ethiopian Orthodoxy](https://conciliarpost.com/theology-spirituality/church-history/the-curious-case-of-ethiopian-orthodoxy/)
 
-![](/img/uploads/ethopian-church.jpg)
+![](/img/uploads/ref_ethopian-church.jpg)
 
 Matthew Bryan wrote this article detailed one of the oldest established churches on the planet. We have a lot to learn (and celebrate) about our rich world Christian history. Use this as a launch pad into the multidimensional aspects of Jesus followers.
 
@@ -61,6 +61,6 @@ Matthew Bryan wrote this article detailed one of the oldest established churches
 
 Want to see how Christianity is distributed? This graphic from the Center for the study of Global Christianity gives some recent statistics on what the Church looks like worldwide. This makes us want to learn a lot more about theology and how the diverse church functions all over the of the world.
 
-![](/img/uploads/globalchristianityinfographic-1.jpg)
+![](/img/uploads/ref_globalchristianityinfographic-1.jpg)
 
-![](/img/uploads/globalchristianityinfographic-2.jpg)
+![](/img/uploads/ref_globalchristianityinfographic-2.jpg)

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: How the Meaning of Christmas to Me is Changing"
 date: 2020-12-07T08:45:51.854Z
-image: /img/uploads/advent-elisabeth.jpg
+image: /img/uploads/art_advent-how-the-meaning-of-christmas-to-me-is-changing.jpg
 contributor:
   - Elisabeth Hoole
 tags:

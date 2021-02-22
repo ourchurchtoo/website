@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: " Alicia Hovanas"
-image: /img/uploads/alicia.jpg
+image: /img/uploads/pic_alicia-hovanas.jpg
 role: Contributor
 instagram: https://www.instagram.com/aliciahovanas/
 tags: contributor

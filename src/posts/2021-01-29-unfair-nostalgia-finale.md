@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Unfair Nostalgia Finale
 date: 2021-01-29T11:32:40.934Z
-image: /img/uploads/alicia_portrait_04.jpg
+image: /img/uploads/art_unfair-nostalgia-4.jpg
 contributor:
   - " Alicia Hovanas"
 artist:

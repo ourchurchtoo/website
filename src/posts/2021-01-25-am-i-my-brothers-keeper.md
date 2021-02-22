@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Am I My Brother's Keeper?
 date: 2021-01-25T09:11:42.067Z
-image: /img/uploads/am-i-my-brothers-keeper.jpg
+image: /img/uploads/art_am-i-my-brothers-keeper.jpg
 contributor:
   - Jan Pierce
 artist:

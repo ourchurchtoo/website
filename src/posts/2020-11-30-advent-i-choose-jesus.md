@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: I Choose Jesus"
 date: 2020-12-11T08:59:13.037Z
-image: /img/uploads/advent-ilona.jpg
+image: /img/uploads/art_advent-i-choose-jesus.jpg
 contributor:
   - Ilona Wilson
 tags:

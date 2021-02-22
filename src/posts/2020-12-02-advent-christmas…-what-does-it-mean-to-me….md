@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: "Advent: Christmas… What does it mean to me…?"
+title: "Advent: Christmas... What does it mean to me...?"
 date: 2020-12-02T08:46:48.442Z
-image: /img/uploads/advent-brandon.jpg
+image: /img/uploads/art_advent-christmas-what-does-it-mean-to-me.jpg
 contributor:
   - Brandon Heim
 tags:

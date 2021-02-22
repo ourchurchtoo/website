@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: LGBTQ+ Bright Spots
+title: "Bright Spots: LGBTQ+"
 date: 2020-09-18T08:46:38.283Z
-image: /img/uploads/bright-spots-02.jpg
+image: /img/uploads/art_bright-spots-lgbtq.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata
@@ -29,13 +29,13 @@ We are aware that not everyone will agree with everything that we put forward in
 
 > “Justin Lee, a gay man and devout Christian, bridges the gaps between his faith and sexuality in this insightful and touching memoir.”
 
-![](/img/uploads/61vtzmo9htl.jpg)
+![](/img/uploads/ref_torn.jpg)
 
 From a young age, Justin Lee felt called into ministry in the evangelical church. He loved God and had no problem showing it! However, he also knew he was gay. In this book, Lee bravely shares all his experiences, including coming out, trying an “ex-gay” movement, and his deep dive into the Bible. His story is not only a beautiful memoir, but is valuable to any Christian who wants to learn how to relate to their gay friends or family members. Veering far away from thinking of himself as a victim, Lee demonstrated how gay Christians are in a unique position to be bridge builders to bring peace “in a culture that sees gays and Christians as enemies.” Lee allows people that are undecided in their convictions on this particular issue to come away with respect and love for one another.
 
 ## God and the Gay Christian by Matthew Vines
 
-![](/img/uploads/91h2ougwykl.jpg)
+![](/img/uploads/ref_god-and-the-gay-christian.jpg)
 
 ‘God and the Gay Christian’ takes a serious look at what the Bible has to say about homosexuality. The author, Matthew Vines, dedicated years to intensive research to seek wisdom on how he should shape his life with the reality of his same-sex orientation. Vines skillfully takes on subjects from a Biblical lense such as the marriage covenant, the teachings of Jesus, and how they apply to people in the LGTBQ+ community, the calling of celibacy, and the historical context of same-sex relations in the old and new testament.
 
@@ -43,32 +43,32 @@ From a young age, Justin Lee felt called into ministry in the evangelical church
 
 ## Space at the Table: Conversations Between An Evangelical Theologian and His Gay Son
 
-![](/img/uploads/28683996._uy500_ss500_.jpg)
+![](/img/uploads/ref_space-at-the-table.jpg)
 
 This book has the unique perspective of being written by a father and son. Brad and Drew Harper do not agree on everything, but have maintained a close and loving relationship based on dialogue and respect. Written in a back and forth, conversational style, Space at the Table retraces the relationship between Drew and his father - a conservative evangelical pastor, both before and after Drew came out. This book is a journey! It’s a rare look inside a family that shines a path for families to demonstrate that “love is stronger than the beliefs that divide us.”
 
 ## TransGender 101 by Nicholas Teich
 
-![](/img/uploads/41aile9vf9l._sx334_bo1-204-203-200_.jpg)
+![](/img/uploads/ref_transgender101.jpg)
 
 ‘Transgender 101’ is an accesible and well written book which outlines the history of transgenderism and provides a succinct summary of important issues and conversations. Teich unpacks different facets of transgenderism as well as providing definitions of important terms and discussion of those whose lives cannot be defined by traditional classifications. This book is a great resource for anyone who wants to go beyond a basic understanding of transgenderism and lay a solid foundation for greater empathy.
 
 ## Feminism is Queer by Mimi Marinucci
 
-![](/img/uploads/51krvzdwx-l._sy445_ql70_ml2_.jpg)
+![](/img/uploads/ref_feminism-is-queer.jpg)
 
 ‘Feminism is Queer’ is a book that links the theoretical school of feminism and queer theory. Despite being an academic text, it is extremely accessible, and provides information on how to differentiate between sex, gender, and sexuality. The text also has a cohesive glossary filled with useful terms and concepts. Marinucci explores the inexplicable link between feminism and queer theory and how these schools cannot be separated from each other. This is a great text for anyone who wants a greater understanding of either feminism or queer theory, or a more intellectual exploration of the two.
 
 ### Gay Girl, Good God by Jackie Hill Perry
 
-![](/img/uploads/9781462751228-pdpxl.jpg)
+![](/img/uploads/ref_gay-girl-good-god.jpg)
 
 In Gay Girl, Good God, Jackie Hill Perry discusses her journey with same-sex attraction and how God guided her through her life. Perry discusses how we overemphasize marraige and relationships, and that we need to refocuse our attention of God and what he calls us to. \
 She also explores this in a podcast that she does with her husband which you can find [here.](https://www.thegospelcoalition.org/podcasts/tgc-podcast/jackie-hill-perry-on-gay-girl-good-god/)
 
 ### A War of Loves by David Bennett
 
-![](/img/uploads/a-war-of-loves_0.jpg)
+![](/img/uploads/ref_a-war-of-loves.jpg)
 
 A war of loves discusses the dramatic story of David Bennett and how he went from despising the church, to realising that it is God's ultimate plan for the Earth. Despite several different experiences in churches, God kept bringing Bennett back to him, which is an experience shared by a lot of our contributors.
 

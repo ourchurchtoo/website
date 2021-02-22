@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Cynthia Akinsanya
-image: /img/uploads/cynthia-akinsanya-cake-artist.jpg
+image: /img/uploads/pic_cynthia-akinsanya.jpg
 role: contributor
 instagram: https://www.instagram.com/delights_by_cynthia/
 tags: contributor

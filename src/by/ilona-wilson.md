@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Ilona Wilson
-image: /img/uploads/whatsapp-image-2020-09-02-at-18.20.27.jpeg
+image: /img/uploads/pic_ilona-wilson.jpeg
 role: Editor & Artist
 instagram: www.instagram.com/thoughts_before_words_/
 tags: team

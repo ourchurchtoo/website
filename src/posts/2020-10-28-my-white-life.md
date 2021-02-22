@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: My White Life
 date: 2020-10-28T08:53:55.766Z
-image: /img/uploads/jan-artwork.jpg
+image: /img/uploads/art_my-white-life.jpg
 contributor:
   - Jan Pierce
 artist:
@@ -13,19 +13,24 @@ tags:
   - race
 category: Article
 ---
-**\*Introduction by Erin Iwata:** I was a kid when I met Jan. As I grew, Jan transitioned from a kind adult to a mentor and friend. While I was learning about International studies, Jan time was in India setting up scholarships for women’s businesses and children’s education with her nonprofit “One Handful of Rice." Jan was the voice of social justice in our church, and she often felt alone. At a time when most church-goers were concerned with the next sermon or program, Jan was advocating for the disadvantaged both in our local community and internationally. I watched her become marginalized by the church and frustrated at the lack of progress she saw. Indeed, Jan proclaims a message that makes people uncomfortable: Jesus’s followers cannot ignore injustice. Jan writes humbly about her “white life" and the experiences that changed her. She had the option to stay in her white life but chose to step out of it to learn, love, and stand against injustice. She stayed in the church - even when she felt unsupported. Now, in 2020, when injustice is center of the world stage, let's hear from those who have been growing in awareness and advocacy over a lifetime..*
+**Introduction by Erin Iwata:**
+
+I was a kid when I met Jan. As I grew, Jan transitioned from a kind adult to a mentor and friend. While I was learning about International studies, Jan time was in India setting up scholarships for women’s businesses and children’s education with her nonprofit “One Handful of Rice." Jan was the voice of social justice in our church, and she often felt alone. At a time when most church-goers were concerned with the next sermon or program, Jan was advocating for the disadvantaged both in our local community and internationally. I watched her become marginalized by the church and frustrated at the lack of progress she saw. Indeed, Jan proclaims a message that makes people uncomfortable: Jesus’s followers cannot ignore injustice. Jan writes humbly about her “white life" and the experiences that changed her. She had the option to stay in her white life but chose to step out of it to learn, love, and stand against injustice. She stayed in the church - even when she felt unsupported. Now, in 2020, when injustice is center of the world stage, let's hear from those who have been growing in awareness and advocacy over a lifetime..*
 
 - - -
 
-**Childhood**
+**Childhood**:
+
 I grew up in a lower middle class family. My dad was a transplanted North Dakota farmer with an 8th grade education who worked as a maintenance man. My mom finished high school and was a secretary for a wholesale grocery company. Both my parents had prejudices, but my Mom held literally everyone but herself in low esteem. She talked about “*typical Englishmen, typical Jews, and wops.*” I didn’t fully understand what these terms meant, but I knew they weren’t good. I believe my parents’ prejudices came from low self-esteem and needing to be better than somebody. We lived first in the country, poor, but all-white, and later in a white suburb. When we drove downtown my father often pointed out black people with racist comments. The comments unsettled me. I knew they were wrong. I was aware of a different races, like the Philippine migrant population. The young men stood outside of grocery stores wearing long, oiled hair which ran counter to my white world of crew cuts. I knew all people were valuable, but I also held generalized fears of men who looked different. When I was 9 we took a two week road trip to Disneyland. We learned of a public pool within walking distance. When we got there my mom took one look at a pool full of black kids splashing up a storm and we turned around and walked back to the motel. I felt sad, but also aware that I might have been afraid to interact with those exuberant kids.
 
 > *When there’s no natural contact with people of color there are no opportunities to interact, to learn about their culture, to enjoy the differences. They remain unknown and the information we glean about them tends to be negative stories seen on the evening news.*
 
-**High School**
+**High School**:
+
 My high school was also mostly white. I knew there was a black population in town, but they might as well have been on another planet. I never came face to face with them. When there’s no natural contact with people of color there are no opportunities to interact, to learn about their culture, to enjoy the differences. They remain unknown and the information we glean about them tends to be negative stories seen on the evening news.
 
-**College**
+**College**:
+
 I attended a mostly-white college. At the end of my sophomore year I heard about a new communal living situation sponsored by the common ministry of the campus. I wanted in. They rented a run-down fraternity party house, mucked it out and allowed ten girls to move in. We were kids interested in social action and civil rights and with anti-Vietnam war sentiments. This was 1965 and Viet Nam was killing young men my age. Dr. King was modeling non-violence to end segregation. I was hungry for racial justice and an end to violence as a means of solving the world’s problems. Life in the community was exciting. We discussed the hot topics of the day. Our little home hosted all the campus speakers and got the privilege of grilling them over dinner: Saul Alinsky, a community activist and political theorist, Robert Theobald, an economist and futurist and some guys from SNCC, the Student Non-violent Coordinating Committee, it was heady stuff.
 
 > *Dr. King was modeling non-violence to end segregation. I was hungry for racial justice and an end to violence as a means of solving the world’s problems.*
@@ -34,7 +39,8 @@ On winter break we made a trek to Portland, Oregon where we slept in a local chu
 
 > *They accepted me and made a little fun of me, but mostly they took care of me...They were kind and loving and felt like family.*
 
-**Family Life**
+**Family Life**:
+
 I got married in April of my senior year and taught 1st grade while my husband finished his degree and then we moved to Berkeley, California. We were semi-hippies, living in both the professional world and the down and dirty of the streets. We were surrounded by drug culture, music, free-speech and had our veggies planted in People’s Park. The assault on students by the Alameda County Sheriffs Dept. was my first eye-witness to police brutality. The community was a mix of every color and ethnicity. My classrooms, likewise had a wonderful blend of people.
 
 After five years of life in the Bay Area we had birthed our two children and moved to work on the Navajo Indian reservation with the Bureau of Indian Affairs (BIA). My husband taught at a boarding school fifty miles from the nearest town. Again, we were thrown into a culture foreign to us. It was brilliant and heart-wrenching, and I was enthralled by the Navajo and Hopi cultures. I could have stayed a long time, but the level of abuse in the boarding school made us leave after one year. We moved to Salem, OR where my husband worked at a Native American High School. He eventually left the BIA and began teaching in the public schools. We were once again living in a white world.
@@ -49,7 +55,8 @@ Over the years I became disenchanted with life inside the white church. I saw li
 
 > *It seemed the church was all about inviting people in to be just like us, but was lacking in honest, sacrificial love. Had they really heard the words of Jesus?*
 
-**Now**
+**Now**:
+
 There’s something new in the air. People are peeling off the scales from their eyes and seeing injustice for what it is and always has been. We seem ready for a change. Authentic relationships override race and color. Once I know a person, the superficial things don't matter; I see the individual, I see my friend. I know I’ll never fully understand another culture, but I can build bridges and learn to love people on the other side. This time reminds me of the Civil Rights Era. It will take courage to stand up to injustice. It will be a mixture of good intentions  and naïve intent, but good things will come from it and I want to take part.
 
 May we stand. May we act. May we love.

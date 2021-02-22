@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: Friends, Let Us Be Good Friends"
 date: 2020-12-16T06:59:34.113Z
-image: /img/uploads/advent-ritsya.jpg
+image: /img/uploads/art_advent-friends-let-us-be-good-friends.jpg
 contributor:
   - Ritsya-el Mathews
 tags:

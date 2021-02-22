@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: Christmas Memories"
 date: 2020-12-09T07:36:43.458Z
-image: /img/uploads/advent-jan.jpg
+image: /img/uploads/art_advent-christmas-memories.jpg
 contributor:
   - Jan Pierce
 tags:

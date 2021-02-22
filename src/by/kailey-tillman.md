@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Kailey Tillman
-image: /img/uploads/kailey-resize.jpg
+image: /img/uploads/pic_kailey-tillman.jpg
 role: Contributor
 instagram: https://www.instagram.com/kaileytillman/
 tags: contributor

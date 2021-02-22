@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Launch Video
 date: 2020-09-11T08:00:59.475Z
-image: /img/uploads/launch-video-thumbnail.jpg
+image: /img/uploads/art_launch-video.jpg
 tags:
   - mission
 category: Video

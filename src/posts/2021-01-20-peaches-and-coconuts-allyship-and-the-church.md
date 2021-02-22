@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Peaches and Coconuts: Allyship and the Church"
 date: 2021-01-20T08:30:44.003Z
-image: /img/uploads/coconutsandpeaches.jpg
+image: /img/uploads/art_peaches-and-coconuts.jpg
 contributor:
   - Hadeel McCall
 artist:
