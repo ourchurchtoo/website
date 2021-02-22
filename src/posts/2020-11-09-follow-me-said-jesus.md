@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: '"Follow Me" said Jesus'
+title: '“Follow Me” said Jesus'
 date: 2020-11-09T08:35:50.785Z
 image: /img/uploads/ritsya.jpg
 contributor:
