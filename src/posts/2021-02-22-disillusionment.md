@@ -4,7 +4,7 @@ title: Disillusionment
 date: 2021-02-22T10:57:16.362Z
 image: /img/uploads/image-from-ios.jpg
 contributor:
-  - Erin Iwata
+  - Kailey Tillman
 artist:
   - Nat Iwata
 tags:
