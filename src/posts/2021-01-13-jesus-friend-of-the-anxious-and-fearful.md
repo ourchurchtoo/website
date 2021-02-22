@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Jesus: Friend Of The Anxious And Fearful"
 date: 2021-01-13T08:09:58.859Z
-image: /img/uploads/image-from-ios.jpg
+image: /img/uploads/jesus-friend-of-the-anxious-and-fearful.jpg
 contributor:
   - Esther Hoole
 artist:
