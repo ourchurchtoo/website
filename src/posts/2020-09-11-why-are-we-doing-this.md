@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Why Are We Doing This?
 date: 2020-09-12T08:00:56.748Z
-image: /img/uploads/whatsapp-image-2020-09-10-at-18.51.03.jpeg
+image: /img/uploads/art_why-are-we-doing-this.jpeg
 contributor:
   - Indy Hollway
   - Erin Iwata

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: New Christmas Traditions"
 date: 2020-12-14T08:39:28.023Z
-image: /img/uploads/advent-mark.jpg
+image: /img/uploads/art_advent-new-christmas-traditions.jpg
 contributor:
   - Mark Ehrenstein
 tags:

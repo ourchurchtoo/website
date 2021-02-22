@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: MRDDragon
-image: /img/uploads/resizedmrddragonprofilephoto.jpg
+image: /img/uploads/pic_mrddragon.jpg
 role: artist
 tags: artist
 ---

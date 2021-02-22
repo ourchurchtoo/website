@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Deborah Beutler
-image: /img/uploads/img_20180321_152033.jpg
+image: /img/uploads/pic_deborah-beutler.jpg
 role: contributor
 tags: contributor
 ---

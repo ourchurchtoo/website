@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent: Hospitality and Diversity"
 date: 2020-11-30T08:52:53.144Z
-image: /img/uploads/advent-cynthia.jpg
+image: /img/uploads/art_advent-hospitality-and-diversity.jpg
 contributor:
   - Cynthia Akinsanya
 tags:
@@ -25,4 +25,4 @@ Christmas Day is usually just my husband and our daughters. Again, we extend our
 
 When it comes to festive food, we celebrate our cultural heritage and influences. As my husband spent many years in Greece, we always have a Greek salad starter. Christmas dinner is traditional roast turkey and all the trimmings, but there has to be room on the table for some Jollof rice. My family are from Sierra Leone and my husband is from Nigeria, you could start anything from a heated debate to a full-blown war by asking which country cooks the best Jollof rice. I’m the only one who likes Christmas pudding, so dessert is usually Key Lime Pie. So that’s Greece, West Africa and the United States in one table setting.
 
-![](/img/uploads/cynthia_cakes.jpg)
+![](/img/uploads/ref_cynthia_cakes.jpg)

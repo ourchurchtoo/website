@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Bright Spots: Anti-Ableism"
 date: 2020-10-09T11:34:36.415Z
-image: /img/uploads/bright-spots-03-1-.jpg
+image: /img/uploads/art_bright-spots-anti-ableism.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata
@@ -18,13 +18,13 @@ This week we heard stories and poetry from Debbie and Candice. Both are people w
 
 ## [Pacing Pixie](https://www.instagram.com/pacingpixie/)
 
-![](/img/uploads/pixie.jpg)
+![](/img/uploads/ref_pixie.jpg)
 
 Pacing Pixie is an Instagrammer that explains all our ableist jargon and how we can move towards thinking more inclusively in regards to our bodies. Follow this positive, pixie dust queen as she navigates life with a disability.
 
 ## [New York Institute of Technology Library](https://libguides.nyit.edu/c.php?g=666045&p=4743728)
 
-![](/img/uploads/newyorktech_library_web.jpg)
+![](/img/uploads/ref_newyorktech-library-web.jpg)
 
 [The New York Institute of Technology Library](https://libguides.nyit.edu/c.php?g=666045&p=4743728) creates guides that attempt to provide general information and a starting point to learning about anti-oppression, inclusion, and privilege, as well as provide knowledge and resources to key social justice issues. We especially liked their guide for ableism. Want to hear from more people with disabilities? Check out this Buzz Feed video on what people with disabilities wish able-bodied folks knew.
 
@@ -36,7 +36,7 @@ Pacing Pixie is an Instagrammer that explains all our ableist jargon and how we 
 
 [Is Disability Inherently Negative? ](https://theliturgists.com/podcast/2020/5/14/is-disability-inherently-negative)
 
-![](/img/uploads/litergist.png)
+![](/img/uploads/ref_litergist.png)
 
 More of a podcast person? We learned a lot from [the conversation between Dr. Hillary McBride and Heather McCain](https://theliturgists.com/podcast/2020/5/14/is-disability-inherently-negative) asking if disability is inherently negative. This conversation also further explained intersectionality with disability, and is just a very insightful listen.
 
@@ -44,18 +44,18 @@ More of a podcast person? We learned a lot from [the conversation between Dr. Hi
 
 ## [True Colors Unite](https://truecolorsunited.org/our-issue/)
 
-![](/img/uploads/true-colors-unite-1-.jpg)
+![](/img/uploads/ref_true-colors.jpg)
 
 True Colors Unite was co-founded by 80’s pop star Cyndi Lauper. They do extensive research and find solutions for homeless youth focused on the LGTBQ+ community. Their site is packed full of information and ideas to combat homelessness among LGTBQ+ youth. Go take a look!
 
 [Raise](https://www.raisecenter.org/disability-and-intersectionality-not-the-default-disabled-person/)
 
-![](/img/uploads/raise.png)
+![](/img/uploads/ref_raise.png)
 
 We stumbled on one more story that addressed intersectional disability. Cori Frazer describe not being the "default disabled person."  As you read this one, if you are a person who participates in a faith community, ask yourself how together can help break down the systems that cause trauma to people who Jesus loves and  created. We found this piece on [Raise](https://www.raisecenter.org/), an organization that stands for the **National Resources for Advocacy, Independence, Self-determination and Employment** (Raise). They provide resources for youth with disabilities and their families.
 
 ## [The Q Center ](https://www.pdxqcenter.org/?gclid=CjwKCAjwh7H7BRBBEiwAPXjadt8wrYtTxl8VVBIFcLroTZeNgI6mFGRR7XZw_4HWXjXMaK7gAjkyRRoC-_sQAvD_BwE)
 
-![](/img/uploads/q_center.jpg)
+![](/img/uploads/ref_q-center.jpg)
 
 The Q Center was recommended by our contributor this week, Candice. Q Centers can be found all over the United States. They provides support groups for people that identify as LGTBQ+ and their families. Candice  found their Queer Bible Study especially enjoyable.

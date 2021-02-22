@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 title: Benjamin Hollway
 permalink: /by/benjamin-hollway/index.html
-image: /img/uploads/benjamin-hollway.jpg
+image: /img/uploads/pic_benjamin-hollway.jpg
 role: "Lead Developer "
 instagram: https://www.instagram.com/nothingrandom/
 tags:

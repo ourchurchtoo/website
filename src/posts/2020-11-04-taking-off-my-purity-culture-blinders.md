@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Taking Off My Purity Culture Blinders
 date: 2020-11-04T09:58:11.255Z
-image: /img/uploads/purity-blinders-art.jpg
+image: /img/uploads/art_purity-blinders.jpg
 contributor:
   - Boriana Hadjieva
 artist:

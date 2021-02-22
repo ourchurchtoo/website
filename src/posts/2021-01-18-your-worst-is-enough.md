@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Your Worst Is Enough
 date: 2021-01-18T08:53:38.507Z
-image: /img/uploads/anxiety-by-hadeel-18-01.jpg
+image: /img/uploads/art_your-worst-is-enough.jpg
 contributor:
   - Indy Hollway
 artist:

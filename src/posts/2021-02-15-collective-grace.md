@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Collective Grace
 date: 2021-02-15T12:46:31.666Z
-image: /img/uploads/collectivegrace.jpg
+image: /img/uploads/art_collective-grace.jpg
 contributor:
   - Erin Iwata
 artist:

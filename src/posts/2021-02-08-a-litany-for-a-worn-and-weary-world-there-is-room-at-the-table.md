@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "A Litany for a Worn and Weary World: There is Room at the Table"
 date: 2021-02-08T08:48:53.495Z
-image: /img/uploads/janslitany.jpg
+image: /img/uploads/art_there-is-room-at-the-table.jpg
 contributor:
   - Jan Pierce
 artist:

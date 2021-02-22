@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Bright Spots: Vision 2021"
 date: 2020-11-27T09:26:45.531Z
-image: /img/uploads/bright-spots-12.jpg
+image: /img/uploads/art_bright-spots-vision-2021.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata

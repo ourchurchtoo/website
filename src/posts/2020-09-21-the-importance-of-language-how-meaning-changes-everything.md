@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "The Importance of Language: How Meaning Changes Everything"
 date: 2020-09-21T08:35:42.129Z
-image: /img/uploads/boriana-02.jpg
+image: /img/uploads/art_the-importance-of-language.jpg
 contributor:
   - Boriana Hadjieva
 artist:

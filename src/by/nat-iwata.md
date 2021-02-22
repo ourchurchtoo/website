@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 permalink: /by/nat-iwata/index.html
 title: Nat Iwata
-image: /img/uploads/nat_iwata.jpg
+image: /img/uploads/pic_nat-iwata.jpg
 role: "Creative Editor & Lead Artist "
 instagram: https://www.instagram.com/nat_iwata_art/
 tags: team

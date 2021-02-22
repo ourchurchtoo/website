@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Our Bright Spots
 date: 2020-09-12T08:00:59.475Z
-image: /img/uploads/bright-spots-01.jpg
+image: /img/uploads/art_bright-spots.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata
@@ -29,7 +29,7 @@ One of my current favourite educators on Instagram is @mariebeech. Marie is a so
 
 ### The Q-Network
 
-![](/img/uploads/q-christian-fellowship.jpg)
+![](/img/uploads/ref_q-christian-fellowship.jpg)
 
 The Q Christian Fellowship is a community that recognizes the church does not always make it easy for those who identify as LGBTQ+ to reconcile these aspects of themselves with their Christian identity. By gathering together, embracing differences, and celebrating shared trust in God’s love in Christ, they seek to point toward the full inclusivity to which God is calling us. The unchanged movement affirms LGBTQ+ Christians and challenges anti-gay rhetoric.
 

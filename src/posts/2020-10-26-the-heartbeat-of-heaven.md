@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: The Heartbeat of Heaven
 date: 2020-10-26T09:09:02.653Z
-image: /img/uploads/cynthia-art.jpg
+image: /img/uploads/art_heartbeat-of-heaven.jpg
 contributor:
   - Cynthia Akinsanya
 artist:

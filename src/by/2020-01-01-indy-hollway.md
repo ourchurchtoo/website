@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 title: Indy Hollway
 permalink: /by/indy-hollway/index.html
-image: /img/uploads/1011259e-c083-4d9e-8320-c601873731ba.jpeg
+image: /img/uploads/pic_indy-hollway.jpeg
 role: Founder & Administrative Director
 instagram: https://www.instagram.com/indy_hollway/
 tags:

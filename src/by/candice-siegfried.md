@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Candice Siegfried
-image: /img/uploads/sizedcandiceprofilephoto.jpg
+image: /img/uploads/pic_candice-siegfried.jpg
 role: Contributor
 instagram: https://www.instagram.com/quixjote/
 tags: contributor

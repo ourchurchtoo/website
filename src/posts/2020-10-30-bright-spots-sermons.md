@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Bright Spots: Sermons"
 date: 2020-10-30T13:51:47.943Z
-image: /img/uploads/brightspots-sermons.jpeg
+image: /img/uploads/art_bright-spots-sermons.jpeg
 contributor:
   - Indy Hollway
   - Erin Iwata
@@ -20,7 +20,7 @@ This week we heard great wisdom from Cynthia Akinsanya and Jan Pierce. While Jan
 
 ### [Jubilee Church London](https://www.youtube.com/channel/UCUwZP1WZYwzkiByeHoU-Vdw)
 
-![](/img/uploads/jubliee-church-london.jpg)
+![](/img/uploads/ref_jubilee-church-london.jpg)
 
 Pastor Tope gave this brief sermon four months ago after George Floyd was killed. He speaks directly about how the Gospel compels us to speak up against injustice. Everyone take a moment to listen to this genuine outlook.
 
@@ -34,7 +34,7 @@ Pastor Tope gave this brief sermon four months ago after George Floyd was killed
 
 ### [The Bible for Normal People](https://thebiblefornormalpeople.podbean.com/e/episode-127-miguel-de-la-torre-diverse-voices-in-biblical-scholarship/)
 
-![](/img/uploads/miguel_de_la_torre_.jpg)
+![](/img/uploads/ref_miguel-de-la-torre.jpg)
 
 In this dialogue between Bible scholars and Professor of Social Ethics and Latinx Studies, Miguel De La Torre, shares why we all need to examine where our biblical interpretations come from and why we need to diversify our understandings of the Bible.
 
@@ -54,7 +54,7 @@ Tim Mackie is co-creator of the Bible project. You can listen to him go in depth
 
 ### [The Bible for Normal People ](https://thebiblefornormalpeople.podbean.com/e/episode-129-brooke-prentis-reading-the-bible-through-aboriginal-eyes/)
 
-![](/img/uploads/brooke_prentis.jpg)
+![](/img/uploads/ref_brooke-prentis.jpg)
 
 Continuing their feature of Bible wisdom from a non-western perspective, the Bible scholars at "The Bible for Normal People" interview Brooke Prentis an Aboriginal leader and CEO of a Christian organization in Australia called Common Grace. On this episode, she shares with us some Aboriginal perspectives on the Bible and how the Bible speaks to the injustices that Aboriginal people have faced and continue to face. It was an eye opening preach! Give it a listen.
 
@@ -62,7 +62,7 @@ Continuing their feature of Bible wisdom from a non-western perspective, the Bib
 
 ### [Grace and Glory Community Church, Vancouver Washington USA](https://www.youtube.com/channel/UCkKZvFJ_jbKm02XH8tJ2XQg/videos)
 
-![](/img/uploads/grace-and-glory-logo.jpg)
+![](/img/uploads/ref_grace-and-glory-logo.jpg)
 
 This sermon also came 4 month ago, but instead of an urban church in London, a small predominantly white church on the West coast of America. In this sermon we hear from various members of the church as they reflect and move towards real change in their daily lives. We also highly recommend the sermon on Lament, which came the week before this one. Will has been listening, learning and being transformed along with the church he walks with.
 
@@ -78,7 +78,7 @@ This sermon also came 4 month ago, but instead of an urban church in London, a s
 
 ### [The Rob Cast](https://robbell.com/portfolio/robcast/)
 
-![](/img/uploads/robcast.jpeg)
+![](/img/uploads/ref_robcast.jpeg)
 
 Rob Bell has been reviving the art of the sermon for a number of decades. Now, he shares his thoughts on the Rob Cast, a podcast that includes sermons, interviews, and thoughtful riffs. His sermon this summer called ["We Hung Our Harps"](https://robbell.podbean.com/e/we-hung-our-harps/) moved us, especially in the midst of the pandemic, election, and the issues facing us today. For a different take on a life sermon, we recommend "An Introduction to Joy."
 

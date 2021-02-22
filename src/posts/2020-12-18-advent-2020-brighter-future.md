@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Advent 2020: Brighter Future"
 date: 2020-12-18T08:58:42.578Z
-image: /img/uploads/advent-erin-and-indy.jpg
+image: /img/uploads/art_advent-brighter-future.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata

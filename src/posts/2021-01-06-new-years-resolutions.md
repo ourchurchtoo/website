@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: New Years Resolutions
 date: 2021-01-06T09:47:46.023Z
-image: /img/uploads/whatsapp-image-2021-01-05-at-13.23.29.jpeg
+image: /img/uploads/art_new-years-resolutions-21.jpeg
 contributor:
   - Indy Hollway
   - Erin Iwata

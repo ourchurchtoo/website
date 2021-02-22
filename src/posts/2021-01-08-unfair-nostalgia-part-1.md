@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Unfair Nostalgia Part 1
 date: 2021-01-08T09:12:46.479Z
-image: /img/uploads/alicia_portrait.jpg
+image: /img/uploads/art_unfair-nostalgia-1.jpg
 contributor:
   - " Alicia Hovanas"
 artist:

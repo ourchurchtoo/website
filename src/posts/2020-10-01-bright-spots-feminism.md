@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Bright Spots: Feminism"
 date: 2020-10-02T07:45:10.504Z
-image: /img/uploads/feminism.jpg
+image: /img/uploads/art_bright-spots-feminism.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata
@@ -15,15 +15,15 @@ Below you will find a whole bunch of material to read about Jesus and feminism f
 
 ## On Intersectionality by [Kimberlé Crenshaw](https://aapf.org/kimberle-crenshaw)
 
-![](/img/uploads/large-intersectionality.jpg)
+![](/img/uploads/ref_intersectionality.jpg)
 
 If you are keen to learn more about intersectionality, then look up the amazing Kimberlé Crenshaw. This essay collection is essential for any reader who wants to learn more about intersectionality. Black women such as Crenshaw, and notably also bell hooks, paved the way for intersectionality by exposing the underlying racial biases of many classical feminist texts. It is only through this crucial lens that we can really understand the depths of women’s struggles.
 
-![](/img/uploads/intersectionalitybook.jpg)
+![](/img/uploads/ref_intersectionality-book.jpg)
 
 ## [Sarah Bessey ](https://sarahbessey.com/)“Jesus Feminist”
 
-![](/img/uploads/jesus-feminist-book.jpg)
+![](/img/uploads/ref_jesus-feminist.jpg)
 
 If you loved Indy’s piece and want to learn more, read Jesus Feminist. Indy became a feminist before she met Jesus, and Bessey became a feminist because she was a Christian. Not ready for a whole book? Listen to this 30 minute sermon by Bessey. She goes into greater detail about intersectionality, allyship and the Church.
 
@@ -35,11 +35,11 @@ If you loved Indy’s piece and want to learn more, read Jesus Feminist. Indy be
 
 ## [Rachel Held Evans](https://rachelheldevans.com/about), Collected works
 
-![](/img/uploads/rachelheld-evansphoto.jpg)
+![](/img/uploads/ref_rachel-held-evans.jpg)
 
 We lost a great feminist Bible scholar earlier this year, but her legacy lives on through her amazing work. [Rachel Held Evans](https://rachelheldevans.com/) stands out as sensible, smart, and able to hold onto the gospel while bridging the gap between conservative Christian circles and liberal theologies. [Read a snippet about her life and thoughts here](https://www.newyorker.com/news/postscript/the-radically-inclusive-christianity-of-rachel-held-evans).  Consider one of her four books, all which deal with being a Jesus centered woman in the 21st century.
 
-![](/img/uploads/inspiredbook.jpg "Inspired: Slaying Giants, Walking on Water, and Loving the Bible Again")
+![](/img/uploads/ref_inspired-book.jpg "Inspired: Slaying Giants, Walking on Water, and Loving the Bible Again")
 
 Faith Unraveled: How a Girl Who Knew All the Answers Learned to Ask Questions
 
@@ -51,23 +51,23 @@ A Year of Biblical Womanhood: How a Liberated Woman Found Herself Sitting on Her
 
 ## The Junia Project
 
-![](/img/uploads/junialogo.jpg)
+![](/img/uploads/ref_junia-logo.jpg)
 
 The Junia Project is committed to gender reconciliation and biblical equality. They support women in the Church, women in ministry, Christian feminism, a Biblical view of  women, and egalitarian theology. They curate a lovely [Pinterest page](https://www.pinterest.com/juniaproject/_created/) that expands on these ideas. We *highly* recommend listening to Kate Wallace talk about the Junia project on this episode of the [Seminary Dropout Podcast.](http://www.shaneblackshear.com/katewallace/) Give it a listen and learn all about Christian egalitarianism, which is key to the Christian Feminist doctrine.
 
-![](/img/uploads/junia-project-flier-1-.jpg)
+![](/img/uploads/ref_junia-project-flier.jpg)
 
 ## Anne Lamott, collected works
 
-![](/img/uploads/anne-lamott-.jpg)
+![](/img/uploads/ref_anne-lamott.jpg)
 
 Anne Lamott is a powerful writer and vulnerable person of faith. She has written 8 books on faith from her own uniquely female perspective. Pick up any of them or find audio versions of them. For a trippy dose of Lamott wisdom, you can find her on season 1 episode 2 of the (not-for-kids) cartoon, The Midnight Gospel, found on Netflix. Be prepared for psychedelic, bizarre images set to a podcast between Lamott and Adventure Time creator Pendleton Ward.  For more Lamott wisdom, [you can follow her on Instagram.](https://www.instagram.com/annelamott/?fbclid=IwAR1zl6BQ2eBd_Yuj0J_kjcjKOtf1jwCUcZPVaECl1lqvqueSpZYXjYVFmOY)
 
-![](/img/uploads/midnightgospel.jpg)
+![](/img/uploads/ref_midnight-gospel.jpg)
 
 ## [Daniella Mayfield](http://www.dlmayfield.com/menu), collected works
 
-![](/img/uploads/largedaniella-mayfield.jpg)
+![](/img/uploads/ref_daniella-mayfield.jpg)
 
 Daniella is a feminist and Christian who makes a bevy of beautiful things exploring these ideas. She has a fun podcast called the [Prophetic Imagination Station](http://www.dlmayfield.com/podcast) that reminisces on 90’s Christian pop culture artifacts, a [gorgeous blog](http://www.dlmayfield.com/dl-mayfield), has written two books and her articles are featured in Christianity Today, Religion News, The Washington Post, Sojourners, Vox, and many other publications as a former missionary and female Bible scholar.
 

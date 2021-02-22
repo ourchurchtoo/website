@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Why I Still Listen to Contemporary Christian Music "
 date: 2020-11-16T09:56:45.775Z
-image: /img/uploads/brockdittus_portrait.jpg
+image: /img/uploads/art_why-i-still-listen-to-contemporary-christian-music.jpg
 contributor:
   - Brock Dittus
 artist:

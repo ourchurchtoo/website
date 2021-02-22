@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Tentative
 date: 2020-10-19T07:36:44.745Z
-image: /img/uploads/2020-09-20-123208-page-001.jpg
+image: /img/uploads/art_tentative.jpg
 contributor:
   - Indy Hollway
 artist:

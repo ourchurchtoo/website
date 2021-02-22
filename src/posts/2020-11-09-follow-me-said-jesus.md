@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: '"Follow Me" said Jesus'
 date: 2020-11-09T08:35:50.785Z
-image: /img/uploads/ritsya.jpg
+image: /img/uploads/art_follow-me-said-jesus.jpg
 contributor:
   - Ritsya-el Mathews
 artist:

@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 permalink: /by/erin-iwata/index.html
 title: Erin Iwata
-image: /img/uploads/69650726_476159416569139_7693971734171592218_n.jpg
+image: /img/uploads/pic_erin-iwata.jpg
 role: Founder & Project Manager
 instagram: https://www.instagram.com/its_me_erinnicole/
 tags: team

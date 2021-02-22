@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Let's Talk About... Let's Talk About!
 date: 2021-02-05T10:04:04.477Z
-image: /img/uploads/letstalkabout-01.jpg
+image: /img/uploads/art_lets-talk-about-lta.jpg
 contributor:
   - Indy Hollway
   - Erin Iwata

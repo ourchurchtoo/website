@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: My White Life
 date: 2020-10-28T08:53:55.766Z
-image: /img/uploads/jan-artwork.jpg
+image: /img/uploads/art_my-white-life.jpg
 contributor:
   - Jan Pierce
 artist:

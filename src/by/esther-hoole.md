@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Esther Hoole
-image: /img/uploads/esther.jpeg
+image: /img/uploads/pic_esther-hoole.jpeg
 role: contributor
 tags: contributor
 ---

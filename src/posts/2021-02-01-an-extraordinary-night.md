@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: An Extraordinary Night
 date: 2021-02-01T09:26:37.678Z
-image: /img/uploads/katy-remnant-art.jpg
+image: /img/uploads/art_an-extraordinary-night.jpg
 contributor:
   - Katy Hollway
 artist:

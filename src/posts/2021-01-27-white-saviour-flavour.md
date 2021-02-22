@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: White Saviour Flavour
 date: 2021-01-27T10:55:10.025Z
-image: /img/uploads/wsf-elowynn.jpg
+image: /img/uploads/art_white-saviour-flavour.jpg
 contributor:
   - Boriana Hadjieva
 artist:

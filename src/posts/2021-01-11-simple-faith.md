@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Simple Faith
 date: 2021-01-11T08:29:39.855Z
-image: /img/uploads/photo-2021-01-10-11-30-55.jpg
+image: /img/uploads/art_simple-faith.jpg
 contributor:
   - Elisabeth Hoole
 artist:
