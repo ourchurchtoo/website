@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Bibliography for Unfair Nostalgia
 date: 2021-01-30T12:51:48.665Z
-image: /img/uploads/art_bibliography-unfair-nostalgia.jpg
+image: /img/uploads/art_unfair-nostalgia-bibliography.jpg
 contributor:
   - " Alicia Hovanas"
 artist:
