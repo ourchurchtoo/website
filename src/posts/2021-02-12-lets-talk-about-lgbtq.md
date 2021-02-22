@@ -11,7 +11,8 @@ artist:
 tags:
   - lgbtq
   - gender
-category: Article
+  - lets_talk_about
+category: Interview
 ---
 This article is written based on answers to an upcoming podcast. Whilst we attempt to uphold the author's opinions, bear in mind that their answers may have been interpreted by us: all the more reason to catch the interviews when they go live this spring!
 
