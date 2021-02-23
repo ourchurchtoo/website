@@ -1,7 +1,7 @@
 ---
 layout: /layouts/base.njk
 ---
-{% if ignore_info or tags %}
+{% if ignore_info%}
 {% else %}
 {% set tag = tags | first %}
 {% endif %}
@@ -47,7 +47,7 @@ layout: /layouts/base.njk
       {% endif %}
     </div>
   </div>
-  {% if ignore_info or tags %}
+  {% if ignore_info %}
   {% else %}
     <div class='section section--post__read-next'>
       <div class='col-xs-12 text-left'>

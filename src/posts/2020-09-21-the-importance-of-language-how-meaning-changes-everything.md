@@ -8,6 +8,7 @@ contributor:
 artist:
   - Brandon Heim
 tags:
+  - guest
 category: Article
 ---
 It is practically impossible to divorce words from meaning. The very purpose of language is to use abstract, nonsensical sounds for equally abstract, nonsensical ideas, in the hopes that something would come out that makes sense. Language is a flawed, yet necessary part of human life. How else could we best express love or anger, happiness or sadness?
