@@ -1,9 +1,14 @@
 ---
 layout: /layouts/base.njk
 ---
+{% if ignore_info %}
+{% else %}
+{% set tag = tags | first %}
+{% endif %}
+
 <div class='row center-xs'>
   <div class='col-xs-12 col-md-7 text-left'>
-    <div class='section section--standard section--post'>
+    <div class='section section--standard section--post {% if ignore_info %}section--post--ignore-info{% endif %}'>
       <div class='post__header text-center'>
         <h1>{{ title }}</h1>
         {% if ignore_info %}
@@ -38,11 +43,23 @@ layout: /layouts/base.njk
       {% else %}
         <div class='post__footer'>
           {% include 'partials/post-social.njk' %}
-          <p>
-            <a class='link--color' href='/archive/'><i class='fal fa-long-arrow-left'></i> View all posts</a>
-          </p>
         </div>
       {% endif %}
     </div>
   </div>
+  {% if ignore_info %}
+  {% else %}
+    <div class='section section--post__read-next'>
+      <div class='col-xs-12 text-left'>
+        <h2>If you enjoyed this post about <em>{{ tag }}</em> you might want to read these next</h2>
+        <div class='row'>
+          {% for item in collections[tag] | reverse %}
+            {% if loop.index0 < 3 %}
+              {% include 'partials/article-mini.njk' %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
 </div>
