@@ -1,7 +1,7 @@
 ---
 layout: /layouts/base.njk
 ---
-{% if ignore_info %}
+{% if ignore_info or tags %}
 {% else %}
 {% set tag = tags | first %}
 {% endif %}
@@ -47,11 +47,11 @@ layout: /layouts/base.njk
       {% endif %}
     </div>
   </div>
-  {% if ignore_info %}
+  {% if ignore_info or tags %}
   {% else %}
     <div class='section section--post__read-next'>
       <div class='col-xs-12 text-left'>
-        <h2>If you enjoyed this post about <em>{{ tag | postReadableLabel }}</em> you might want to read these next</h2>
+      <h2>If you enjoyed this post about <em>{{ tag | postReadableLabel }}</em> you might want to read these next</h2>
         <div class='row'>
           {% for item in collections[tag] | reverse %}
             {% if loop.index0 > 0 and loop.index0 < 4 %}
