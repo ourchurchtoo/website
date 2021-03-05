@@ -19,28 +19,18 @@ Eventually my husband and I stopped attending this church, where the atmosphere 
 
 > Historically the church has responded to mental illness poorly and although a lot has changed there’s still a significant amount of stigma within the church toward people suffering. 
 
-As a psychologist I’ve had the privilege of walking alongside many men and women who have been through similar experiences within the church. People with grief, depression, anxiety, addiction, bipolar disorder, post-traumatic stress disorder, and other mental illnesses who feel misunderstood and isolated. Common messages people with mental illness receive, either directly or indirectly:
+As a psychologist I’ve had the privilege of walking alongside many men and women who have been through similar experiences within the church. People with grief, depression, anxiety, addiction, bipolar disorder, post-traumatic stress disorder, and other mental illnesses who feel misunderstood and isolated. Common messages people with mental illness receive, either directly or indirectly, include:
 
 * *Don’t talk about your problems (it makes people uncomfortable)*
-
 * *Pray more (God will take away every struggle if you just pray enough)*
-
 * *Try harder*
-
 * *Have more faith*
-
 * *Read the Bible more (God included everything that could help you within Scripture)*
-
 * *Anxiety is a sin (you need to confess to be free)*
-
 * *Being depressed is a sin (just focus on God and praising him)*
-
 * *Don’t talk about faith struggles (such as doubt or disappointment God)*
-
 * *You don’t need to seek help outside the church (talk to pastors, not therapists)*
-
 * *Medication is sinful and/or a crutch (trust God to heal you)*
-
 * *Psychology is dangerous and therapists don’t respect faith/religion* 
 
 Some of the messages people have received leave deep and lasting scars. The messages may or may not have been intentional. They often come from misunderstandings or stigma about mental health and mental illnesses. If you want to come alongside people struggling with mental illness, here are a few things you should know to help get you started:
@@ -69,7 +59,7 @@ Christians often don’t understand medication or think about treatment options 
 
 #### **Praying for someone with mental illness**
 
-Encourage THEM to pray and lament and be a witness. Understand that they may be questioning God and doubting him or angry with him. This is a normal response to grief. Accept this as where they’re at in the moment and pray in a way that doesn’t bring any shame to their process. With sensitivity! 
+Encourage THEM to pray and lament and be a witness. Understand that they may be questioning God and doubting or angry with God. This is a normal response to grief. Accept this as where they’re at in the moment and pray in a way that doesn’t bring any shame to their process. With sensitivity! 
 
 #### **Healing is a process: process miracles vs. instantaneous healing**
 
@@ -79,7 +69,7 @@ Acknowledge that God’s healing takes many forms. Process miracles restore peop
 
 #### **When to refer someone for professional support**
 
-When a person shares their symptoms with you or if you observe the symptoms manifesting in their life. Symptoms can include depression, hopelessness, self-harm, anxiety, fear, intrusive thoughts, weight loss, difficulty sleeping, relationship problems, and much more. A referral can be life saving, whether that’s helping to save their life from the ravages of their illness or literally saving them from taking their own life.
+You should refer a friend when they shares their symptoms with you or if you observe the symptoms manifesting in their life. Symptoms can include depression, hopelessness, self-harm, anxiety, fear, intrusive thoughts, weight loss, difficulty sleeping, relationship problems, and much more. A referral can be life saving, whether that’s helping to save their life from the ravages of their illness or literally saving them from taking their own life.
 
 #### **Coming alongside**
 
@@ -87,4 +77,4 @@ Know your limits. If a therapist is involved, work with the mental health profes
 
 > Acknowledge that God’s healing takes many forms. Process miracles restore people gradually, over time, healing people in a way beyond our understanding. 
 
-If you “pass them off” you give the message that they are too much for you, that seeing them is overwhelming or a burden. Demonstrate “being with”/carrying one another’s burdens. Offer practical help. Traumatized people may have periods of being unable to care for themselves well. Ask them what practical needs they have. Maybe it’s a shared meal when they’re struggling to eat or errands, etc. Maybe it’s simply listening, again and again. Not pushing, but offering your presence in the midst of their pain. There is profound power in being known and seen and loved unconditionally. After all, isn’t that what the church is all about?
+If you “pass them off” you give the message that they are too much for you, that seeing them is overwhelming or a burden. Demonstrate “being with”/carrying one another’s burdens. Offer practical help. Traumatized people may have periods of being unable to care for themselves well. Ask them what practical needs they have. Maybe it’s a shared meal when they’re struggling to eat or errands. Maybe it’s simply listening, again and again. Not pushing, but offering your presence in the midst of their pain. There is profound power in being known and seen and loved unconditionally. After all, isn’t that what the church is all about?
