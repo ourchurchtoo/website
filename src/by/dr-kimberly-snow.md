@@ -1,6 +1,6 @@
 ---
 layout: layouts/contributor.njk
-title: Dr. Kimberly Snow
+title: Kimberly Snow, PhD
 image: /img/uploads/kimberly-snow-profile.jpeg
 role: Contributor
 tags: contributor
