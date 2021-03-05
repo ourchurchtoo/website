@@ -53,17 +53,17 @@ There are many types of therapy. It seeks to address the whole person, taking in
 
 #### **Medications**
 
-Christians often don’t understand medication or think about treatment options in a critical/thoughtful way. Try not to make assumptions or blanket statements about things you’re unfamiliar with. Negative stories about how your cousin’s best friend had a terrible reaction to a medication or your neighbor who tried a medication that just didn’t work--these stories aren’t helpful. Medication is a personal choice and potential options should be discussed with a medical professional if warranted. 
+Christians often don’t understand medication or think about treatment options in a critical or thoughtful way. Try not to make assumptions or blanket statements about things you’re unfamiliar with. Negative stories about how your cousin’s best friend had a terrible reaction to a medication or your neighbor who tried a medication that just didn’t work--these stories aren’t helpful. Medication is a personal choice and potential options should be discussed with a medical professional if warranted. 
 
 > Mental health doesn’t attempt to “fix” all of these domains, but to shed light on what’s working well and what needs there are for managing psychological pain and living a more full and meaningful life free from that pain. It DOES NOT seek to replace the role of the church. 
 
 #### **Praying for someone with mental illness**
 
-Encourage THEM to pray and lament and be a witness. Understand that they may be questioning God and doubting or angry with God. This is a normal response to grief. Accept this as where they’re at in the moment and pray in a way that doesn’t bring any shame to their process. With sensitivity! 
+Encourage THEM to pray and lament and be a witness. Understand that they may be questioning God, be doubting or angry with God. This is a normal response to grief. Accept this as where they’re at in the moment and pray in a way that doesn’t bring any shame to their process. With sensitivity! 
 
 #### **Healing is a process: process miracles vs. instantaneous healing**
 
-Acknowledge that God’s healing takes many forms. Process miracles restore people gradually, over time, healing people in a way beyond our understanding. Like in the natural world a tree doesn’t grow overnight, with healing it takes time to restore the many parts that have been damaged: relationally, spiritually, physically within the body. This process honors the pain as God walks alongside and enters into the suffering with the victim/survivor. This is a BEAUTIFUL process. Not instantaneous, but good. 
+Acknowledge that God’s healing takes many forms. *Process miracles* restore people gradually, over time, healing people in a way beyond our understanding. Like in the natural world a tree doesn’t grow overnight, with healing it takes time to restore the many parts that have been damaged: relationally, spiritually, physically within the body. This process honors the pain as God walks alongside and enters into the suffering with the victim/survivor. This is a BEAUTIFUL process. Not instantaneous, but good. 
 
 > Accept this as where they’re at in the moment and pray in a way that doesn’t bring any shame to their process. With sensitivity! 
 
@@ -73,7 +73,7 @@ You should refer a friend when they shares their symptoms with you or if you obs
 
 #### **Coming alongside**
 
-Know your limits. If a therapist is involved, work with the mental health professional rather than simply handing the person off. Offer to speak with the therapist, to share observations, and to join a therapy session if wanted. Check in  with the person, just as you would check in with someone with cancer. Offer to pray. Offer to listen to them pray. Encourage them to lament and speak honestly with God, even as they hope. Offer to find them a mentor or spiritual director, but again, don’t just hand them off. Fundamentally, people want to be seen and known and accepted. 
+Know your limits. If a therapist is involved, work with the mental health professional rather than simply handing the person off. Offer to speak with the therapist, to share observations, and to join a therapy session if wanted. Check in  with the person, just as you would check in with someone with a physical illness. Offer to pray. Offer to listen to them pray. Encourage them to lament and speak honestly with God, even as they hope. Offer to find them a mentor or spiritual director, but again, don’t just hand them off. Fundamentally, people want to be seen and known and accepted. 
 
 > Acknowledge that God’s healing takes many forms. Process miracles restore people gradually, over time, healing people in a way beyond our understanding. 
 
