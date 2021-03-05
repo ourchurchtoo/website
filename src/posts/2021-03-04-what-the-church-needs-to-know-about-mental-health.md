@@ -21,27 +21,27 @@ Eventually my husband and I stopped attending this church, where the atmosphere 
 
 As a psychologist I’ve had the privilege of walking alongside many men and women who have been through similar experiences within the church. People with grief, depression, anxiety, addiction, bipolar disorder, post-traumatic stress disorder, and other mental illnesses who feel misunderstood and isolated. Common messages people with mental illness receive, either directly or indirectly:
 
-*Don’t talk about your problems (it makes people uncomfortable)*
+* *Don’t talk about your problems (it makes people uncomfortable)*
 
-*Pray more (God will take away every struggle if you just pray enough)*
+* *Pray more (God will take away every struggle if you just pray enough)*
 
-*Try harder*
+* *Try harder*
 
-*Have more faith*
+* *Have more faith*
 
-*Read the Bible more (God included everything that could help you within Scripture)*
+* *Read the Bible more (God included everything that could help you within Scripture)*
 
-*Anxiety is a sin (you need to confess to be free)*
+* *Anxiety is a sin (you need to confess to be free)*
 
-*Being depressed is a sin (just focus on God and praising him)*
+* *Being depressed is a sin (just focus on God and praising him)*
 
-*Don’t talk about faith struggles (such as doubt or disappointment God)*
+* *Don’t talk about faith struggles (such as doubt or disappointment God)*
 
-*You don’t need to seek help outside the church (talk to pastors, not therapists)*
+* *You don’t need to seek help outside the church (talk to pastors, not therapists)*
 
-*Medication is sinful and/or a crutch (trust God to heal you)*
+* *Medication is sinful and/or a crutch (trust God to heal you)*
 
-*Psychology is dangerous and therapists don’t respect faith/religion* 
+* *Psychology is dangerous and therapists don’t respect faith/religion* 
 
 Some of the messages people have received leave deep and lasting scars. The messages may or may not have been intentional. They often come from misunderstandings or stigma about mental health and mental illnesses. If you want to come alongside people struggling with mental illness, here are a few things you should know to help get you started:
 
@@ -81,7 +81,7 @@ Acknowledge that God’s healing takes many forms. Process miracles restore peop
 
 When a person shares their symptoms with you or if you observe the symptoms manifesting in their life. Symptoms can include depression, hopelessness, self-harm, anxiety, fear, intrusive thoughts, weight loss, difficulty sleeping, relationship problems, and much more. A referral can be life saving, whether that’s helping to save their life from the ravages of their illness or literally saving them from taking their own life.
 
-#### **Coming alongside** 
+#### **Coming alongside**
 
 Know your limits. If a therapist is involved, work with the mental health professional rather than simply handing the person off. Offer to speak with the therapist, to share observations, and to join a therapy session if wanted. Check in  with the person, just as you would check in with someone with cancer. Offer to pray. Offer to listen to them pray. Encourage them to lament and speak honestly with God, even as they hope. Offer to find them a mentor or spiritual director, but again, don’t just hand them off. Fundamentally, people want to be seen and known and accepted. 
 
