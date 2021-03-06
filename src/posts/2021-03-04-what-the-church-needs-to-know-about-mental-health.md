@@ -4,7 +4,7 @@ title: What The Church Needs to Know About Mental Health
 date: 2021-03-04T23:47:59.557Z
 image: /img/uploads/art_what-the-church-needs-to-know-about-mental-health.jpg
 contributor:
-  - Dr. Kimberly Snow
+  - Kimberly Snow, PsyD
 artist:
   - Benjamin Hollway
 tags:
