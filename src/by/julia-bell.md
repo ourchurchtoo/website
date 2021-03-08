@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Julia Bell
-image: /img/uploads/julia-photo-m2.jpg
+image: /img/uploads/pic_julia-bell.jpg
 role: Contributor
 tags: contributor
 ---
