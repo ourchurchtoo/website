@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Kimberly Snow, PsyD
-image: /img/uploads/kimberly-snow-profile.jpeg
+image: /img/uploads/pic_kimberly-snow.jpeg
 role: Contributor
 instagram: https://www.linkedin.com/in/kimsnowpsychology
 tags: contributor
