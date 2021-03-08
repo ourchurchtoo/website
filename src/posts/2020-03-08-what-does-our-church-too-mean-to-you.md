@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: What does Our Church Too mean to you?
-date: 2020-03-08T12:00:00.475Z
+date: 2021-03-08T12:00:00.475Z
 image: /img/uploads/art_what-does-our-church-too-mean-to-you.jpg
 tags:
   - mission
