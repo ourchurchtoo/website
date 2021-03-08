@@ -9,13 +9,13 @@ category: Video
 ---
 We asked some of our contributors and followers to answer the question "What Does Our Church Too Mean To You?"
 
+Music: Akiye https://soundcloud.com/akiye
+
 <div class='gallery'>
   <div id='video' class='video__wrapper is-wider'>
     <iframe src="https://www.youtube.com/embed/TjmWKWCUZn4?controls=0&rel=0" width="1280" height="900" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="widtHadeel: 100%;  height: 100%"></iframe>
   </div>
 </div>
-
-Music: Akiye https://soundcloud.com/akiye
 
 Captions:
 
