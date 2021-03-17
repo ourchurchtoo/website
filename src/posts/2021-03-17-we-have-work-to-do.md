@@ -13,7 +13,7 @@ tags:
   - mental_health
 category: Article
 ---
-**Trigger Warning: This piece talks about sexual harassment and violence.** 
+**Trigger Warning: This piece talks about sexual harassment and violence.** **Although there is no description of events, please read cautiously.** 
 
 - - -
 
@@ -37,13 +37,9 @@ Maybe that’s not a good enough answer for you. Maybe you were hoping that God 
 Emboldened by the promises of God, knowing that justice is not our burden but our inheritance, we can reassess ourselves. What are we doing, as men and women, to uphold, whether intentionally or not, systems and practices that exacerbate violence against women? We all do it, I do it, you do it, the church does it. If we are ready and able to move forward and out of our old ways, then our past sins can be forgiven, the future is what is important now. It might not come quickly, forgiveness takes time, healing takes time, but all we can do is set our eyes on God, and try to become more like Jesus. That being said, here are some practical things that we can do as we move further down the path of gender equality:
 
 * Remember that it is not a woman’s responsibility to teach you how to behave/ be respectful. There are plenty of women who are in a good place to assist and guide, but don’t assume that everyone has the capacity for this. Do your own research and soul searching. At the same time, create a space for women's voices to be heard. Allowing women to share their experiences and interpretations of the Bible decreases harassment and pulls the church up (more on this in the future). 
-
 * Be respectful and speak up. Take a careful look at the words you use to describe women/ other women: are they uplifting? Are they honouring? Do the people around you speak about women/ other women in a respectful and loving way? Do you call people out for inappropriate language/ jokes/ behaviours? It might make you feel uncomfortable to tell your friend/ uncle/ guy at church that touching women when walking past is inappropriate, but I can guarantee it makes that woman significantly less comfortable.
-
 * Read, explore, and research. Think about your own biases: what are they based on? Have you ever read articles/ looked at websites that explain gaslighting/ catcalling/ harassment? Or deeper things like androcentrism/ patriarchy/ intersectionality? Have you ever fully researched menstruation/ pregnancy/ menopause? Women aren’t mystical creatures, and the church has a really bad history of holding women up as mythological. Talk to us, we are humans too. 
-
 * Pray for and experience gratefulness for the women in your life. Really feel the love you have for mothers, grandmothers, sisters, daughters, cousins, aunts, friends, mentors, girlfriends, wives, fiancees, church leaders, and use this love to motivate you. When my husband says something mean about himself I always say “don’t talk about my husband like that.” We need to say “don’t talk to my sister like that” when we see a woman in need. 
-
 * Be aware that this world is broken, but God’s redemption is beyond our understanding. We can be light in the darkness, but we cannot fix the brokenness without Jesus. Jesus is the centre of our redeeming love and His grace gives us the strength to carry on. It will be difficult and painful, but Jesus never called us to an easy life. 
 
 I’ve said it a hundred times, but I’ll say it again: the church really has an opportunity to do better, and we should grasp it with both hands. Until the world is safe for women, the church has work to do.
