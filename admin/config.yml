@@ -84,7 +84,7 @@ collections:
         ]
       }
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: 'Short description (max 150 characters)', name: "short_description", widget: "text"}
+      - {label: 'Short description (max 150 characters)', name: "short_description", widget: "text", required: false}
 
   - label: "Pages"
     name: "pages"
