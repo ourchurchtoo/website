@@ -11,10 +11,11 @@ tags:
   - mission
   - family
 category: Poetry
-short_description: about all of our various theological beliefs within the same
-  church building, and I struggle to feel like I fit in, and I can see others
-  feeling the same way -- how labels are unhelpful, because we're all the same
-  underneath, all made of the stars
+short_description: "\"This poem paints an image of all of our various
+  theological beliefs within the same church building, and how I struggle to
+  feel like I fit in. I can see others feeling the same way. It's about how
+  labels are unhelpful, because we're all the same underneath, all made of the
+  stars.\" -Joanne Renee Boswell"
 ---
 we thrash —\
 toddlers spilling\
