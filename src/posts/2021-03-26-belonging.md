@@ -2,15 +2,18 @@
 layout: layouts/post.njk
 title: Belonging
 date: 2021-03-26T20:48:19.474Z
+image: /img/uploads/forest-benjamin.jpg
 contributor:
   - Joann Renee Boswell
 tags:
   - mission
   - family
 category: Poetry
+short_description: about all of our various theological beliefs within the same
+  church building, and I struggle to feel like I fit in, and I can see others
+  feeling the same way -- how labels are unhelpful, because we're all the same
+  underneath, all made of the stars
 ---
-
-
 we thrash —\
 toddlers spilling\
 emotions like warm\
@@ -46,11 +49,10 @@ we want to separate\
 sacred contradictions.\
 I am one
 
-\
 with the three 
 year-old crying\
-“I am not a number!” 
-I struggle to fit —
+*“I am not a number!”* 
+I struggle to fit  
 
 \
 my shape wants more space.\
@@ -64,7 +66,6 @@ She stands witness\
 to our similarities spreading\
 thick like constellations
 
-
 spiraling our DNA,\
 all of us. Earthlings too focused\
 picking out differences\
@@ -75,4 +76,5 @@ She cradles us\
 Sunday morning\
 time-out turns nap\
 we all become\
- *   c o l l e c t i v e .*
+
+* c o l l e c t i v e .*
