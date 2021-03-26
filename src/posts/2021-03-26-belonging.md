@@ -5,6 +5,8 @@ date: 2021-03-26T20:48:19.474Z
 image: /img/uploads/forest-benjamin.jpg
 contributor:
   - Joann Renee Boswell
+artist:
+  - Benjamin Hollway
 tags:
   - mission
   - family
