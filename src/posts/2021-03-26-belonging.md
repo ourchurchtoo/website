@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Belonging
 date: 2021-03-26T20:48:19.474Z
-image: /img/uploads/forest-benjamin.jpg
+image: /img/uploads/art_belonging.jpg
 contributor:
   - Joann Renee Boswell
 artist:
