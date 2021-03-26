@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Belonging
 date: 2021-03-26T20:48:19.474Z
-image: /img/uploads/art_belonging.jpg
+image: /img/uploads/forest-benjamin.jpg
 contributor:
   - Joann Renee Boswell
 artist:
@@ -11,11 +11,7 @@ tags:
   - mission
   - family
 category: Poetry
-short_description: "\"This poem paints an image of all of our various
-  theological beliefs within the same church building, and how I struggle to
-  feel like I fit in. I can see others feeling the same way. It's about how
-  labels are unhelpful, because we're all the same underneath, all made of the
-  stars.\" -Joanne Renee Boswell"
+short_description: ""
 ---
 we thrash —\
 toddlers spilling\
@@ -52,9 +48,9 @@ we want to separate\
 sacred contradictions.\
 I am one
 
-with the three\
+with the three 
 year-old crying\
-*“I am not a number!”*\
+*“I am not a number!”* 
 I struggle to fit  
 
 \
@@ -80,4 +76,8 @@ Sunday morning\
 time-out turns nap\
 we all become
 
-* c o l l e c t i v e .*
+  c o l l e c t i v e .
+
+
+
+> "This poem paints an image of all of our various theological beliefs within the same church building, and how I struggle to feel like I fit in. I can see others feeling the same way. It's about how labels are unhelpful, because we're all the same underneath, all made of the stars." -Joanne Renee Boswell
