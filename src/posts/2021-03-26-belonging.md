@@ -52,9 +52,9 @@ we want to separate\
 sacred contradictions.\
 I am one
 
-with the three 
+with the three\
 year-old crying\
-*“I am not a number!”* 
+*“I am not a number!”*\
 I struggle to fit  
 
 \
@@ -78,6 +78,6 @@ like bad apples.
 She cradles us\
 Sunday morning\
 time-out turns nap\
-we all become\
+we all become
 
 * c o l l e c t i v e .*
