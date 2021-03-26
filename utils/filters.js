@@ -5,7 +5,7 @@ const meaningless = require('../src/_data/search-regex.js');
 const removeHTML = (text) => {
   // remove all html elements and new lines
   const content = new String(text);
-  return unescape(content.replace(/(&lt;.*?&gt;)|(<.*?>)|(&.+?;)/gi, ' '));
+  return unescape(content.replace(/(&lt;.*?&gt;)|(<.*?>)|(&.+?;)|(\\)|(\/)/gi, ' '));
 };
 
 module.exports = {
