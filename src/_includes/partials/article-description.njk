@@ -1,5 +1,5 @@
-{% if item.short_description %}
-  <p>{{ item.short_description | truncate(150) | markdown | removeHTML }}</p>
+{% if item.data.short_description %}
+  <p>{{ item.data.short_description | truncate(150) | markdown | removeHTML }}</p>
 {% else %}
   <p>{{ item.template.frontMatter.content | truncate(150) | markdown | removeHTML }}</p>
 {% endif %}
