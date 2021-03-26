@@ -48,9 +48,10 @@ we want to separate\
 sacred contradictions.\
 I am one
 
-with the three 
+\
+with the three\
 year-old crying\
-*“I am not a number!”* 
+*“I am not a number!”*\
 I struggle to fit  
 
 \
@@ -65,6 +66,7 @@ She stands witness\
 to our similarities spreading\
 thick like constellations
 
+\
 spiraling our DNA,\
 all of us. Earthlings too focused\
 picking out differences\
