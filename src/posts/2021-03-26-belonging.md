@@ -80,6 +80,4 @@ we all become
 
   c o l l e c t i v e .
 
-
-
-> "This poem paints an image of all of our various theological beliefs within the same church building, and how I struggle to feel like I fit in. I can see others feeling the same way. It's about how labels are unhelpful, because we're all the same underneath, all made of the stars." -Joanne Renee Boswell
+> "This poem paints an image of all of our various theological beliefs within the same church building, and how I struggle to feel like I fit in. I can see others feeling the same way. It's about how labels are unhelpful, because we're all the same underneath, all made of the stars." -Joann Renee Boswell
