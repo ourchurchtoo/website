@@ -11,7 +11,7 @@
     h1 {
       @include breakpoint(md) {
         @include center(vertical);
-        margin-right: 40px;
+        margin-right: 60px;
       }
     }
   }
