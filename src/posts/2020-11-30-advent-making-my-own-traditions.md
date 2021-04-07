@@ -6,9 +6,7 @@ image: /img/uploads/art_advent-christmas-when-family-is-complicated.jpg
 contributor:
   - Deborah Beutler
 tags:
-  - guest
-  - advent
-  - family
+  - advent_2020
 category: Article
 ---
 Christmas feels like a window into someone’s family life. The question of what you are doing for the holidays begins to swirl through conversations as the weather gets colder. A bright point for many. The word that first comes to your mind says so much about how you grew up - Family. Joy. Peace. Presents. Work. Tension. Pain. If our word doesn’t match most people’s

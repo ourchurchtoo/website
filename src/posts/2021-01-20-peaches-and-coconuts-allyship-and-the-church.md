@@ -8,7 +8,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - mission
+  - allyship
 category: Article
 ---
 When I was getting my undergrad in business in the US, I needed to take a class on International Business. One of the students in the group was an exchange student from Germany. I don’t remember a lot from that class, but I remember she had a vivid description of Americans versus Germans. 

@@ -9,7 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - gender
-  - guest
+  - bible
 category: Article
 ---
 We have been discussing the role of women in the church, and the unfair "nostalgia" that many churches use as a lens with which to justify the treatment of women.  In part one, we uncovered the true origins of the role of women today: the Victorian era. In Part two, we watched how that evolved into the fundamentalist movement in the 20th century. Last week, in part three, we started to discuss what scripture actually says by looking at the Hebrew, and how the concept of Bible inerrancy makes it difficult to challenge our cultural blinders in understanding scripture. This week, we are going to take a closer look at what the Bible says about women by exploring the scriptures typical used as justification against female leadership. We are diving into real Bible study, drawing on cultural anthropology, textual criticism, ancient history, and literary criticism.  This series has been a crash coarse in a deeper way to read the Bible. Let's get into it!

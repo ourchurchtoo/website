@@ -8,7 +8,6 @@ contributor:
   - Erin Iwata
 tags:
   - advent_2020
-  - mission
 category: Article
 ---
 **Erin:** Christmas to me is about heritage. It was about my grandmother’s hands making dough with me, foods passed down from generations and reserved only for this season, and normal rhythms being suspended to be with family. It was about ancient hymns and carols, but it was also about discovering other traditions from other cultures and sharing ours through the modality of food, decorations, and song. Our table often included people far from home who would share their traditions with us. One year we had a Columbian Christmas. Other years Sierra Leonean dishes would be at the table, Korean delicacies represented, or Indian curries. My brothers and sisters' gift to one another was a feast made together with a global food theme. One year was Chinese Christmas, French Christmas, German Christmas, Mexican Christmas. 

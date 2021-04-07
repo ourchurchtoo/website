@@ -9,7 +9,7 @@ artist:
   - Hadeel McCall
 tags:
   - gender
-  - guest
+  - bible
 category: Article
 ---
 I’m training for ordained ministry (ie I want to be a pastor) and that involves studying theology.  And so we get to think about lots of different ways to approach God and the Bible.  When I was asked to write an assignment on this question ‘Can a Male Saviour Save Women?’ which was posed by Rosemary Radford Ruether in the 1980s, I was more amused than challenged.  

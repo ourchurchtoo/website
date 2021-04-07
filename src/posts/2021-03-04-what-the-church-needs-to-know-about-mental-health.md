@@ -10,7 +10,6 @@ artist:
 tags:
   - mental_health
   - disability
-  - guest
 category: Article
 ---
 When my dear friend and mentor died I was in graduate school training to be a clinical psychologist. Before her death my Christian friends freely offered to pray with me, and their prayers primarily consisted of petitioning God for my friend’s physical health. Later, my friends and leaders at my church would briefly offer condolences before quickly exiting the discomfort and awkwardness of the situation. Had God not heard our prayers? Had he abandoned my friend? These were just some of the questions I wrestled with as I sunk into my grief--questions that others frankly did not want to hear about or honestly process with me. 

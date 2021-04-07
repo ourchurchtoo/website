@@ -7,7 +7,6 @@ contributor:
   - Brandon Heim
 tags:
   - advent_2020
-  - family
 category: Article
 ---
 Christmas for me, being from the southern hemisphere has always been about the beach, sun (One Christmas day it got up to 50 degrees!), some lekker meat on the braai (barbeque for all you that aren’t south Africans), backyard cricket, the boxing day test match and most importantly having general fun times during the long summer holiday with friends and family. And that’s what Christmas is for me… time with friends and family.

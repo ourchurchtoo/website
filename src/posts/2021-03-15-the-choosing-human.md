@@ -8,7 +8,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
+  - allyship
 category: Article
 ---
 Earlier today I went to the Post Office to mail a letter, and as I walked out, I noticed a woman walking up with a large box. She seemed to be holding it awkwardly and it was wrapped in tape, so it was probably heavy. In the few moments I had walking down the sidewalk I thought about whether I should offer to carry it for her.

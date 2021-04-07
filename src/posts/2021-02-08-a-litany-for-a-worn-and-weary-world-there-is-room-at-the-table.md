@@ -8,8 +8,9 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
-  - family
+  - allyship
+  - community
+  - relationships
 category: Poetry
 ---
 I know a man who used to be a Christian.\

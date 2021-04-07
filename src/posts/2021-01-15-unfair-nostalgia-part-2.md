@@ -9,7 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - gender
-  - guest
+  - bible
 category: Article
 ---
 I hope you buckled up last week since we dove right into the backdrop of the American Victorian era, situated amongst the boom and culmination of the Industrial Revolution. If you didn’t before, be sure to buckle up now. 

@@ -9,7 +9,7 @@ artist:
   - Brandon Heim
 tags:
   - race
-  - guest
+  - culture
 category: Article
 ---
 From my younger days, my culture has been significant to me. Sri Lankan food, in all its spice and diversity, was culture to me. My understanding of the importance of family relationships was culture to me. My language and my clothes were culture to me. Even my struggles, minuscule in relation to my people's struggles, was culture to me. My culture was and is so central to my identity, but I always learnt and thought of Christianity as separate from it. As I grew older, I learnt more and more about my culture and grew prouder of it and my identity stronger in it, while Christianity took a back seat. Christianity was never really mine to be proud of. Jesus was, God the Father was, and so was the Holy Spirit, but not Christianity.

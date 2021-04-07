@@ -8,7 +8,8 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
+  - age
+  - allyship
 category: Article
 short_description: "Jan explores what she wishes young people knew about older people. "
 ---

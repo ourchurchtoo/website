@@ -10,6 +10,8 @@ artist:
 tags:
   - mission
   - family
+  - allyship
+  - community
 category: Article
 ---
 I’ve found it difficult to talk to some of my Christian friends about this project. I bring up the website, or maybe they tentatively ask, but I can see written on their faces: “I don’t know if I *agree.*” I let the conversation drift off, not wanting to make people uncomfortable. Over the past 6 years, I have worked hard to be one thing all the time. I used to fracture myself into different personas at different times. We all do this a little bit: work-persona, church-persona, social-persona. For me, this segmenting came out of a deep desire to love and serve people; to be everything to everyone.  I became exhausted and compromised. Through therapy, reflection, and a prayerful meditation practice, I have worked hard to present my whole self - warts and all - everywhere I go. In many ways, this project was born out of that work. Yet, I can feel old tendencies creeping in: reading the room, choosing my words carefully, editing to see if I can share my real thoughts or if it would be safer to keep them to myself, wondering if there is space for me at the table.

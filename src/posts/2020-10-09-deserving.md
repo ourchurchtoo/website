@@ -8,7 +8,7 @@ contributor:
 artist:
   - Ilona Wilson
 tags:
-  - family
+  - allyship
 category: Art
 ---
 ![](/img/uploads/art_deserving-1.jpeg)

@@ -8,7 +8,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
+  - environment
 category: Article
 ---
 Ever since I was young, I've enjoyed the topic of science and the planet. One of my earliest goals in life was to travel into space (still working on this!). My interest in science quickly turned into an excitement for electronics and computing, and it wasn't long until I started working as a developer/ engineer. As a Christian within the tech industry I've had countless peers and colleagues ask me how I can be a smart person who understands and trusts science and also believe in God and Jesus' saving grace.

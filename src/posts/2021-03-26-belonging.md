@@ -8,8 +8,8 @@ contributor:
 artist:
   - Benjamin Hollway
 tags:
-  - mission
-  - family
+  - allyship
+  - community
 category: Poetry
 short_description: ""
 ---

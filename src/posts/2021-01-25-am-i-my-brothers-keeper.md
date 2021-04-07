@@ -9,6 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - race
+  - allyship
 category: Poetry
 ---
 I had a conversation with a long-time friend. My friend said:

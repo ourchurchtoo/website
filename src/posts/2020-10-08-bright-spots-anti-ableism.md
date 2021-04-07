@@ -12,6 +12,7 @@ tags:
   - bright_spots
   - disability
   - lgbtq
+  - allyship
 category: Article
 ---
 This week we heard stories and poetry from Debbie and Candice. Both are people with disabilities. Candice is also identifies transgender. Each week, we hope these stories leave you with a perspective you might not have had before, deeper empathy, and curiosity that propels you forward to your own growth and curiosity. We recognize that encountering different points of view can be uncomfortable. We want take Fridays to focus on the bright spots: resources and people that are doing something especially well with the topics we have touched on this week. Use this to further your journey into stories that are not often shared in the church:

@@ -8,7 +8,7 @@ contributor:
 artist:
   - Brandon Heim
 tags:
-  - mission
+  - bible
 category: Poetry
 ---
 The low, forgotten creatures down below\

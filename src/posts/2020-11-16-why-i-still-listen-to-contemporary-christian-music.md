@@ -8,7 +8,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
+  - culture
 category: Article
 ---
 *When the toast has burned and all the milk has turned

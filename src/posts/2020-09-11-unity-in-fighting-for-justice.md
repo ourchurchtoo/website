@@ -8,8 +8,8 @@ contributor:
 artist:
   - Hadeel McCall
 tags:
-  - guest
   - race
+  - culture
 category: Article
 ---
 A few years ago, while worshipping at my church in Sri Lanka, I heard a sermon preached about the importance of unity within the church. To explain this further, the pastor recounted how during the civil war a soldier came up to him and told him how shocked he was that Tamil and Sinhalese Christians were worshipping together peacefully in the church. For context, Sri Lanka suffered a 26 year civil war between the majority Sinhalese government and a Tamil terrorist organization, during which thousands of innocent civilians were targeted and killed. The pastor used this analogy to talk about how the church and the gospel had the ability to bridge such violent ethnic divides between the majority Sinhalese and minority Tamil people. When I first heard this story I thought it was beautiful, and I was glad that the church was able to witness to that soldier and provide a safe space for minority groups. However, recently after researching more into the brutality of the civil war and hearing first-hand reports from my parents on their sufferings, I have changed my optimistic views on the story. While I still think that diversity within the church is beautiful, I can no longer appreciate this while knowing that the church remained silent about violence that minorities faced in Sri Lanka. I believe that this silence comes from the self-appointed narrative that the church somehow transcends earthly divides – of race, class, gender etc. - and therefore need not speak out about them.

@@ -8,6 +8,8 @@ contributor:
   - Erin Iwata
 tags:
   - bright_spots
+  - gender
+  - allyship
 category: Article
 ---
 This week has been all about feminism. Both Erin and Indy have posted personal stories about different facets of feminism and christianity, which we hope will lay the groundwork for many more contributions. We believe that feminism is necessarily intersectional because a woman’s experience cannot be reduced to gender alone.

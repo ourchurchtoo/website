@@ -11,7 +11,6 @@ artist:
   - Brandon Heim
 tags:
   - race
-  - guest
   - lets_talk_about
 category: Interview
 ---

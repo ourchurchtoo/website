@@ -7,7 +7,6 @@ contributor:
   - Elisabeth Hoole
 tags:
   - advent_2020
-  - family
 category: Article
 ---
 When November came around this year, I was surprised that I hadn’t already covered the entire house in wreaths, Christmas trees (yes, I often have multiple), and tacky tinsel. I hadn’t even created a single Christmas playlist with my favourite Christmas trap music that often leads to my sister considering moving out (she did this month, and I’m sure it wasn’t related to my music in any way). Christmas had always been my favourite time of the year, and I was surprised that I didn’t feel too excited about it this year. 

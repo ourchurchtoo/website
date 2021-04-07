@@ -10,6 +10,8 @@ artist:
   - Brandon Heim
 tags:
   - bright_spots
+  - gender
+  - culture
 category: Article
 ---
 This week we shared two pieces about the culture of shame around women’s bodies, especially purity culture within the church. Each piece mentions the importance of modesty in church culture, where women are encouraged to dress and behave in a particular ‘appropriate’ way. The reasons behind women’s modesty vary from loving to nefarious, but the general expression of this idea often leads women to feel unable to express themselves. This same ‘modesty’ or ‘purity’ culture was historically used to ban menstruating women from church and to silence those women who might desire to speak up.

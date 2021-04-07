@@ -8,7 +8,6 @@ contributor:
 artist:
   - Indy Hollway
 tags:
-  - guest
   - race
   - family
 category: Article

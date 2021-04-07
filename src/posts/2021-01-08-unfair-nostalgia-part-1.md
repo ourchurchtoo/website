@@ -8,7 +8,8 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
+  - gender
+  - bible
 category: Article
 ---
 There is a prominent belief circulating in Protestant Churches, especially American Evangelical churches that women’s roles are, always have been, and always will be viewed in light of submission to men, economic inferiority, and domesticity, albeit the presumption and assertion is more subdued and nuanced, in order for it to be more palatable. The majority of people who ascribe to this belief maintain that this notion of inferiority, however labeled or downplayed of its significance, originates from the Bible from passages in Genesis and in Paul’s writing. I too once held this belief and deeply struggled with how God could view half of the human race as inherently second-rate. After repeatedly and violently shoving this sadness and anger down, one day a spark ignited, and it was this tiny spark that lit a fire and gave me the courage to dig in - and to dig in deeply - to face the music once and for all: did God or did He not create women with the intention of withholding from them and giving men the most gifts, leaving the most prestigious ones for men and men alone? Did He equip men more fully? Did He intentionally withhold, did He intentionally handicap women? And for the love of God, why? Maybe He’s a giant jerk. Maybe He isn’t love. Maybe He’s cruel and twisted. 

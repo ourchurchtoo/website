@@ -12,6 +12,8 @@ tags:
   - bright_spots
   - disability
   - race
+  - allyship
+  - community
 category: Article
 ---
 Our Church Too is all about sharing stories and advocating for each other. However, advocating can be really difficult, and it’s important to be in the know. This week we have shared two stories about ways that we can advocate for issues we might not be attuned to. So, to support you on this journey, here is a collection of Instagram posts that we found particularly useful when coming to grips with healthy advocacy and educating ourselves. We hope that you find that these posts challenge and shape you, as they challenged and shaped us.

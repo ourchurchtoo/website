@@ -6,8 +6,6 @@ image: /img/uploads/art_advent-hospitality-and-diversity.jpg
 contributor:
   - Cynthia Akinsanya
 tags:
-  - guest
-  - family
   - advent_2020
 category: Article
 ---

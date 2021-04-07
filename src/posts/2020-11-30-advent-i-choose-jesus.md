@@ -6,9 +6,7 @@ image: /img/uploads/art_advent-i-choose-jesus.jpg
 contributor:
   - Ilona Wilson
 tags:
-  - race
   - advent_2020
-  - family
 category: Article
 ---
 I grew up in Australia as the daughter of immigrant parents. One from Indonesia. One from Germany. Family gatherings were filled with a mix of Indonesian, Dutch and German delicacies and a jumble of up to 4 languages in a sentence. The houses were always noisy and full and relaxed as we gathered together. And it wasn’t until I was in my teenage years that I realised that we did Christmas differently from most other Australian families. And the thing that made me realise it was the midnight service at church. 

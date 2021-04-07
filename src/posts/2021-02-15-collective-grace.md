@@ -8,6 +8,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
+  - allyship
   - mission
 category: Article
 ---

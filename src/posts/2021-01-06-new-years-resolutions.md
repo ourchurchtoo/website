@@ -10,6 +10,7 @@ artist:
   - Benjamin Hollway
 tags:
   - mission
+  - community
 category: Article
 ---
 Our last weekly meeting of 2020 looked much the same as all our other weekly meetings. Wherever possible, and wise, we had been doing these weekly meetings in person, but this one was over video call. It’s a shame we didn’t have a photo of the three of us from the start of this project to compare with the versions of ourselves that appeared on the screen. If we could do a side-by-side comparison, you would see the change in our faces. Sure, we would look more tired, the last three months of 2020 took the wind right out of us, but we would also look wiser and more resolved. But, the brightness and excitement would still be in our eyes. Erin is still encouraging the group to dream big and reaching out to anyone she can think of to contribute to the project. Indy is still changing these big dreams into achievable goals with her administrative tools. Boriana is still advocating, encouraging, and bringing wisdom and truth. But there is no longer any doubt in our minds that what we are doing is important. 

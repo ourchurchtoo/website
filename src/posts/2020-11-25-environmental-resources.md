@@ -8,7 +8,7 @@ contributor:
 artist:
   - Benjamin Hollway
 tags:
-  - mission
+  - environment
 category: Article
 ---
 On Monday, Benjamin shared a little about his passion for the environment and our responsibility as Christians to be good stewards. Having known Benjamin many years now (and also being married to him), I know how much he cares about this issue and how he believes that good stewardship is at the heart of Christian faith.

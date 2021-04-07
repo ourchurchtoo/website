@@ -9,6 +9,8 @@ artist:
   - Nat Iwata
 tags:
   - mission
+  - bible
+  - community
 category: Article
 ---
 “The Church” is a rather loose term for a lot of people. To my non-religious neighbors, it conjures up images of cryptic rituals, large stone buildings, and steeples that punctuate the skyline. Maybe some see images of happy-clappy people singing, or a goateed guitar player belting out three holy chords, while others might conjure up images of sweating preachers, wooden pews, or people dressed in their finest. Maybe you see long robes, or flashing lights, stale crackers, or mediocre coffee. Still others smell incense, or hot bodies crammed into cement buildings, visualize iconography, or stained glass, or white flags with red crosses. All these images of “church” would be right. And none of these images are what we at Our Church Too are talking about. 

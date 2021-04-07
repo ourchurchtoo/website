@@ -8,7 +8,6 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
   - family
 category: Poetry
 ---

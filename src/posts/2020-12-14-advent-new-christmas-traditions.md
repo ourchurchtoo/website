@@ -6,8 +6,6 @@ image: /img/uploads/art_advent-new-christmas-traditions.jpg
 contributor:
   - Mark Ehrenstein
 tags:
-  - family
-  - lgbtq
   - advent_2020
 category: Video
 ---

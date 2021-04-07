@@ -10,8 +10,8 @@ artist:
   - MRDDragon
 tags:
   - lgbtq
-  - guest
   - disability
+  - gender
 category: Interview
 ---
 I met Candice during my freshman year of college. She had a quick wit and bright smile, and an undeniable optimism and open-heartedness to anyone who walked into our dorm. Candice was the welcoming committee in the commons, sunny and sharp; she kept the conversation and coffee going all night long. Candice had her own room - unlike the rest of us who shared tiny rooms with people we had just met. The reason Candice had a solo room on the main floor is that she had a wheelchair.

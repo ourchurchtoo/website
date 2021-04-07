@@ -60,15 +60,24 @@ collections:
         options: [
           advent_2020,
           bright_spots,
+          dear_me,
+          lets_talk_about,
+          age,
+          allyship,
+          bible,
+          community,
+          culture,
           disability,
+          environment,
           family,
           gender,
           guest,
           lgbtq,
-          lets_talk_about,
           mental_health,
           mission,
           race,
+          relationships,
+          testimony
         ]
       }
       - { label: "Category",

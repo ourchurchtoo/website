@@ -8,7 +8,7 @@ contributor:
 artist:
   - Katy Hollway
 tags:
-  - guest
+  - bible
 category: Article
 ---
 Before we share one of Katy's entrancing short stories below, here is something she has written about the importance of Christian Fiction:\

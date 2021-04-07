@@ -9,6 +9,7 @@ artist:
   - Ilona Wilson
 tags:
   - family
+  - culture
 category: Article
 ---
 I believe most Christians, like myself, struggle with their faith throughout their life, but especially during difficult times. In these darkest moments, I often find myself angry or confused with God and isolating myself from Him. This is usually when I remind myself of the stories my mother told me of her life, especially of her relationship with God through the Sri Lankan civil war. I find her stories and her steadfast faith in God during hardships that I cannot even imagine incredibly inspirational, and so I wanted to share pieces of her story in the hope that it will also encourage others. I’ve titled this ‘Simple Faith’ because whenever I start worrying she says “all you need is simple faith”. Her ‘simple’ faith got her through the war and kept her throughout her life, and I hope it will encourage others who are going through difficult times. 

@@ -9,6 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - gender
+  - bible
 category: Article
 ---
 Last week we explored the new “home as haven” concept in Victorian America where women were relegated to be the queens (sans the power and privilege thereunto). We saw the rise and fall of women formally trained in the Bible and theology, their prominence, then sharp decline in the pulpit. We also revealed the imminent threat of the modern woman, with –gasp—bobbed hair, sometimes smoking *cigarettes* and shorter, looser dresses which didn’t require anatomically-altering, organ-shifting torture devices we colloquially call corsets. (The nerve these modern women had to let their bodies go!) After all, these modern women were getting jobs and needed to be able to breathe, not merely look pretty; her horizons were indeed expanding. But fear not! The Fundamentalists were coming to bring everyone back to their senses and provide a simple framework to guide Christians in this dark and scary world that is indubitably not our home. What would surely help was a literal interpretation of the Bible.

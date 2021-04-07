@@ -8,7 +8,9 @@ contributor:
 artist:
   - Hadeel McCall
 tags:
-  - mission
+  - gender
+  - bible
+  - lgbtq
 category: Article
 ---
 I’m very proud to call myself a feminist.

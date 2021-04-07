@@ -9,6 +9,7 @@ artist:
   - Elowynn Ford
 tags:
   - race
+  - allyship
 category: Article
 ---
 When I was around the age of 4 or 5, I vividly remember my church in Bulgaria receiving Christmas presents from another church in Germany. I don’t recall every single present I ever got, but every box was an exciting surprise. Sometimes we would get fun colouring pencils and shirts. Other times the contents would be more ‘boring’, for a lack of a better term. For example, I never understood why these churches were so insistent in giving me a toothbrush and toothpaste every. single. time. They weren’t exciting presents, I thought, they were necessities which my parents could very effortlessly buy for me. 

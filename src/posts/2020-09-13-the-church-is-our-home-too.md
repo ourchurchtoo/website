@@ -8,9 +8,9 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
   - lgbtq
   - family
+  - community
 category: Article
 ---
 “The church is our home too.”    This statement carries with it many feelings, emotions and realities for me.  My name is Mark and my history with the church has been one of great joys, deep heartaches, abandonment, rebirth and hope.  My relationship with the church has both ebbed and flowed as well as lifted me up and torn me down.  My relationship to the church has been a source of strength and destruction.

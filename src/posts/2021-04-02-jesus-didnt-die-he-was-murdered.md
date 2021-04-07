@@ -9,7 +9,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - mission
+  - bible
 category: Article
 short_description: Erin and Indy discuss the dark truth of Good Friday.
 ---

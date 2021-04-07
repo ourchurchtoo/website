@@ -9,8 +9,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - mission
-  - family
+  - bible
 category: Article
 short_description: Erin and Indy talk about what the resurrection means for us.
 ---

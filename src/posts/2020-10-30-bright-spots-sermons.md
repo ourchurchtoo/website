@@ -11,7 +11,7 @@ artist:
 tags:
   - bright_spots
   - race
-  - guest
+  - bible
 category: Article
 ---
 This week we heard great wisdom from Cynthia Akinsanya and Jan Pierce. While Jan was reflecting back on her life, Cynthia was reaching forward towards hope for her daughter. As we sit with what we are learning from these two amazing women, we thought we would point to another source of wisdom. For many Christians, the weekly sermon is a space where we listen or engage with what we hope will be a bit of wisdom to challenge and grow us. Even if you don't attend church, you might be familiar with the format if you like listening to podcasts or TED talks.  Here are a handful of sermons that you might be interested in listening to. If you like them, most of them have something to say every week. We have linked to their YouTube channel or podcast so you can listen to more.

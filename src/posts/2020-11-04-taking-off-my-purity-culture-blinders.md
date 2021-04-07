@@ -8,7 +8,8 @@ contributor:
 artist:
   - Hadeel McCall
 tags:
-  - guest
+  - gender
+  - culture
 category: Article
 ---
 If you’ve grown up outside the Christian bubble, the term “purity culture” might sound a bit foreign. Heck, even if you do come from Christian circles, there is a chance you haven’t heard this term either. Even though, as an Eastern European, I didn’t hear this concept growing up, when I moved to the West I discovered that the phrase “purity culture” described a phenomenon that I’d been experiencing all along.

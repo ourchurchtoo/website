@@ -8,7 +8,8 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
+  - testimony
+  - community
 category: Article
 ---
 I was born and raised in the Christian church. My family has attended the same non-denominational church for my entire 30-year life. I, myself, have been one of the worship leaders of this church for 10 years now and I was also a youth leader for 4 years. I undoubtedly and unquestionably bought into what we were doing as a church on Sunday mornings and everything in-between. I was living a life I thought exemplified Jesus Christ.  

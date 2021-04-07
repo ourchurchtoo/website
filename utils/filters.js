@@ -93,7 +93,7 @@ module.exports = {
         readableLabel = 'Let\'s talk about';
         break;
       case 'advent_2020':
-        readableLabel = 'Advent';
+        readableLabel = 'Advent 2020';
         break;
       default:
         words = label.replace(/_/g, ' ');

@@ -4,17 +4,18 @@
   $filter-grid-spacing: 50px;
   $filter-label-margin: 30px;
 
-  &::before {
-    @include pseudo();
-    top: -$filter-label-margin;
-    z-index: -1;
-    width: 100%;
-    height: 80px;
-    border-bottom: 1px solid rgba(palette(blue), 0.2);
-  }
+  // &::before {
+  //   @include pseudo();
+  //   top: -$filter-label-margin;
+  //   z-index: -1;
+  //   width: 100%;
+  //   height: 80px;
+  //   border-bottom: 1px solid rgba(palette(blue), 0.2);
+  // }
 
   .tab-marker {
     top: 47px;
+    display: none;
 
     @include screen-max($screen-md) {
       display: none;
@@ -26,6 +27,7 @@
 
     &:checked {
       + .filter__label {
+        color: palette(purple);
         opacity: 1;
       }
     }
@@ -35,7 +37,7 @@
     display: none;
   }
 
-  $filters-list: all, advent_2020, bright_spots, disability, family, gender, guest, lgbtq, mental_health, mission, race;
+  $filters-list: all, advent_2020, bright_spots, dear_me, lets_talk_about, age, allyship, bible, community, culture, disability, environment, family, gender, guest, lgbtq, mental_health, mission, race, relationships, testimony;
 
   @each $filter in $filters-list {
     input#filter-#{$filter}:checked ~ .archive__list .article-mini__wrapper[data-filter~='#{$filter}'] {
@@ -79,7 +81,7 @@
     margin: 0 10px;
     padding: 12px 0; // aligns better with tab-marker
     border-radius: $border-radius;
-    opacity: 0.3;
+    opacity: 0.5;
     cursor: pointer;
 
     @include breakpoint(md) {
@@ -87,7 +89,7 @@
     }
 
     &:hover {
-      opacity: 1;
+      color: palette(purple);
     }
   }
 }

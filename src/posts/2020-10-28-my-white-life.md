@@ -8,8 +8,7 @@ contributor:
 artist:
   - Nat Iwata
 tags:
-  - guest
-  - family
+  - age
   - race
 category: Article
 ---

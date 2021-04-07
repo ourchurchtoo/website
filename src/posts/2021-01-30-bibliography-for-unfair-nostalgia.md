@@ -9,7 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - gender
-  - guest
+  - bible
 category: Article
 ---
 Alicia has provided a complete bibliography to go along with her series, Unfair Nostalgia. You can catch up with each section by clicking on the links. If you like what you read, we recommend checking out some of the other books that inspired Alicia's series.

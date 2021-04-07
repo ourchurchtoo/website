@@ -10,6 +10,8 @@ artist:
   - Hadeel McCall
 tags:
   - mission
+  - culture
+  - allyship
 category: Article
 short_description: "Indy and Erin explore an alternative to cancel culture: growth culture. "
 ---

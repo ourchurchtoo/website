@@ -10,7 +10,7 @@ artist:
   - Brandon Heim
 tags:
   - bright_spots
-  - family
+  - bible
 category: Article
 ---
 This week has been all about welcoming people into our lives and treating them with the respect and dignity that they deserve. All of us on the team have been soul-searching this week, trying to think about what God tells us everyone deserves, and what this should look like in our lives. We’ve also been talking about why it is so hard for humans, including us, to treat each other with this respect, and to remember that each and every one of us is on a journey. So we wanted to use this opportunity to take us back to scripture and explore what Jesus said about these themes, and use this truth to guide us in our relationships with others.

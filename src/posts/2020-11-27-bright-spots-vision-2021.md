@@ -11,7 +11,6 @@ artist:
 tags:
   - mission
   - bright_spots
-  - family
 category: Article
 ---
 **Indy:** So we’ve nearly made it to Christmas.

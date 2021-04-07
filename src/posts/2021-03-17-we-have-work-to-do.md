@@ -9,8 +9,8 @@ artist:
   - Benjamin Hollway
 tags:
   - gender
-  - mission
   - mental_health
+  - relationships
 category: Article
 ---
 **Trigger Warning: This piece talks about sexual harassment and violence.** **Although there is no description of events, please read cautiously.** 

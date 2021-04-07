@@ -9,7 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - race
-  - guest
+  - testimony
 category: Article
 ---
 I am a cis-female born in India to a middle-class set of parents who were both migrants in Mumbai with vestiges of British colonial power affecting their lives. My parents were brought up in culturally Christian homes and eventually made their own decisions to follow Jesus. They impressed upon me and my 3 siblings that God has no grandchildren, just children. Christianity is not generational. It is a deliberate, repeated decision to follow Jesus every day.
