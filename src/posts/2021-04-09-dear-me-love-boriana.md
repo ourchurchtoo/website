@@ -12,6 +12,8 @@ tags:
 category: Article
 short_description: Boriana writes a letter to her past self.
 ---
+**09/04/2021**\
+\
 Dear 10 year-old Boriana,
 
 Life sucks a lot of the time! There is no point in sugar-coating it. You’ve been bullied and alienated at school... and that will continue happening. You’ve felt like a weirdo a lot of the time... and in high school it will be like you’re a weirdo on steroids (don’t do drugs!). You are about to move countries (twice!), so everything that has felt familiar will be upturned. And when you start feeling like you’re getting a grip on your new environment, it will change again. 
