@@ -11,11 +11,11 @@ get_involved_intro: Our Church Too is first and foremost a collaborative
   what we are trying to do here, then please consider getting involved! There
   are several ways for you to do this, all helpfully displayed below!
 get_involved:
-  - icon: fab fa-patreon
-    link: https://patreon.com/ourchurchtoo
-    title: Patreon
-    blurb: Consider making a financial donation to the project in exchange for some
-      awesome rewards! (Non-profit guarantee).
+  # - icon: fab fa-patreon
+  #   link: https://patreon.com/ourchurchtoo
+  #   title: Patreon
+  #   blurb: Consider making a financial donation to the project in exchange for some
+  #     awesome rewards! (Non-profit guarantee).
   - icon: fab fa-instagram
     link: https://instagram.com/ourchurchtoo
     title: Instagram

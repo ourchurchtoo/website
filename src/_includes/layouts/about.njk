@@ -26,7 +26,7 @@ layout: layouts/base.njk
       <p>{{ get_involved_intro }}</p>
     </div>
     {% for item in get_involved %}
-      <div class='col-xs-12 col-md-3'>
+      <div class='col-xs-12 col-md-{{ 12 / loop.length }}'>
         <a href='{{ item.link }}' target='_blank' class='get-involved__item' />
           <i class='{{ item.icon }}'></i>
           <h3>{{ item.title }}</h3>
