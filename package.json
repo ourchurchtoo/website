@@ -23,15 +23,17 @@
     "postbuild:lint": "jsonlint dist/*.json -q",
     "prepublish": "yarn run snyk-protect",
     "snyk-protect": "snyk protect",
-    "build-postbuild": "yarn run build postbuild:lint"
+    "build-postbuild": "yarn run build postbuild:lint; node analyze-data.js"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.20.2",
+    "fs": "^0.0.1-security",
     "jsonlint": "^1.6.3",
-    "light-server": "2.6.4"
+    "light-server": "2.6.4",
+    "word-count": "^0.2.2"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
