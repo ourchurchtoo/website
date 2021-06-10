@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Dear Me, Love Cynthia
 date: 2021-05-28T09:40:00.813Z
-image: /img/uploads/art_dear-me-love-cynthia.png
+image: /img/uploads/art_dear-me-love-cynthia.jpg
 contributor:
   - Cynthia Akinsanya
 tags:

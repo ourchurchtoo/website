@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Dear Me, Love Janice
 date: 2021-05-21T09:08:57.356Z
-image: /img/uploads/art_dear-me-love-janice.png
+image: /img/uploads/art_dear-me-love-janice.jpg
 contributor:
   - Jan Pierce
 tags:

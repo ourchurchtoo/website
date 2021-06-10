@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Dear Me, Love Deli "
 date: 2021-05-14T09:25:14.010Z
-image: /img/uploads/art_dear-me-love-deli.png
+image: /img/uploads/art_dear-me-love-deli.jpg
 contributor:
   - Deli Macro-Nottage
 tags:

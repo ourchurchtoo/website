@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Dear Me, Love Indy
 date: 2021-05-07T10:48:54.031Z
-image: /img/uploads/art_dear-me-love-indy.png
+image: /img/uploads/art_dear-me-love-indy.jpg
 contributor:
   - Indy Hollway
 tags:
