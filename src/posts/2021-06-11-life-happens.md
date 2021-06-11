@@ -13,7 +13,7 @@ short_description: Life happens.
 ---
 Everybody has those weeks where things just don't go to plan. We love openness and honesty so we feel no shame telling you that this was one of those weeks. 
 
-Here are some suggestions of things to do with the ~3 minutes instead:\
+Here are some suggestions of things to do with the ~3 minutes instead:
 
 * Send someone you love a text saying "just thinking about you."
 * Pray for the first person who pops into your head.
