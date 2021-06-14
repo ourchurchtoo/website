@@ -12,6 +12,7 @@ tags:
   - community
   - mission
 category: Article
+short_description: Deli talks about youth work and how the church can foster growth in youth.
 ---
 **Trigger Warning: This piece talks about abuse and trauma. Although there is no graphic description of events, please read cautiously.**
 
