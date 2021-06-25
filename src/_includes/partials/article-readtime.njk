@@ -1,0 +1,5 @@
+{% if item.data.watch_time %}
+  <span class='item__time'>A {{ item.data.watch_time }} min watch</span>
+{% else %}
+  <span class='item__time'>A {{ item.template.frontMatter.content | readingTime }} read</span>
+{% endif %}
