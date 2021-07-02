@@ -8,6 +8,7 @@ contributor:
   - Erin Iwata
 tags:
   - gender
+  - spotlight
 category: Article
 short_description: Indy and Erin shine the spotlight on This Is Gendered.
 ---

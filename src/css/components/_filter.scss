@@ -37,7 +37,7 @@
     display: none;
   }
 
-  $filters-list: all, advent_2020, bright_spots, dear_me, lets_talk_about, age, allyship, bible, community, culture, disability, environment, family, gender, guest, lgbtq, mental_health, mission, race, relationships, testimony;
+  $filters-list: all, advent_2020, bright_spots, dear_me, lets_talk_about, age, allyship, bible, community, culture, disability, environment, family, gender, guest, lgbtq, mental_health, mission, race, relationships, spotlight, testimony;
 
   @each $filter in $filters-list {
     input#filter-#{$filter}:checked ~ .archive__list .article-mini__wrapper[data-filter~='#{$filter}'] {
