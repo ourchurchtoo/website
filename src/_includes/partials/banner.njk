@@ -1,0 +1,17 @@
+{% set link = '/conference/' %}
+{% set isLinkedPage = (link === page.url) %}
+
+{% if isLinkedPage %}
+{% else %}
+<div class='banner'>
+  <div class='container container-fluid'>
+    <div class='row'>
+      <div class='col-xs-12'>
+        <a href='{{ link }}'>
+          <p>Book your free ticket to the OurChurchToo conference on the 11th of September.</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
