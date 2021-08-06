@@ -9,6 +9,7 @@ contributor:
 tags:
   - spotlight
 category: Article
+short_description: Indy and Erin shine the spotlight on Bakers For Change.
 ---
 Over the next few weeks, we will be spotlighting some projects/ organisations that we think you guys should check out. This could be because of their mission, the resource they are building, or the work they are doing for the community. We hope that you will find these projects as uplifting and useful as we do.
 
