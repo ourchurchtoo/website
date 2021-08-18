@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Seeds of Greatness Part 2: A Different Way of Being Church"
+title: "Seeds of Greatness Part 2: What Makes a Church?"
 date: 2021-08-18T17:02:23.194Z
 image: /img/uploads/art_seeds-of-greatness-2.jpg
 contributor:
