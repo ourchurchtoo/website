@@ -24,7 +24,7 @@ As Damian continued to feel drawn to this vision of starting a new church, he ke
 
 Seeds of Greatness wants people to change the perception of the Church from within. “We really want people to be able to come and explore.” To Damian, this means that people can come and just check it out- no pressure at all, no expectations. After that, the hope is that if people connect, they get planted or rooted in the community- not just the spiritual community, but the neighborhood as well. This was foundational to the formation of Seeds of Greatness. Before they were planning anything for a Sunday gathering, Seeds of Greatness was first and foremost serving the community- “looking outside of itself and being the arms & feet of Jesus.” They started by serving the poorest in the area: partnering with Clark County Jail Work Release Program visitation, serving the homeless, giving school supplies to disadvantaged students, and caring for the elders in church and society, were key to their presence in the community. The church should go through a metamorphosis to be a more whole reflection of the kingdom of God. That isn't going to be done sitting by and watching the neighborhood suffer while we go on singing.  Serving is part of loving others and should be key to our spiritual life. 
 
-> “We truly want to be a community that provides shelter for others.”
+> We truly want to be a community that provides shelter for others.
 
 #### Rooted
 
@@ -47,7 +47,5 @@ If people that connect with Seeds of Greatness are continuing to explore with Go
 Long before the lockdowns, Damian had this idea of bridging the gap between the spiritual world and technology; seeking creative ways to make technology accessible. This ended up being central to starting a church in the midst of a global pandemic. Because of COVID19, they have had very few in-person gatherings on a Sunday morning. They are more likely to gather online for teaching and praying and see one another in person for the events to serve the community. Yes, they have preaching, yes they want great music, but this isn’t what makes a church. There is so much more flexibility needed to address the spiritual and physical needs of a community today. We have to stay light and flexible, both utilizing technology and in person. If churches are going to continue to be relevant, they need to stay attentive to the community we love, and really be places where people can be family and share life together. 
 
 Damian summed up Seeds of Greatness this way: “We envision a church where you will continue to help us write the book of Acts, a church that will tell our story, a church that will make life better here on earth” 
-
-
 
 > If churches are going to continue to be relevant, they need to stay attentive to the community we love, and really be places where people can be family and share life together.
