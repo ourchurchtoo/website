@@ -5,6 +5,7 @@
       {% include 'partials/contributor-image.njk' %}
       <div class='item__text'>
         <h2 class='item__title'>{{ person.data.title }}</h2>
+        {% if person.data.pronouns %}<h4 class='item__info--sub font--italic font--light'>{{ person.data.pronouns }}</h4>{% endif %}
         <h4 class='item__info--sub'>{{ person.data.role }}</h4>
       </div>
     </div>

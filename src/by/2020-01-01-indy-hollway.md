@@ -4,6 +4,7 @@ title: Indy Hollway
 permalink: /by/indy-hollway/index.html
 image: /img/uploads/pic_indy-hollway.jpeg
 role: Founder & Administrative Director
+pronouns: she/they
 instagram: https://www.instagram.com/indy_hollway/
 tags:
   - team

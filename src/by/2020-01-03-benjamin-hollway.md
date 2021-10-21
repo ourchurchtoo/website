@@ -8,4 +8,4 @@ instagram: https://www.instagram.com/nothingrandom/
 tags:
   - team
 ---
-I'm Benjamin, a lead javascript / frontend engineer. Mostly working with React/Vue.js, but also pushing the boundaries with the latest spec of ES and TypeScript, the occasional node module, and a bit of a S/CSS geek. Elsewhere, I love to cook food, cycle, play fetch with Nova, mix live sound, listen to almost any genre of music (and make noise), contribute to open source, hike in the mountains, and spend time with my wife, Indy.
+Mostly working with React/Vue.js, with a mix of the latest ES/ECMA spec, TypeScript, S/CSS, and a sprinkle of magic. When not wrangling a frontend, I love to cook food, cycle, play frisbee with Nova, mix live sound, listen to almost any genre of music (and make noise), contribute to open source, hike in the mountains, and spend time with my wife, Indy.

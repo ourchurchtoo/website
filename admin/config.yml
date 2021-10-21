@@ -21,6 +21,7 @@ collections:
       - {label: "Picture", name: "image", widget: "image", required: false}
       - {label: "Role", name: "role", widget: "string"}
       - {label: "Instagram", name: "instagram", widget: "string", required: false}
+      - {label: "Pronouns", name: "pronouns", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "select", min: 1, options: ["team", "artist", "contributor"]}
       - {label: "Body", name: "body", widget: "markdown"}
 
