@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Trauma Informed Practices in Churches and Faith Communities.
 date: 2021-09-20T14:38:46.109Z
-image: /img/uploads/art_trauma-informed-practices-in-churches-and-faith-communities.png
+image: /img/uploads/art_trauma-informed-practices-in-churches-and-faith-communities.jpg
 contributor:
   - Deli Macro-Nottage
 artist:

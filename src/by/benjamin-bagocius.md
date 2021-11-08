@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Benjamin Bagocius
-image: /img/uploads/pic_benjamin-bagocius.png
+image: /img/uploads/pic_benjamin-bagocius.jpg
 role: Contributor
 instagram: "@benjaminbagocius"
 pronouns: he/him
