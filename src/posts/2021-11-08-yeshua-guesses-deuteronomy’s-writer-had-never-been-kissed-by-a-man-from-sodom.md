@@ -13,6 +13,8 @@ tags:
 category: Poetry
 short_description: Benjamin shares part one of two poems.
 ---
+*For their vine comes from the vine of Sodom and from the fields of Gomorrah; their grapes are grapes of poison; their clusters are bitter. — Deuteronomy 32:32*\
+\
 Mid-morning market\
 Banners, not yet tired,\
 burst splendor in the air\
