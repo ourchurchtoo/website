@@ -19,11 +19,13 @@ short_description: "Our creative editor and lead artist Nat Iwata shares a poem
 It started with pews\
 rows of dust soaked seats stapled to worn wood\
 the organ lady, a four-legged octopus behind a half wall.\
-Mustachioed men with brown suits, bifocals and stocking feet\
+Mustachioed men with brown suits\
+bifocals and stocking feet\
 standing on holy ground.\
 The world war 2 vet who greeted us,\
 crippled in a Japanese POW camp\
-my father, born to nuclear internment in the Arizona desert\
+my father, born to nuclear \
+internment in the Arizona desert\
 grasped each other’s hands like sisters.\
 A stationary circus of oddities\
 complete with a bearded lady, strong men, and dwarves\
