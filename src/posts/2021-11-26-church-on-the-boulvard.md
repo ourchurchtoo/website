@@ -14,7 +14,7 @@ tags:
   - relationships
 category: Poetry
 short_description: "Our creative editor and lead artist Nat Iwata shares a poem
-  about the church that was formative to his childhood. "
+  about the church imagery formative to his childhood. "
 ---
 It started with pews\
 rows of dust soaked seats stapled to worn wood\
