@@ -16,9 +16,6 @@ short_description: "Our creative editor and lead artist Nat Iwata shares a poem
   about the church that was formative to his childhood. "
 ---
 It started with pews
-
-
-It started with pews
 rows of dust soaked seats stapled to worn wood 
 the organ lady, a four-legged octopus behind a half wall. 
 Mustachioed men with brown suits, bifocals and stocking feet 
