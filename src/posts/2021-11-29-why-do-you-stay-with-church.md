@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Why Do You Stay with Church?
 date: 2021-11-29T16:45:27.837Z
+image: /img/uploads/art_why_the_church.jpeg
 contributor:
   - Erin Iwata
 artist:
@@ -11,6 +12,8 @@ tags:
   - community
   - mission
 category: Poetry
+short_description: "Erin reflects through poetry on why she stays with church
+  and her hope for the future of the Church. "
 ---
 On the eve of a Reformation\
 less Charlemagne, more Luther\
@@ -21,7 +24,7 @@ unafraid of desert fathers and iconology\
 honoring song and body\
 liturgy and Spirit-filled wonder. \
 Forward- casting all traditions aside \
-to breathe in the contradiction\
+to breath in the contradiction\
 the Oneness we may never inhabit. 
 
 Some ask why we stay with this sharded concept:\
