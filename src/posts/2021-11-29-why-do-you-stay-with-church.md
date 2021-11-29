@@ -21,7 +21,7 @@ unafraid of desert fathers and iconology\
 honoring song and body\
 liturgy and Spirit-filled wonder. \
 Forward- casting all traditions aside \
-to breath in the contradiction\
+to breathe in the contradiction\
 the Oneness we may never inhabit. 
 
 Some ask why we stay with this sharded concept:\
