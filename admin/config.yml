@@ -60,7 +60,9 @@ collections:
         # max: 3,
         options: [
           advent_2020,
+          advent_2021,
           bright_spots,
+          conference_2021,
           dear_me,
           lets_talk_about,
           age,
@@ -90,6 +92,7 @@ collections:
           "Article",
           "Art",
           "Poetry",
+          "Podcast",
           "Interview",
           "Video"
         ]
