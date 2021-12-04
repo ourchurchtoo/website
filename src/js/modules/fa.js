@@ -1,6 +1,8 @@
 // console.log('Hello world from /js/index.js!');
 import { library, dom } from '@fortawesome/fontawesome-svg-core';
 
+import { faGoogle } from '@fortawesome/free-brands-svg-icons/faGoogle';
+import { faApple } from '@fortawesome/free-brands-svg-icons/faApple';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faFacebook } from '@fortawesome/free-brands-svg-icons/faFacebook';
 import { faPinterest } from '@fortawesome/free-brands-svg-icons/faPinterest';
@@ -21,6 +23,8 @@ import { faTimes } from '@fortawesome/pro-light-svg-icons/faTimes';
 import { faUser } from '@fortawesome/pro-light-svg-icons/faUser';
 
 library.add(
+  faApple,
+  faGoogle,
   faInstagram,
   faFacebook,
   faPinterest,
