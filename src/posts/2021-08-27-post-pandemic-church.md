@@ -10,6 +10,7 @@ artist:
 tags:
   - mission
   - community
+  - conference_2021
 category: Article
 short_description: "Indy talks about the 2021 conference. "
 ---
