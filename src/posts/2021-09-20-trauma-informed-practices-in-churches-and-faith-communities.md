@@ -10,6 +10,7 @@ artist:
 tags:
   - mental_health
   - community
+  - conference_2021
 category: Video
 short_description: Deli's talk from the conference 2021.
 ---
