@@ -9,6 +9,7 @@ artist:
   - Nat Iwata
 tags:
   - race
+  - conference_2021
 category: Video
 short_description: Cynthia's talk from the conference 2021.
 ---
