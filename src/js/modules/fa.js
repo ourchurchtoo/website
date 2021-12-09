@@ -6,6 +6,7 @@ import { faApple } from '@fortawesome/free-brands-svg-icons/faApple';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faFacebook } from '@fortawesome/free-brands-svg-icons/faFacebook';
 import { faPinterest } from '@fortawesome/free-brands-svg-icons/faPinterest';
+import { faSpotify } from '@fortawesome/free-brands-svg-icons/faSpotify';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons/faWhatsapp';
 // import { faPatreon } from '@fortawesome/free-brands-svg-icons/faPatreon';
@@ -28,6 +29,7 @@ library.add(
   faInstagram,
   faFacebook,
   faPinterest,
+  faSpotify,
   faTwitter,
   faWhatsapp,
   // faPatreon,
