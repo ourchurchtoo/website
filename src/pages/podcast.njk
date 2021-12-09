@@ -10,6 +10,7 @@ eleventyComputed:
   date: "{{ podcast.short_date }}"
   image: "{{ podcast.itunes.image }}"
   short_description: "{{ podcast.content }}"
+  listen_time: "{{ podcast.itunes.duration }}"
 tags:
   - the_oral_tradition
 category: Podcast
@@ -18,7 +19,7 @@ category: Podcast
 
 <div class='row row--button'>
   <div class='col-md-offset-2 col-xs-12 col-md-4 '>
-    <a href='https://podcasts.apple.com/us/podcast/the-oral-tradition/id1599494160' class='btn btn--primary'><i class='fab fa-apple'></i> Apple Podcast</a>
+    <a href='https://podcasts.apple.com/us/podcast/the-oral-tradition/id1599494160' class='btn btn--primary'><i class='fab fa-apple'></i> Apple Podcasts</a>
   </div>
   <div class='col-xs-12 col-md-4'>
     <a href='https://open.spotify.com/show/2tgsfedDOuipRQwjkxA6nw' class='btn btn--primary'><i class='fab fa-apple'></i> Spotify</a>
