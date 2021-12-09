@@ -1,0 +1,32 @@
+---
+layout: layouts/post.njk
+pagination:
+  data: podcasts
+  size: 1
+  alias: podcast
+eleventyComputed:
+  permalink: "{{ podcast.slug }}/"
+  title: "{{ podcast.title | safe }}"
+  date: "{{ podcast.short_date }}"
+  image: "{{ podcast.itunes.image }}"
+  short_description: "{{ podcast.content }}"
+tags:
+  - the_oral_tradition
+category: Podcast
+---
+<p>{{ podcast.content }}</p>
+
+<div class='row row--button'>
+  <div class='col-md-offset-2 col-xs-12 col-md-4 '>
+    <a href='https://podcasts.apple.com/us/podcast/the-oral-tradition/id1599494160' class='btn btn--primary'><i class='fab fa-apple'></i> Apple Podcast</a>
+  </div>
+  <div class='col-xs-12 col-md-4'>
+    <a href='https://open.spotify.com/show/2tgsfedDOuipRQwjkxA6nw' class='btn btn--primary'><i class='fab fa-apple'></i> Spotify</a>
+  </div>
+</div>
+
+<div class='gallery'>
+  <div id='video' class='video__wrapper is-wider'>
+    <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ podcast.uuid }}&color=%23ed97c2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-oral-tradition" title="The Oral Tradition" target="_blank" style="color: #cccccc; text-decoration: none;">The Oral Tradition</a> · <a href={{ podcast.link }} title="{{ podcast.title }}" target="_blank" style="color: #cccccc; text-decoration: none;">{{ podcast.title }}</a></div>
+  </div>
+</div>

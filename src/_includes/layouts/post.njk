@@ -13,7 +13,7 @@ layout: /layouts/base.njk
         <h1>{{ title }}</h1>
         {% if ignore_info %}
         {% else %}
-          <h4>written on {{ page.date | readableDate }} {% if contributor %}by{% endif %} {% for person in contributor %}<a class='link--color' href='{% for item in collections.contributors %}
+          <h4>written on {{ date | readableDate }} {% if contributor %}by{% endif %} {% for person in contributor %}<a class='link--color' href='{% for item in collections.contributors %}
             {% if item.data.title === person %}
               {{ item.url }}
             {% endif %}

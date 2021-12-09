@@ -10,7 +10,7 @@ const removeHTML = (text) => {
 
 module.exports = {
   readableDate(date) {
-    return DateTime.fromJSDate(date).toFormat('dd LLLL yyyy');
+    return DateTime.fromISO(date).toFormat('dd LLLL yyyy');
   },
   currentYear() {
     return DateTime.local().toFormat('yyyy');

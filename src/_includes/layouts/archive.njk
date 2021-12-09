@@ -8,6 +8,10 @@ layout: layouts/base.njk
     label: 'All'
   },
   {
+    id: 'the_oral_tradition',
+    label: 'The Oral Tradition'
+  },
+  {
     id: 'advent_2020',
     label: 'Advent 2020'
   },
@@ -124,7 +128,7 @@ layout: layouts/base.njk
 
         <div class='archive__list'>
           <div class='row'>
-            {% for item in collections.posts %}
+            {% for item in collections.features %}
               {% include 'partials/article-mini.njk' %}
             {% endfor %}
           </div>

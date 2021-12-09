@@ -38,6 +38,10 @@ module.exports = (eleventyConfig) => {
     return collection.getFilteredByGlob('**/posts/*.md').reverse();
   });
 
+  eleventyConfig.addCollection('features', collection => {
+    return collection.getFilteredByGlob(['**/posts/*.md', '**/podcast.njk']).reverse();
+  });
+
   eleventyConfig
     .addPassthroughCopy('_redirects')
     .addPassthroughCopy('src/img')
