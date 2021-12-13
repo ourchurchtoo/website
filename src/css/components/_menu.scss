@@ -3,7 +3,7 @@ $mobile-menu-animation-time: .4s;
 
 %link-style {
   @extend %font-sans;
-  padding: 30px 0;
+  padding: 15px 0;
   color: palette(black);
   font-size: 22px;
   text-decoration: none;
@@ -17,18 +17,6 @@ $mobile-menu-animation-time: .4s;
     text-transform: uppercase;
     letter-spacing: 1px;
   }
-
-  &:hover {
-    color: palette(black);
-  }
-}
-
-%link-style-mobile {
-  @extend %font-sans;
-  padding: 30px 0;
-  color: palette(black);
-  font-size: 24px;
-  text-decoration: none;
 
   &:hover {
     color: palette(black);
