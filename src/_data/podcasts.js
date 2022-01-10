@@ -1,5 +1,5 @@
 const Parser = require('rss-parser');
-const slugify = require('@mikestreety/11ty-utils/filters/slugify');
+const slugify = require('@nothingrandom/11ty-utils/filters/slugify');
 
 const parser = new Parser();
 
