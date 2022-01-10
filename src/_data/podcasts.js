@@ -1,5 +1,5 @@
 const Parser = require('rss-parser');
-const slugify = require('@mikestreety/11ty-utils/filters/slugify');
+const slug = require('@nothingrandom/11ty-utils/filters/slug');
 
 const parser = new Parser();
 
@@ -13,7 +13,7 @@ module.exports = (async () => {
 
   const data = feed.items.map((item) => {
     item.short_date = new Date(item.isoDate).toISOString().slice(0, 10);
-    item.slug = `/podcast/${slugify(`${item.short_date} ${item.title}`)}`;
+    item.slug = `/podcast/${slug(`${item.short_date} ${item.title}`)}`;
     item.date = new Date(item.isoDate);
     item.uuid = item.guid.match(/\d{10}/gm).join('');
     return item;
