@@ -10,6 +10,7 @@ artist:
 tags:
   - community
 category: Article
+short_description: Erin shares her lament
 ---
 I was told the culture shock would be real -harder even than going overseas. I’ve been back five weeks, so this is all very fresh. Raw, like the second day of a burn. My urge is to wrap this with the positive and beautiful reasons we decided to come back: it is so lovely to be close to family. As I write this I’m sitting in my parents home getting texts from my son who is snuggled up on the couch with his cousins. Christmas this year was exhausting and collaborative -exactly like it should be. We missed this for years and we are glad to be close to family again. But this is my lamentation. If I’m honest, my greatest sorrow here is the Church. 
 
