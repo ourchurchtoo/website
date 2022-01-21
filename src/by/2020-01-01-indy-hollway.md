@@ -9,4 +9,4 @@ pronouns: she/they
 tags:
   - team
 ---
-Indy is part of the core team, providing direction and ironing out the details. They live in Scotland with their husband Benjamin and dog Nova. They loves talking about philosophy and big issues.
+Indy is part of the core team, providing direction, editing The Oral Tradition, and ironing out the details. They live in Scotland with their husband Benjamin and dog Nova. They love talking about philosophy and big issues.
