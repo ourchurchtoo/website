@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 title: Melanie Mack
 image: /img/uploads/image_melanie-mack.jpg
-role: Contributor
+role: Fundrasier & Podcast Host
 pronouns: she/her
 tags: contributor
 ---
