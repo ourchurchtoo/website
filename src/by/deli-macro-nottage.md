@@ -2,7 +2,7 @@
 layout: layouts/contributor.njk
 title: Deli Macro-Nottage
 image: /img/uploads/pic_deli-macro-nottage.jpeg
-role: Podcast Host and contributor
+role: Podcast Host
 pronouns: she/her
 tags: team
 ---
