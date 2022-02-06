@@ -38,6 +38,10 @@ module.exports = (eleventyConfig) => {
     return collection.getFilteredByGlob('**/posts/*.md').reverse();
   });
 
+  eleventyConfig.addCollection('book_club', collection => {
+    return collection.getFilteredByGlob('**/book_club/*.md').reverse();
+  });
+
   eleventyConfig.addCollection('features', collection => {
     return collection.getFilteredByGlob(['**/posts/*.md', '**/podcast.njk']).sort(function(a, b) {
       let aDate = a.date;

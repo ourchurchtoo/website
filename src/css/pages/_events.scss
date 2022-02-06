@@ -1,0 +1,31 @@
+.page--events {
+  .section--hero {
+    @include background-wide(palette(yellow));
+
+    h1 {
+      color: text-contrast(palette(yellow));
+    }
+  }
+
+  .btn {
+    position: absolute;
+    bottom: 0;
+  }
+
+  .section--events {
+    @include background-wide(palette(blue));
+
+    .events__item {
+      @include background-hover(palette(pink));
+      display: block;
+      margin-top: 20px;
+      padding: 40px 20px 20px;
+      border-radius: 6px;
+      text-align: center;
+
+      .svg-inline--fa {
+        font-size: 46px;
+      }
+    }
+  }
+}

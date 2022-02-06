@@ -1,3 +1,5 @@
+{% set tag = item.data.tags | first %}
+
 <div class='article__wrapper'>
   <a class='article-item' href='{{ item.url }}'>
     <div class='row'>
@@ -9,16 +11,19 @@
       <div class='col col-xs-12 col-md-6 {% if ((loop.index + 1) % 2 === 0) %} first-md {% endif %} col--text'>
         <div class='item__text'>
           <p class='item__info'>
+            {% if tag === 'book_club' %}
+            {% else %}
             <span class='item__category__wrapper'>
               <span class='item__category'>{{ item.data.category }} /</span>
             </span>
+            {% endif %}
             <span class='item__tags'>
               {% for tag in item.data.tags %}
                 {{ tag | postReadableLabel }}{% if loop.last !== true %},{% endif %}
               {% endfor %}
             </span>
           </p>
-          <h2 class='item__title'>{{ item.data.title }}</h2>
+          <h2 class='item__title'>{% if tag === 'book_club' %}Book of the Month{% endif %} {{ item.data.title }}</h2>
           {% include 'partials/article-description.njk' %}
           <h4 class='item__info--sub'>
             <span class='item__author'>{% include 'partials/article-contributor.njk' %}</span>{% if item.data.contributor %},<br />{% endif %}

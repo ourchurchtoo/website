@@ -10,7 +10,7 @@ layout: /layouts/base.njk
   <div class='col-xs-12 col-md-7 text-left'>
     <div class='section section--standard section--post {% if ignore_info %}section--post--ignore-info{% endif %}'>
       <div class='post__header text-center'>
-        <h1>{{ title }}</h1>
+        <h1>{% if tag === 'book_club' %}Book of the Month{% endif %} {{ title }}</h1>
         {% if ignore_info %}
         {% else %}
             <h4>{% include 'partials/post-date.njk' %} {% if contributor %}by{% endif %} {% for person in contributor %}<a class='link--color' href='{% for item in collections.contributors %}
@@ -48,7 +48,7 @@ layout: /layouts/base.njk
     </div>
   </div>
   {% if ignore_info %}
-  {% else %}
+  {% elif tag !== 'book_club' %}
     <div class='section section--post__read-next'>
       <div class='col-xs-12 text-left'>
       <h2>If you enjoyed this post about <em>{{ tag | postReadableLabel }}</em> you might want to read these next</h2>
