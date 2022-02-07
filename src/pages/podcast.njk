@@ -4,10 +4,11 @@ pagination:
   data: podcasts
   size: 1
   alias: podcast
+  addAllPagesToCollections: true
 eleventyComputed:
   permalink: "{{ podcast.slug }}/"
   title: "{{ podcast.title | safe }}"
-  date: "{{ podcast.short_date }}"
+  date: "{{ podcast.date }}"
   image: "{{ podcast.itunes.image }}"
   short_description: "{{ podcast.content }}"
   listen_time: "{{ podcast.itunes.duration }}"
@@ -18,7 +19,7 @@ category: Podcast
 <p>{{ podcast.content }}</p>
 
 <div class='row row--button'>
-  <div class='col-md-offset-2 col-xs-12 col-md-4 '>
+  <div class='col-md-offset-2 col-xs-12 col-md-4'>
     <a href='https://podcasts.apple.com/us/podcast/the-oral-tradition/id1599494160' class='btn btn--primary'><i class='fab fa-apple'></i> Apple Podcasts</a>
   </div>
   <div class='col-xs-12 col-md-4'>
