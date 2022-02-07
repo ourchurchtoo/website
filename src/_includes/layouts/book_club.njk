@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+---
+<div class='section section--hero'>
+  <div class='row'>
+    <div class='col col-xs-12 col-md-6 col--image'>
+      <img src='/img/uploads/oct_hero_image.png' />
+    </div>
+    <div class='col col-xs-12 col-md-6 col--text'>
+      <h1>{{ header }}</h1>
+      <a href='https://discord.com/invite/YtRb4XaD' class='btn btn--primary'><i class='fab fa-discord'></i> Join our discord</a>
+    </div>
+  </div>
+</div>
+<div class='section section--articles'>
+  {% for item in collections.book_club %}
+    {% include 'partials/article-item.njk' %}
+  {% endfor %}
+</div>

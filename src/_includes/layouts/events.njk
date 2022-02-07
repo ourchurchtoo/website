@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+---
+<div class='section section--hero'>
+  <div class='row'>
+    <div class='col col-xs-12 col-md-6 col--text'>
+      <h1>{{ header }}</h1>
+      {% include 'partials/social.njk' %}
+    </div>
+    <div class='col col-xs-12 col-md-6 col--image'>
+      <img src='/img/uploads/oct_hero_image.png' />
+    </div>
+  </div>
+</div>
+<div class='section section--events'>
+  <div class='row'>
+    {% for item in events %}
+      <div class='col-xs-12 col-md-{{ 12 / loop.length }}'>
+        <a href='{{ item.link }}' target='_blank' class='events__item' />
+          <i class='{{ item.icon }}'></i>
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.blurb }}</p>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>

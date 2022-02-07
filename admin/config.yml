@@ -101,6 +101,21 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: 'Short description (max 150 characters)', name: "short_description", widget: "text", required: false}
 
+  - name: "book_club" # Used in routes, e.g., /admin/collections/blog
+    label: "Book Club" # Used in the UI
+    folder: "src/book_club" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "hidden", default: "book_club"}
+      - {label: "Category", name: "category", widget: "hidden", default: "Book Club"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: 'Short description (max 150 characters)', name: "short_description", widget: "text", required: false}
+
   - label: "Pages"
     name: "pages"
     files:
@@ -125,6 +140,27 @@ collections:
             - {label: Title, name: title, widget: string}
             - {label: Blurb, name: blurb, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Events Page"
+        name: "events_page"
+        file: "src/pages/events.md"
+        fields:
+          - {label: Header, name: header, widget: string}
+          # - {label: Get Involved Intro, name: get_involved_intro, widget: string}
+          - label: "Event Items"
+            name: "events"
+            widget: list
+            fields:
+            - {label: Icon, name: icon, widget: string}
+            - {label: URL, name: link, widget: string}
+            - {label: Title, name: title, widget: string}
+            - {label: Blurb, name: blurb, widget: string}
+          # - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Book Club Page"
+        name: "book_club_page"
+        file: "src/pages/book_club.md"
+        fields:
+          - {label: Header, name: header, widget: string}
+          # - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contributors Page"
         name: "contributors_page"
         file: "src/pages/contributors.md"
