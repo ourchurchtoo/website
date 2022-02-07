@@ -42,20 +42,29 @@ module.exports = (eleventyConfig) => {
     return collection.getFilteredByGlob('**/book_club/*.md').reverse();
   });
 
-  eleventyConfig.addCollection('features', collection => {
-    return collection.getFilteredByGlob(['**/posts/*.md', '**/podcast.njk']).sort(function(a, b) {
-      let aDate = a.date;
-      if (a.data.podcast) {
-        if (a.data.podcast.date) {
-          aDate = a.data.podcast.date;
-        }
+  const podcastDate = (item) => {
+    if (item.data.podcast) {
+      if (item.data.podcast.date) {
+        return item.data.podcast.date;
       }
-      // return aDate - b.date; // sort by date - ascending
-      return b.date - aDate; // sort by date - descending
-      //return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
-      // return b.inputPath.localeCompare(a.inputPath); // sort by path - descending
-    });;
+    }
+
+    return null;
+  }
+
+  eleventyConfig.addCollection('features', collection => {
+    return collection.getFilteredByGlob(['**/podcast.njk', '**/posts/*.md']).sort(function(a, b) {
+      const aDate = podcastDate(a) || a.date;
+      const bDate = podcastDate(b) || b.date;
+
+      // // return a.date - b.date; // sort by date - ascending
+      return bDate - aDate; // sort by date - descending
+      // //return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
+      // // return b.inputPath.localeCompare(a.inputPath); // sort by path - descending
+    });
   });
+
+
 
   eleventyConfig
     .addPassthroughCopy('_redirects')
