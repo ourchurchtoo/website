@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Spotlight: Geloven in de Stad"
 date: 2021-08-15T09:50:41.835Z
-image: /img/uploads/spotlight-series-geloven-in-de-stad.jpg
+image: /img/uploads/art_spotlight-series-geloven-in-de-stad.jpg
 contributor:
   - Erin Iwata
 tags:

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Women in the Post-Pandemic Church
 date: 2021-10-04T10:30:49.665Z
-image: /img/uploads/alicia-hovanas-2-.jpg
+image: /img/uploads/art_women-post-pandemic-church.jpg
 contributor:
   - " Alicia Hovanas"
 artist:

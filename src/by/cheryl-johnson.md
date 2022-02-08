@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Cheryl Johnson
-image: /img/uploads/image_cheryl-johnson.jpeg
+image: /img/uploads/pic_cheryl-johnson.jpeg
 role: Contributor
 tags: contributor
 ---

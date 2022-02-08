@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Post-Pandemic Church
 date: 2021-08-27T09:07:15.060Z
-image: /img/uploads/art-post_pandemic_church.jpeg
+image: /img/uploads/art_post-pandemic-church.jpeg
 contributor:
   - Indy Hollway
 artist:

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Constant One
 date: 2022-01-31T10:35:08.230Z
-image: /img/uploads/art-a_lamentation.jpg
+image: /img/uploads/art_constant-one.jpg
 contributor:
   - Asher Hollway
 artist:

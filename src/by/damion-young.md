@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Damion Young
-image: /img/uploads/screen-shot-2021-08-10-at-11.28.55-pm.png
+image: /img/uploads/pic_damion-young.png
 role: Contributor
 instagram: https://www.instagram.com/ministries2018/
 tags: contributor

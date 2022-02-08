@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Queer People in the Post-Pandemic Church
 date: 2021-10-12T13:51:49.697Z
-image: /img/uploads/mark-ehrenstein-2-.png
+image: /img/uploads/art_lgbtq-post-pandemic-church.png
 contributor:
   - Mark Ehrenstein
 artist:

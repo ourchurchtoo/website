@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Why Another Church: Damion Young's story"
 date: 2021-08-10T21:38:25.722Z
-image: /img/uploads/sogmbanner.jpg
+image: /img/uploads/art_Why-Another-Church-Damion-Youngs-story.jpg
 contributor:
   - Damion Young
   - Erin Iwata

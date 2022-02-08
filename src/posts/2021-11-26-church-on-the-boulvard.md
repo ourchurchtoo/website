@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Church on the Boulevard
 date: 2021-11-26T18:25:54.871Z
-image: /img/uploads/blvd.jpg
+image: /img/uploads/art_church-one-the-boulevard.jpg
 contributor:
   - Nat Iwata
 artist:

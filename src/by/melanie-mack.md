@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Melanie Mack
-image: /img/uploads/image_melanie-mack.jpg
+image: /img/uploads/pic_melanie-mack.jpg
 role: Fundraiser & Podcast Host
 pronouns: she/her
 tags: team

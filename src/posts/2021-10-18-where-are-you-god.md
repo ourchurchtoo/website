@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Where Are You God?
 date: 2021-10-18T09:51:19.250Z
-image: /img/uploads/avipoem.jpg
+image: /img/uploads/art_where-are-you-god.jpg
 contributor:
   - Avinash Aaron
 artist:

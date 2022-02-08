@@ -1,7 +1,7 @@
 ---
 layout: layouts/contributor.njk
 title: Reverend Jide Macaulay
-image: /img/uploads/jide-bw-smiles.jpg
+image: /img/uploads/pic_reverend-jide-macaulay.jpg
 role: Contributor
 instagram: https://www.instagram.com/jidemacaulay/
 pronouns: He/Him
