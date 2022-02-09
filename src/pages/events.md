@@ -9,9 +9,9 @@ events:
   - icon: fal fa-calendar-star
     link: /events/calendar.html
     title: Calendar
-    blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    blurb: "Check out our calendar to keep up to date with all our upcoming events. "
   - icon: fal fa-books
     link: /book_club/
     title: Book Club
-    blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    blurb: "Join our book club! "
 ---
