@@ -3,7 +3,8 @@ layout: layouts/events.njk
 title: Events
 menukey: events
 permalink: /events/index.html
-header: We've recently branched out and started to hold events. You can find more information about each in their dedicated pages found below.
+header: "Workshops, book clubs, and even birthdays: we need no excuse to plan an
+  event. Take a look at our agenda, and sync it with yours!"
 events:
   - icon: fal fa-calendar-star
     link: /events/calendar.html
