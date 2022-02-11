@@ -13,5 +13,6 @@ events:
   - icon: fal fa-books
     link: /book_club/
     title: Book Club
-    blurb: "Join our book club! "
+    blurb: We want to make connections from one Jesus-lover to another and what
+      better way than through our collective love for books?
 ---
