@@ -9,7 +9,7 @@
 
   .btn {
     position: absolute;
-    bottom: 0;
+    bottom: -20px;
   }
 
   .section--events {
@@ -25,6 +25,18 @@
 
       .svg-inline--fa {
         font-size: 46px;
+      }
+    }
+  }
+}
+
+.page--book_club {
+  .section--hero {
+    .col--text {
+      h1 {
+        position: relative;
+        top: unset;
+        transform: unset;
       }
     }
   }
