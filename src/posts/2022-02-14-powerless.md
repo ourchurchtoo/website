@@ -12,9 +12,7 @@ tags:
 category: Video
 short_description: Melanie bravely shares a poignant story of assault and allyship.
 ---
-Trigger Warning, Melanie speaks bravely and honestly about sexual assault in this video. Watch with care. 
-
-
+Trigger Warning, Melanie speaks bravely and honestly about sexual assault in this video. Please watch with care. 
 
 <div class='gallery'>
   <div id='video' class='video__wrapper is-wider'>
