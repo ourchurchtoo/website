@@ -1,0 +1,31 @@
+.coffee {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  background-color: palette(blue);
+  box-shadow: 0 0 0 0 rgba(0,0,0,0);
+  @include transition(box-shadow);
+
+  @include breakpoint(md) {
+    bottom: 50px;
+    right: 50px;
+    width: 100px;
+    height: 100px;
+  }
+
+  svg {
+    @include center(both);
+    font-size: 38px;
+
+    @include breakpoint(md) {
+      font-size: 52px;
+    }
+  }
+
+  &:hover {
+    box-shadow: 10px 10px 12px 0px rgba(0,0,0,.2);
+  }
+}
