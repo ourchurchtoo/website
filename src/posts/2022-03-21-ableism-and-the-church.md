@@ -68,7 +68,6 @@ Ableism in the church is a serious problem. I am not the only person with storie
 
 I believe in the divinity and joy of diversity. Who are we to say God made a mistake in how diverse Their creation is? Yet unsolicited prayers for “healing” to anyone outside the norm, and the frequent ostracisation of disabled and neurodivergent folk is rife in our churches. In the activism world, we remind each other that our struggles are interconnected and that the liberation of the marginalised is liberation for all; I think this is true for the church too. Can you imagine the freedom and joy that would be present within Christian communities if we celebrated diversity and took the time to listen to others instead of making assumptions about people’s personal faith? Can you imagine a church that reflects the divine diversity of creation? We are told in Genesis that when God created the world, They declared “it is good”. Not some of it is good, all of it is good. Let’s start embracing the goodness.
 
-**\
-*AFAB or Assigned Female At Birth describes people who regardless of their gender were assumed to be female when they were born.**
+**\*AFAB or Assigned Female At Birth describes people who regardless of their gender were assumed to be female when they were born.**
 
 **\*\*An allosexual is someone who is not asexual or another sexuality on the asexual spectrum. In this post, I use “allosexuality” to denote the typical and healthy sexual attraction that allosexuals experience and are encouraged to repress in churches.**
