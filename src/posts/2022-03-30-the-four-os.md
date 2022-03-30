@@ -5,8 +5,7 @@ date: 2022-03-30T04:33:51.677Z
 image: /img/uploads/art_thefour-o-s-.jpg
 contributor:
   - Reverend Jide Macaulay
-artist:
-  - Erin Iwata
+artist: []
 tags:
   - allyship
   - lgbtq
