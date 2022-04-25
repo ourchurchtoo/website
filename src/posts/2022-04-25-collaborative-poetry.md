@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Collaborative Poetry
+title: In Response To...
 date: 2022-04-25T05:39:15.855Z
 image: /img/uploads/art_melanie_colab_poetry.png
 contributor:
