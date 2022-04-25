@@ -12,8 +12,7 @@ tags:
   - community
   - mental_health
 category: Poetry
-short_description: 'We are happy to share collaborative work: Melanie writes a
-  poem in response to the article "Facing My Own Deaths" '
+short_description: ' Melanie writes a poem in response to the article "Facing My Own Deaths" '
 ---
 when I hurt
 
