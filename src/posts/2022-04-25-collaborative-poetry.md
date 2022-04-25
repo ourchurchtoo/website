@@ -38,58 +38,36 @@ into pure
 
 empathy
 
+> refined it\
+> into pure\
+> empathy
 
+**Jesus of the Scars**\
+*inspired by Jesus of the Scars by Edward Shillito*
 
-**Jesus of the Scars**
-
-if I have ever sought thee
-
-i seek thee now
-
-your eyes shine
-
-in the dark
-
-the past 
-
+if I have ever sought thee\
+i seek thee now\
+your eyes shine\
+in the dark\
+the past \
 the stars
 
-
-
-i need you
-
-your thorned scratched brow
-
-your face
-
-betrayed
-
-paid
-
-your grace
-
+i need you\
+your thorned scratched brow\
+your face\
+betrayed\
+paid\
+your grace\
 your scars
 
-
-
-the other gods were strong
-
-but you were weak
-
-they marched or rode
-
-you stumbled
-
+the other gods were strong\
+but you were weak\
+they marched or rode\
+you stumbled\
 to a throne
 
-
-
-to our pain
-
-only divine pain
-
-can speak
-
-and in my god
-
+to our pain\
+only divine pain\
+can speak\
+and in my god\
 my pain is not alone
