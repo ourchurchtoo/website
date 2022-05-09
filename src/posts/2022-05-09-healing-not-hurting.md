@@ -12,7 +12,7 @@ tags:
   - testimony
   - relationships
 category: Article
-short_description: "Andy shares his story and how to compassionately "
+short_description: Andy shares his story and how to compassionately approach praying for others.
 ---
 I recently shared a video testimony at my church. When I watched it for the first time, I was shocked by how disabled I looked! I never feel that ‘disabled’. I find plenty of enjoyment and, after many years, fulfillment. Something not shown on the video was my insomnia. Often when I’m unable to sleep, I try to use the time to pray.. my mind wanders or I run out of stuff to say after about ten minutes, but I find I can spend hours pondering theological questions. Maybe this is my way of praying! 
 
