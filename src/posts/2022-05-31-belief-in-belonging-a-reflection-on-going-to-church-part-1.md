@@ -14,8 +14,8 @@ tags:
   - bible
   - culture
 category: Article
-short_description: 'Ben starts the discussion asking "why do we gather?"
-  reflecting on the Nicene Creed. This is part 1 of a 3 part series from Ben. '
+short_description: "Ben kicks off a new series where we ask why we gather. Today
+  Ben reflects on the Nicene Creed. This is part 1 of a 3 part essay from Ben. "
 ---
 A friend recently shared that he does not go to church because he does not believe in Jesus or God. This entwinement of churchgoing with belief expresses a popular belief itself: the central motivation for attending church is commonly thought to be belief.
 
