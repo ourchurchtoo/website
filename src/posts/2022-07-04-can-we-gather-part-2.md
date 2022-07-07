@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Can We Gather? Part 2
 date: 2022-07-04T22:06:24.104Z
-image: /img/uploads/art_can-we-gather-part1.jpg
+image: /img/uploads/art_can-we-gather-part2.jpg
 contributor:
   - Genevieve Duque Adão
 artist:
