@@ -16,8 +16,6 @@ short_description: 'Part 2 of "Can We Gather?"  In this article, Genevieve addre
 ---
 *This is a continuation from ["Can We Gather?" Part 1.](https://ourchurchtoo.com/posts/2022-06-28-can-we-gather/)  In part  1 Genevieve's describes two elements that made them uneasy, even in affirming churches. The first element was how they viewed other churches. Part two picks up here:*
 
-
-
 The second one, shame, is perhaps what I have felt more palpably but had not noticed until recently. A friend of mine recently confessed to me of breaking my trust several years ago and that he had felt ashamed to tell me but felt he needed to. He was scared that his confession would have meant the end of our friendship. Part of me was sad that he thought that I would end our decade-long friendship over a mistake, but what I was really upset by was seeing his deeply embodied shame. His shame made me confront my own.  
 
 > There is no place in the world I feel more full of shame than in a church.  
@@ -41,3 +39,7 @@ I realised then just how much shame I am still carrying in my faith. It’ll be 
 >  I realised then just how much shame I am still carrying in my faith...I have now tasted how good a church can be.  
 
 I think that part of the reason my church is so shame-free and non-toxic is that it’s made up of a community of spiritually abused people from a diverse range of religious and other sorts of backgrounds. Everyone understands what it is like to have been excluded and hurt by Christians and the rest of the world and they are able to come together and listen openly to each other, not attempt to convert anyone to a singular way of thinking, and sincerely care for each other.
+
+
+
+*The finale of "Can We Gather?" Genevieve celebrates an inclusive church community.  Look for "Can We Gather? Part 3."*
