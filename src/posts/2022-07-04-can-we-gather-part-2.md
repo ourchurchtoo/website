@@ -14,7 +14,9 @@ tags:
 category: Article
 short_description: 'Part 2 of "Can We Gather?"  In this article, Genevieve addresses shame. '
 ---
-*This is a continuation from ["Can We Gather?" Part 1.](https://ourchurchtoo.com/posts/2022-06-28-can-we-gather/)  In part 1, Genevieve's descripes two elements that made her uneasy, even in affirming churches. The first element was how they viewed other churches. Part two picks up here:*
+*This is a continuation from ["Can We Gather?" Part 1.](https://ourchurchtoo.com/posts/2022-06-28-can-we-gather/)  In part  1 Genevieve's describes two elements that made them uneasy, even in affirming churches. The first element was how they viewed other churches. Part two picks up here:*
+
+
 
 The second one, shame, is perhaps what I have felt more palpably but had not noticed until recently. A friend of mine recently confessed to me of breaking my trust several years ago and that he had felt ashamed to tell me but felt he needed to. He was scared that his confession would have meant the end of our friendship. Part of me was sad that he thought that I would end our decade-long friendship over a mistake, but what I was really upset by was seeing his deeply embodied shame. His shame made me confront my own.  
 
