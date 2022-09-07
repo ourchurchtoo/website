@@ -37,9 +37,9 @@ Too many people are bullied in churches. They are told that talking about their 
 
 There are those who would disagree with me, who would say that 'The Church' on the whole is changing, and that we are now being invited to the table. That's great, but I want more. I want a truly open table where only God issues the invitation. 
 
-I want a place where we celebrate what it is to be queer and serve the community of which we are a part. I want a church where we pray for drag queens and celebrate leathermen, a church where we give out condoms and talk about safer sex, a church where we are able to practice what we preach because it's relevant and real. I refuse to be bullied into pretending that God is more straight than Gay, that the Holy Spirit can be dictated to in any way, or that Jesus has stopped walking on the margins where two thousand years ago he also refused to be bullied by those with privilege.”
-
 >  I want a truly open table where only God issues the invitation. 
+
+I want a place where we celebrate what it is to be queer and serve the community of which we are a part. I want a church where we pray for drag queens and celebrate leathermen, a church where we give out condoms and talk about safer sex, a church where we are able to practice what we preach because it's relevant and real. I refuse to be bullied into pretending that God is more straight than Gay, that the Holy Spirit can be dictated to in any way, or that Jesus has stopped walking on the margins where two thousand years ago he also refused to be bullied by those with privilege.”
 
 
 
