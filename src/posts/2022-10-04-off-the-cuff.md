@@ -19,6 +19,12 @@ short_description: "Sarah Baptiste shares her story through a video interview
 ---
 M﻿eet Sarah Baptiste, an advocate, inclusion and relationship coach. Sarah started Replenish Life to help people find their personal purpose, passion and poise so that they can be the difference they want to see in the world. In this video Sarah tells her story interviewed by her coworker Sharon in this video first released on Off the Cuff. 
 
+https://youtu.be/5odELZXR4vc
+
+<https://youtu.be/5odELZXR4vc>
+
+
+
 ![](https://youtu.be/5odELZXR4vc)
 
 ```
