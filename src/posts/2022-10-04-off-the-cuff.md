@@ -11,6 +11,8 @@ tags:
   - lgbtq
   - testimony
   - race
+  - culture
+  - guest
 category: Video
 short_description: "Sarah Baptiste shares her story through a video interview
   first published on Off The Cuff. "
