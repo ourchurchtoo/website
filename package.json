@@ -21,7 +21,6 @@
     "build": "run-s clean styles:prod scripts:prod eleventy:default --print-label images:prod",
     "lint": "eslint --ext .js src",
     "postbuild:lint": "jsonlint dist/*.json -q",
-    "prepublish": "yarn run snyk-protect",
     "snyk-protect": "snyk protect",
     "build-postbuild": "yarn run build postbuild:lint; node analyze-data.js"
   },
