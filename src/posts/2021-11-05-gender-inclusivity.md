@@ -4,7 +4,7 @@ title: Gender Inclusivity
 date: 2021-11-05T11:13:29.442Z
 image: /img/uploads/art_gender-inclusivity.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
 tags:
   - gender
   - mission

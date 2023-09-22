@@ -4,11 +4,11 @@ title: "Advent: Benjamin's Christmas Wish List"
 date: 2021-12-16T14:44:58.829Z
 image: /img/uploads/art_benjamins-christmas-wish-list.png
 contributor:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - advent_2021
 category: Article
-short_description: "Benjamin Hollway shares his Christmas Wish List. "
+short_description: "Benjamin Grant shares his Christmas Wish List. "
 ---
 This year has been one of political upheaval, climate collapse, and endless news about the pandemic. We've been stuck inside, stuck wishing for a better world. With that in mind, here is my Christmas wish list. 
 

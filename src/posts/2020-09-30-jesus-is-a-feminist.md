@@ -4,7 +4,7 @@ title: Jesus Is A Feminist
 date: 2020-09-30T07:09:34.911Z
 image: /img/uploads/art_jesus-is-a-feminist.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Hadeel McCall
 tags:

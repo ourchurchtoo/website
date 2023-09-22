@@ -4,7 +4,7 @@ title: Our New Book Club
 date: 2021-08-23T14:29:19.014Z
 image: /img/uploads/art_our-new-book-club.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 tags:
   - mission
 category: Article

@@ -4,7 +4,7 @@ title: "Bright Spots: Advocacy"
 date: 2020-09-25T10:43:49.065Z
 image: /img/uploads/art_bright-spots-advocacy.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Brandon Heim

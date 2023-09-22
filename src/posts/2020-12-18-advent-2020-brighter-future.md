@@ -4,7 +4,7 @@ title: "Advent 2020: Brighter Future"
 date: 2020-12-18T08:58:42.578Z
 image: /img/uploads/art_advent-brighter-future.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - advent_2020

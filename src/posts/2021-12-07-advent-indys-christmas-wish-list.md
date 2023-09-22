@@ -4,7 +4,7 @@ title: "Advent: Indy's Christmas Wish List"
 date: 2021-12-07T11:01:21.406Z
 image: /img/uploads/art_advent-indys-christmas-wish-list.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
 tags:
   - advent_2021
 category: Article

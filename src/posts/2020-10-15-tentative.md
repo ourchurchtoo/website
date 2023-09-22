@@ -4,7 +4,7 @@ title: Tentative
 date: 2020-10-19T07:36:44.745Z
 image: /img/uploads/art_tentative.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Ilona Wilson
 tags:

@@ -4,7 +4,7 @@ title: "Bright Spots: Anti-Ableism"
 date: 2020-10-09T11:34:36.415Z
 image: /img/uploads/art_bright-spots-anti-ableism.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Brandon Heim

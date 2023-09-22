@@ -6,7 +6,7 @@ image: /img/uploads/art_what-the-church-needs-to-know-about-mental-health.jpg
 contributor:
   - Kimberly Snow, PsyD
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - mental_health
   - disability

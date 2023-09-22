@@ -4,9 +4,9 @@ title: "Environmental Resources "
 date: 2020-11-25T11:53:07.778Z
 image: /img/uploads/art_environmental-resources.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - environment
 category: Article

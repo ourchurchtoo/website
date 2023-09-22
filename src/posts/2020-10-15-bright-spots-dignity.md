@@ -4,7 +4,7 @@ title: "Bright Spots: Dignity"
 date: 2020-10-16T07:46:16.371Z
 image: /img/uploads/art_bright-spots-dignity.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Brandon Heim

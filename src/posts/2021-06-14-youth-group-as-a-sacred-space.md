@@ -6,7 +6,7 @@ image: /img/uploads/art_youth-group-as-sacred-spaces.jpg
 contributor:
   - Deli Macro-Nottage
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - age
   - community

@@ -4,7 +4,7 @@ title: What Is Our Church Too?
 date: 2020-10-31T16:49:35.619Z
 image: /img/uploads/art_what-is-our-church-too.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - mission

@@ -2,7 +2,7 @@
   "name": "website",
   "version": "1.0.6",
   "description": "Our Church Too's website",
-  "author": "Benjamin Hollway <benjamin@nothingrandom.com>",
+  "author": "Benjamin Grant <benjamin@nothingrandom.com>",
   "license": "MIT",
   "main": "index.js",
   "scripts": {

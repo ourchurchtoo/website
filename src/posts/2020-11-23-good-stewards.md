@@ -4,7 +4,7 @@ title: Good Stewards
 date: 2020-11-23T08:24:35.926Z
 image: /img/uploads/art_good-stewards.jpeg
 contributor:
-  - Benjamin Hollway
+  - Benjamin Grant
 artist:
   - Nat Iwata
 tags:

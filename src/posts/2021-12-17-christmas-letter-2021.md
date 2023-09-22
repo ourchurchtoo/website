@@ -4,7 +4,7 @@ title: Christmas Letter 2021
 date: 2021-12-17T20:51:57.969Z
 image: /img/uploads/art_christmas-letter-2021.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Erin Iwata

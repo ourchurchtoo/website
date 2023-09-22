@@ -4,7 +4,7 @@ title: Celebrating All Bodies
 date: 2021-04-12T12:21:05.836Z
 image: /img/uploads/art_celebrating-all-bodies.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Nat Iwata
 tags:

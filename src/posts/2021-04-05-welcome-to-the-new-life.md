@@ -5,7 +5,7 @@ date: 2021-04-05T18:34:17.077Z
 image: /img/uploads/art_welcome-to-the-new-life.jpg
 contributor:
   - Erin Iwata
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Nat Iwata
 tags:

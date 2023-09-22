@@ -4,7 +4,7 @@ title: Growth Culture
 date: 2021-03-22T09:44:24.807Z
 image: /img/uploads/art_growth-culture.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Hadeel McCall

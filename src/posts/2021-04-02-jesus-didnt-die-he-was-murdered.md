@@ -4,7 +4,7 @@ title: Jesus Didn't Die, He Was Murdered
 date: 2021-04-02T14:18:40.069Z
 image: /img/uploads/art_jesus-didnt-die-he-was-murdered.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Nat Iwata

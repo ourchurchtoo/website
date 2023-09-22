@@ -4,7 +4,7 @@ title: "Bright Spots: Feminism"
 date: 2020-10-02T07:45:10.504Z
 image: /img/uploads/art_bright-spots-feminism.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - bright_spots

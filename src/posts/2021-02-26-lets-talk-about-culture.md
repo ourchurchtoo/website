@@ -5,7 +5,7 @@ date: 2021-02-26T15:50:21.497Z
 image: /img/uploads/art_lets-talk-about-culture.jpg
 contributor:
   - Elisabeth Hoole
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Brandon Heim
 tags:
@@ -16,7 +16,7 @@ category: Interview
 ---
 This article is written based on answers to an upcoming podcast. Whilst we attempt to uphold the author's opinions, bear in mind that their answers may have been interpreted by us: all the more reason to catch the interviews when they go live this spring!
 
-**Introduction by Indy Hollway:**\
+**Introduction by Indy Grant:**\
 The podcast from which this piece is taken is a deeply personal reflection of Elisabeth’s Tamil culture. All too often, those from Western cultures forget the important role that colonialism played in developing many of the sub-cultures that we identify with, including our religion. The different ways in which we interact with the Bible, and our differing views of God, still reflect some of these structures, and we should not take our understanding of religion for granted. There is so much that we can learn from other cultures, both about the world and about ourselves. What biases and prejudices do we hold against those who are different from ourselves? What assumptions do we make about God and our relationship with Jesus based on our culture? These are big questions indeed, so we asked Elisabeth if she would unpack culture a little bit for us. 
 
 **What is culture?**\

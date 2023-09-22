@@ -5,7 +5,7 @@ date: 2021-02-12T09:16:27.664Z
 image: /img/uploads/art_lets-talk-about-lgbtq.jpg
 contributor:
   - Mark Ehrenstein
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Brandon Heim
 tags:
@@ -16,7 +16,7 @@ category: Interview
 ---
 This article is written based on answers to an upcoming podcast. Whilst we attempt to uphold the author's opinions, bear in mind that their answers may have been interpreted by us: all the more reason to catch the interviews when they go live this spring!
 
-**Introduction by Indy Hollway:**\
+**Introduction by Indy Grant:**\
 When we asked Mark whether he would write a ‘Let’s Talk About’ about the LGBTQ+ community, he immediately sent us not only a list of useful and well-explained definitions but also a beautiful piece about why it’s crucial that Christians use the information to allow them to become more compassionate towards the community. We also got the absolute pleasure of interviewing Mark on this same topic for a future podcast. Something that really stuck with us was when Mark, talking to young gay Christians who are questioning their identity, said: “someone will come along who loves you for who you are.”\
 As Christians, we can get so caught up in theological questions that we forget that the community we are discussing consists of real people. Understanding and applying the Bible is important, but we should not put it between us and another person, as a shield of misunderstanding. \
 Mark mentioned also “I don’t need you to accept me, or understand everything about me, I need you to ally me.” This is what we really call you to consider when reading this piece. Loving and respecting someone doesn’t mean you agree with everything they say, but it means you value them as an equal human being, and what is more Christ-like than that? 

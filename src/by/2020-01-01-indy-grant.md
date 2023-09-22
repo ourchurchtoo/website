@@ -1,10 +1,10 @@
 ---
 layout: layouts/contributor.njk
-permalink: /by/indy-hollway/index.html
-title: Indy Hollway
+permalink: /by/indy-grant/index.html
+title: Indy Grant
 image: /img/uploads/pic_indy-hollway.jpeg
 role: Founder & Administrative Director
-instagram: https://www.instagram.com/indy_hollway/
+instagram: https://www.instagram.com/indiazoeann/
 pronouns: she/they
 tags:
   - team

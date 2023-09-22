@@ -4,7 +4,7 @@ title: Why Are We Doing This?
 date: 2020-09-12T08:00:56.748Z
 image: /img/uploads/art_why-are-we-doing-this.jpeg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - mission

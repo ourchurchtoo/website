@@ -4,7 +4,7 @@ title: An Open Letter from Indy
 date: 2022-05-19T19:19:05.234Z
 image: /img/uploads/art_indyletter.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Nat Iwata
 tags:

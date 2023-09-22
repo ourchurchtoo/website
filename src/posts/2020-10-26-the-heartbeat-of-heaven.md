@@ -6,7 +6,7 @@ image: /img/uploads/art_heartbeat-of-heaven.jpg
 contributor:
   - Cynthia Akinsanya
 artist:
-  - Indy Hollway
+  - Indy Grant
 tags:
   - race
   - family

@@ -4,7 +4,7 @@ title: "Spotlight Series: This Is Gendered"
 date: 2021-07-02T09:36:52.885Z
 image: /img/uploads/art_spotlight-series-this-is-gendered.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - gender

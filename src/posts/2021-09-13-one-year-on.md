@@ -4,7 +4,7 @@ title: One Year On
 date: 2021-09-13T17:00:39.412Z
 image: /img/uploads/art_one-year-on.jpeg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - mission

@@ -4,7 +4,7 @@ title: Ask The Children
 date: 2021-05-31T19:41:18.917Z
 image: /img/uploads/art_ask-the-children.jpeg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
   - Nat Iwata
 tags:

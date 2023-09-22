@@ -4,7 +4,7 @@ title: Eyes Wide Open
 date: 2021-06-07T12:07:03.016Z
 image: /img/uploads/art_eyes-wide-open.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Nat Iwata

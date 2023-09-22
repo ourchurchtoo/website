@@ -4,7 +4,7 @@ title: "Bright Spots: Modesty"
 date: 2020-11-06T12:31:43.101Z
 image: /img/uploads/art_bright-spots-modesty.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Brandon Heim

@@ -6,7 +6,7 @@ image: /img/uploads/art_on-a-mission.jpg
 contributor:
   - Melanie Mack
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - mission
   - community

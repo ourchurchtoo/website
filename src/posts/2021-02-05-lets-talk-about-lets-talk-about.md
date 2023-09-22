@@ -4,7 +4,7 @@ title: Let's Talk About... Let's Talk About!
 date: 2021-02-05T10:04:04.477Z
 image: /img/uploads/art_lets-talk-about-lta.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Brandon Heim

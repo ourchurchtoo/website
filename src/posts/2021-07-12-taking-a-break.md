@@ -4,7 +4,7 @@ title: Taking A Break
 date: 2021-07-12T13:20:27.492Z
 image: /img/uploads/art_taking-a-break.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - mission

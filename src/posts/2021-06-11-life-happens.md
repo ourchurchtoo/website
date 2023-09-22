@@ -4,7 +4,7 @@ title: Life Happens
 date: 2021-06-11T07:59:23.901Z
 image: /img/uploads/art_life-happens..png
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - relationships

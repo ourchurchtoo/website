@@ -1,8 +1,8 @@
 ---
 only_posts: true
 layout: layouts/contributor.njk
-permalink: /by/benjamin-hollway/index.html
-title: Benjamin Hollway
+permalink: /by/benjamin-grant/index.html
+title: Benjamin Grant
 image: /img/uploads/pic_benjamin-hollway.jpg
 role: "Lead Developer "
 instagram: https://www.instagram.com/nothingrandom/

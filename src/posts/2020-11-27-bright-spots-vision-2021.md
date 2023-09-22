@@ -4,7 +4,7 @@ title: "Bright Spots: Vision 2021"
 date: 2020-11-27T09:26:45.531Z
 image: /img/uploads/art_bright-spots-vision-2021.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Brandon Heim

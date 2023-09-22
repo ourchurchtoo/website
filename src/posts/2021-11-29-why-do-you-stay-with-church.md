@@ -6,7 +6,7 @@ image: /img/uploads/art_why_the_church.jpeg
 contributor:
   - Erin Iwata
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - testimony
   - community

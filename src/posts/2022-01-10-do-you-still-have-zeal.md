@@ -4,9 +4,9 @@ title: Do You Still Have Zeal?
 date: 2022-01-10T21:07:20.745Z
 image: /img/uploads/art_do-you-still-have-zeal.jpeg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
-  - Indy Hollway
+  - Indy Grant
 tags:
   - testimony
 category: Article

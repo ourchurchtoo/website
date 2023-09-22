@@ -4,9 +4,9 @@ title: We Have Work To Do
 date: 2021-03-17T09:53:24.401Z
 image: /img/uploads/art_we-have-work-to-do.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - gender
   - mental_health

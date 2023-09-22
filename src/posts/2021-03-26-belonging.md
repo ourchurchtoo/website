@@ -6,7 +6,7 @@ image: /img/uploads/art_belonging.jpg
 contributor:
   - Joann Renee Boswell
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - allyship
   - community

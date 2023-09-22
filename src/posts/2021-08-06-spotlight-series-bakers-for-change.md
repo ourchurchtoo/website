@@ -4,7 +4,7 @@ title: "Spotlight Series: Bakers For Change"
 date: 2021-08-06T19:14:37.005Z
 image: /img/uploads/art_bakers-for-change.png
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 tags:
   - spotlight

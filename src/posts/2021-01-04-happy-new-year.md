@@ -4,7 +4,7 @@ title: Happy New Year!
 date: 2021-01-04T08:33:58.210Z
 image: /img/uploads/art_happy-new-year.jpg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
   - Nat Iwata

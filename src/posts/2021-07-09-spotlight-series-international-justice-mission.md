@@ -5,7 +5,7 @@ date: 2021-07-09T19:12:10.309Z
 image: /img/uploads/art_spotlight-international-justice-mission.png
 contributor:
   - Erin Iwata
-  - Indy Hollway
+  - Indy Grant
 tags:
   - spotlight
 category: Article

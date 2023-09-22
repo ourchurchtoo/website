@@ -4,10 +4,10 @@ title: New Years Resolutions
 date: 2021-01-06T09:47:46.023Z
 image: /img/uploads/art_new-years-resolutions-21.jpeg
 contributor:
-  - Indy Hollway
+  - Indy Grant
   - Erin Iwata
 artist:
-  - Benjamin Hollway
+  - Benjamin Grant
 tags:
   - mission
   - community
